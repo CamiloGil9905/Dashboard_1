@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard Diario — Seguridad Electrónica</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0d0f12;
+    --surface: #13161b;
+    --surface2: #1a1e25;
+    --border: rgba(255,255,255,0.07);
+    --border2: rgba(255,255,255,0.12);
+    --text: #e8eaf0;
+    --text2: #8b90a0;
+    --text3: #555b6e;
+    --accent: #4f8ef7;
+    --accent2: #2dd4a0;
+    --warn: #f59e3f;
+    --danger: #f06060;
+    --co: #2dd4a0;
+    --world: #4f8ef7;
+    --font: 'DM Sans', sans-serif;
+    --mono: 'DM Mono', monospace;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  
+  body {
+    font-family: var(--font);
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 24px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  /* ── HEADER ── */
+  .header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-bottom: 28px;
+    padding-bottom: 20px;
+    border-bottom: 0.5px solid var(--border);
+  }
+  .header-brand { display: flex; align-items: center; gap: 10px; }
+  .brand-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent2); box-shadow: 0 0 8px var(--accent2); animation: pulse 2.5s ease-in-out infinite; }
+  @keyframes pulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:.6;transform:scale(.85)} }
+  .brand-name { font-size: 13px; font-weight: 500; color: var(--text2); letter-spacing: .02em; }
+  .header-date { text-align: right; }
+  .date-main { font-size: 22px; font-weight: 300; color: var(--text); letter-spacing: -.01em; }
+  .date-sub { font-size: 11px; color: var(--text3); margin-top: 2px; font-family: var(--mono); }
+
+  /* ── METRICS BAR ── */
+  .metrics { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 20px; }
+  .metric {
+    background: var(--surface);
+    border: 0.5px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 16px;
+    position: relative;
+    overflow: hidden;
+  }
+  .metric::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    border-radius: 10px 10px 0 0;
+  }
+  .metric.m-blue::before { background: var(--accent); }
+  .metric.m-green::before { background: var(--accent2); }
+  .metric.m-warn::before { background: var(--warn); }
+  .metric.m-red::before { background: var(--danger); }
+  .metric-label { font-size: 10px; color: var(--text3); text-transform: uppercase; letter-spacing: .06em; font-family: var(--mono); margin-bottom: 6px; }
+  .metric-val { font-size: 26px; font-weight: 300; color: var(--text); letter-spacing: -.02em; }
+  .metric-sub { font-size: 10px; color: var(--text3); margin-top: 3px; }
+
+  /* ── GRID ── */
+  .grid-main { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 14px; }
+  .grid-bottom { display: grid; grid-template-columns: 1fr; gap: 14px; }
+
+  /* ── PANEL ── */
+  .panel {
+    background: var(--surface);
+    border: 0.5px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  .panel-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 16px;
+    border-bottom: 0.5px solid var(--border);
+  }
+  .panel-title {
+    font-size: 11px;
+    font-weight: 500;
+    color: var(--text2);
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    font-family: var(--mono);
+    display: flex;
+    align-items: center;
+    gap: 7px;
+  }
+  .panel-title-dot { width: 6px; height: 6px; border-radius: 50%; }
+  .dot-blue { background: var(--accent); }
+  .dot-green { background: var(--accent2); }
+  .dot-warn { background: var(--warn); }
+  .panel-count {
+    font-size: 10px;
+    font-family: var(--mono);
+    color: var(--text3);
+    background: var(--surface2);
+    padding: 2px 8px;
+    border-radius: 99px;
+    border: 0.5px solid var(--border);
+  }
+  .panel-body { padding: 12px 14px; }
+
+  /* ── NEWS ── */
+  .news-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 0; }
+  .news-col { padding: 12px 14px; }
+  .news-col:first-child { border-right: 0.5px solid var(--border); }
+  .news-col-label {
+    font-size: 10px;
+    font-family: var(--mono);
+    color: var(--text3);
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .news-col-label span { width: 5px; height: 5px; border-radius: 50%; display: inline-block; }
+  .news-item {
+    padding: 9px 10px;
+    border-radius: 8px;
+    border: 0.5px solid var(--border);
+    margin-bottom: 7px;
+    cursor: pointer;
+    transition: border-color .15s, background .15s;
+  }
+  .news-item:last-child { margin-bottom: 0; }
+  .news-item:hover { background: var(--surface2); border-color: var(--border2); }
+  .news-tag {
+    font-size: 9px;
+    font-family: var(--mono);
+    font-weight: 500;
+    padding: 1px 7px;
+    border-radius: 99px;
+    display: inline-block;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+  }
+  .tag-co { background: rgba(45,212,160,.12); color: var(--co); }
+  .tag-world { background: rgba(79,142,247,.12); color: var(--world); }
+  .news-title { font-size: 12px; color: var(--text); line-height: 1.4; font-weight: 400; margin-bottom: 5px; }
+  .news-meta { font-size: 10px; color: var(--text3); font-family: var(--mono); display: flex; justify-content: space-between; }
+
+  /* ── EMAILS ── */
+  .email-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 9px 0;
+    border-bottom: 0.5px solid var(--border);
+    cursor: pointer;
+    transition: opacity .15s;
+  }
+  .email-item:last-child { border-bottom: none; padding-bottom: 0; }
+  .email-item:hover { opacity: .75; }
+  .avatar {
+    width: 30px; height: 30px;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 10px; font-weight: 500;
+    flex-shrink: 0;
+    font-family: var(--mono);
+  }
+  .email-body { flex: 1; min-width: 0; }
+  .email-from { font-size: 12px; font-weight: 500; color: var(--text); display: flex; align-items: center; gap: 6px; }
+  .unread-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--accent); flex-shrink: 0; }
+  .email-subject { font-size: 11px; color: var(--text2); margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .email-right { display: flex; flex-direction: column; align-items: flex-end; gap: 5px; flex-shrink: 0; }
+  .email-time { font-size: 10px; color: var(--text3); font-family: var(--mono); }
+  .e-tag {
+    font-size: 9px; font-family: var(--mono);
+    padding: 1px 7px; border-radius: 99px;
+    text-transform: uppercase; letter-spacing: .04em;
+  }
+  .e-work { background: rgba(45,212,160,.1); color: var(--accent2); }
+  .e-sys { background: rgba(255,255,255,.06); color: var(--text3); }
+  .e-imp { background: rgba(245,158,63,.1); color: var(--warn); }
+
+  /* ── TASKS ── */
+  .task-cols { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0; }
+  .task-col { padding: 12px 14px; }
+  .task-col:not(:last-child) { border-right: 0.5px solid var(--border); }
+  .task-col-header {
+    display: flex; align-items: center; gap: 6px;
+    font-size: 10px; font-family: var(--mono);
+    text-transform: uppercase; letter-spacing: .06em;
+    color: var(--text3); margin-bottom: 10px;
+  }
+  .task-col-header span { width: 6px; height: 6px; border-radius: 50%; display: inline-block; }
+  .t-done { background: var(--text3); }
+  .t-active { background: var(--accent); box-shadow: 0 0 6px var(--accent); }
+  .t-pending { background: var(--warn); }
+  .task-card {
+    background: var(--surface2);
+    border: 0.5px solid var(--border);
+    border-radius: 8px;
+    padding: 9px 10px;
+    margin-bottom: 7px;
+    cursor: pointer;
+    transition: border-color .15s;
+  }
+  .task-card:last-child { margin-bottom: 0; }
+  .task-card:hover { border-color: var(--border2); }
+  .task-card.is-active { border-left: 2px solid var(--accent); padding-left: 8px; }
+  .task-name { font-size: 11px; color: var(--text); line-height: 1.35; font-weight: 400; }
+  .task-name.done { text-decoration: line-through; color: var(--text3); }
+  .task-meta { display: flex; align-items: center; justify-content: space-between; margin-top: 5px; gap: 4px; }
+  .task-date { font-size: 10px; color: var(--text3); font-family: var(--mono); }
+  .t-tag {
+    font-size: 9px; font-family: var(--mono);
+    padding: 1px 6px; border-radius: 99px;
+    text-transform: uppercase; letter-spacing: .04em;
+  }
+  .t-ind { background: rgba(79,142,247,.12); color: var(--accent); }
+  .t-form { background: rgba(45,212,160,.1); color: var(--accent2); }
+  .t-meet { background: rgba(245,158,63,.1); color: var(--warn); }
+  .t-vis { background: rgba(240,96,96,.1); color: var(--danger); }
+
+  /* ── FOOTER ── */
+  .footer {
+    margin-top: 20px;
+    padding-top: 14px;
+    border-top: 0.5px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 10px;
+    color: var(--text3);
+    font-family: var(--mono);
+  }
+
+  /* ── LOADING / PASTE STATE ── */
+  #paste-zone {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 60vh;
+    text-align: center;
+    gap: 16px;
+  }
+  .paste-title { font-size: 18px; font-weight: 300; color: var(--text2); }
+  .paste-sub { font-size: 12px; color: var(--text3); font-family: var(--mono); max-width: 400px; line-height: 1.6; }
+  .paste-input {
+    width: 100%; max-width: 560px;
+    background: var(--surface);
+    border: 0.5px solid var(--border2);
+    border-radius: 10px;
+    padding: 14px 16px;
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text2);
+    resize: vertical;
+    min-height: 120px;
+    outline: none;
+  }
+  .paste-input:focus { border-color: var(--accent); }
+  .paste-btn {
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 24px;
+    font-family: var(--font);
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: opacity .15s;
+  }
+  .paste-btn:hover { opacity: .85; }
+  .demo-btn {
+    background: transparent;
+    border: 0.5px solid var(--border2);
+    color: var(--text3);
+    border-radius: 8px;
+    padding: 8px 18px;
+    font-family: var(--font);
+    font-size: 12px;
+    cursor: pointer;
+    transition: border-color .15s, color .15s;
+  }
+  .demo-btn:hover { border-color: var(--accent2); color: var(--accent2); }
+
+  #dashboard { display: none; }
+
+  .avatar-colors { }
+</style>
+</head>
+<body>
+
+<!-- PASTE ZONE -->
+<div id="paste-zone">
+  <div style="display:flex;align-items:center;gap:8px;">
+    <div class="brand-dot"></div>
+    <span style="font-size:12px;color:var(--text3);font-family:var(--mono);text-transform:uppercase;letter-spacing:.08em;">Dashboard Diario · Seguridad Electrónica</span>
+  </div>
+  <div class="paste-title">Pega el JSON de tu rutina</div>
+  <div class="paste-sub">Copia el output de tu Claude Routine y pégalo aquí para visualizarlo. O carga datos de demo para ver cómo se ve.</div>
+  <textarea class="paste-input" id="json-input" placeholder='{"fecha":"...","noticias_co":[...],"noticias_mundo":[...],"correos":[...],"agenda":{"realizados":[...],"hoy":[...],"pendientes":[...]}}'></textarea>
+  <div style="display:flex;gap:10px;">
+    <button class="paste-btn" onclick="loadJSON()">Visualizar</button>
+    <button class="demo-btn" onclick="loadDemo()">Cargar demo</button>
+  </div>
+</div>
+
+<!-- DASHBOARD -->
+<div id="dashboard">
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="header-brand">
+      <div class="brand-dot"></div>
+      <span class="brand-name">Dashboard · Seguridad Electrónica</span>
+    </div>
+    <div class="header-date">
+      <div class="date-main" id="d-fecha">—</div>
+      <div class="date-sub" id="d-hora">Actualizado hoy 7:30 am · cgil@frisson.net.co</div>
+    </div>
+  </div>
+
+  <!-- METRICS -->
+  <div class="metrics">
+    <div class="metric m-blue">
+      <div class="metric-label">Correos recibidos</div>
+      <div class="metric-val" id="m-correos">—</div>
+      <div class="metric-sub">últimas 24 h</div>
+    </div>
+    <div class="metric m-red">
+      <div class="metric-label">No leídos</div>
+      <div class="metric-val" id="m-noleidos">—</div>
+      <div class="metric-sub">requieren atención</div>
+    </div>
+    <div class="metric m-green">
+      <div class="metric-label">Eventos hoy</div>
+      <div class="metric-val" id="m-hoy">—</div>
+      <div class="metric-sub">en agenda</div>
+    </div>
+    <div class="metric m-warn">
+      <div class="metric-label">Pendientes</div>
+      <div class="metric-val" id="m-pendientes">—</div>
+      <div class="metric-sub">esta semana</div>
+    </div>
+  </div>
+
+  <!-- NOTICIAS + CORREOS -->
+  <div class="grid-main">
+
+    <!-- NOTICIAS -->
+    <div class="panel">
+      <div class="panel-header">
+        <div class="panel-title">
+          <span class="panel-title-dot dot-blue"></span>
+          Noticias
+        </div>
+        <span class="panel-count">10 noticias</span>
+      </div>
+      <div class="news-cols">
+        <div class="news-col">
+          <div class="news-col-label"><span style="background:var(--co)"></span>Colombia</div>
+          <div id="news-co"></div>
+        </div>
+        <div class="news-col">
+          <div class="news-col-label"><span style="background:var(--world)"></span>Mundo</div>
+          <div id="news-world"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- CORREOS -->
+    <div class="panel">
+      <div class="panel-header">
+        <div class="panel-title">
+          <span class="panel-title-dot dot-blue"></span>
+          Correos — últimas 24 h
+        </div>
+        <span class="panel-count" id="correos-count">—</span>
+      </div>
+      <div class="panel-body" id="email-list"></div>
+    </div>
+
+  </div>
+
+  <!-- TAREAS -->
+  <div class="grid-bottom">
+    <div class="panel">
+      <div class="panel-header">
+        <div class="panel-title">
+          <span class="panel-title-dot dot-warn"></span>
+          Agenda y tareas — semana actual
+        </div>
+        <span class="panel-count" id="tasks-count">—</span>
+      </div>
+      <div class="task-cols">
+        <div class="task-col">
+          <div class="task-col-header"><span class="t-done"></span>Realizadas</div>
+          <div id="tasks-done"></div>
+        </div>
+        <div class="task-col">
+          <div class="task-col-header"><span class="t-active"></span>Hoy</div>
+          <div id="tasks-today"></div>
+        </div>
+        <div class="task-col">
+          <div class="task-col-header"><span class="t-pending"></span>Pendientes</div>
+          <div id="tasks-pending"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+    <span>cgil@frisson.net.co · Grupo Verytel / Frisson</span>
+    <span id="footer-ts">—</span>
+  </div>
+
+</div>
+
+<script>
+const AVATAR_COLORS = [
+  ['rgba(79,142,247,.15)','#4f8ef7'],
+  ['rgba(45,212,160,.15)','#2dd4a0'],
+  ['rgba(245,158,63,.15)','#f59e3f'],
+  ['rgba(240,96,96,.15)','#f06060'],
+  ['rgba(167,139,250,.15)','#a78bfa'],
+  ['rgba(251,191,36,.15)','#fbbf24'],
+];
+
+function avatarColor(i) { return AVATAR_COLORS[i % AVATAR_COLORS.length]; }
+
+function initials(name) {
+  return name.split(/[\s@.]+/).filter(Boolean).slice(0,2).map(w=>w[0].toUpperCase()).join('');
+}
+
+function tagClass(cat) {
+  if (!cat) return 'e-sys';
+  const c = cat.toUpperCase();
+  if (c === 'TRABAJO') return 'e-work';
+  if (c === 'SISTEMA') return 'e-sys';
+  return 'e-imp';
+}
+
+function taskTag(title) {
+  const t = (title||'').toLowerCase();
+  if (t.includes('inducción') || t.includes('induccion') || t.includes('corporativa')) return ['t-ind','Inducción'];
+  if (t.includes('formativa') || t.includes('formativo') || t.includes('ruta')) return ['t-form','Formación'];
+  if (t.includes('sesión') || t.includes('sesion') || t.includes('jeff') || t.includes('reunión')) return ['t-meet','Reunión'];
+  if (t.includes('visita') || t.includes('hik')) return ['t-vis','Visita'];
+  return ['t-ind','Evento'];
+}
+
+function renderNews(items, containerId, tagClass) {
+  const el = document.getElementById(containerId);
+  if (!items || !items.length) { el.innerHTML = '<div style="font-size:11px;color:var(--text3);padding:8px 0;">Sin noticias disponibles.</div>'; return; }
+  el.innerHTML = items.map(n => `
+    <div class="news-item" onclick="${n.url ? `openUrl('${n.url}')` : ''}">
+      <span class="news-tag ${tagClass}">${tagClass === 'tag-co' ? 'Colombia' : 'Mundo'}</span>
+      <div class="news-title">${n.titulo || n.title || '—'}</div>
+      <div class="news-meta">
+        <span>${n.fuente || n.source || ''}</span>
+        <span>${n.fecha || n.date || ''}</span>
+      </div>
+    </div>`).join('');
+}
+
+function renderEmails(correos) {
+  const el = document.getElementById('email-list');
+  const count = document.getElementById('correos-count');
+  if (!correos || !correos.length) { el.innerHTML = '<div style="font-size:11px;color:var(--text3);">Sin correos.</div>'; return; }
+  count.textContent = `${correos.length} correos`;
+  document.getElementById('m-correos').textContent = correos.length;
+  document.getElementById('m-noleidos').textContent = correos.filter(c => !c.leido && c.leido !== true).length;
+  el.innerHTML = correos.map((c,i) => {
+    const [bg, fg] = avatarColor(i);
+    const ini = initials(c.remitente || c.sender || '?');
+    const unread = (c.leido === false || c.leido === 'false' || c.leido === 'no') ? '<span class="unread-dot"></span>' : '';
+    return `<div class="email-item">
+      <div class="avatar" style="background:${bg};color:${fg}">${ini}</div>
+      <div class="email-body">
+        <div class="email-from">${c.remitente || c.sender || '—'} ${unread}</div>
+        <div class="email-subject">${c.asunto || c.subject || '—'}</div>
+      </div>
+      <div class="email-right">
+        <span class="email-time">${c.hora || c.time || ''}</span>
+        <span class="e-tag ${tagClass(c.categoria || c.category)}">${(c.categoria || c.category || 'Sistema').toUpperCase()}</span>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function renderTaskCol(items, containerId, type) {
+  const el = document.getElementById(containerId);
+  if (!items || !items.length) { el.innerHTML = '<div style="font-size:10px;color:var(--text3);padding:4px 0;">—</div>'; return; }
+  el.innerHTML = items.map(t => {
+    const [cls, label] = taskTag(t.titulo || t.title || '');
+    const isActive = type === 'hoy';
+    const isDone = type === 'realizado';
+    return `<div class="task-card ${isActive ? 'is-active' : ''}">
+      <div class="task-name ${isDone ? 'done' : ''}">${t.titulo || t.title || '—'}</div>
+      <div class="task-meta">
+        <span class="task-date">${t.fecha || t.date || ''} ${t.hora || t.time || ''}</span>
+        <span class="t-tag ${cls}">${label}</span>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function render(data) {
+  document.getElementById('paste-zone').style.display = 'none';
+  document.getElementById('dashboard').style.display = 'block';
+
+  const fecha = data.fecha || new Date().toLocaleDateString('es-CO', {weekday:'long', year:'numeric', month:'long', day:'numeric'});
+  document.getElementById('d-fecha').textContent = fecha;
+  document.getElementById('footer-ts').textContent = `Generado automáticamente · ${new Date().toLocaleTimeString('es-CO', {hour:'2-digit', minute:'2-digit'})}`;
+
+  renderNews(data.noticias_co, 'news-co', 'tag-co');
+  renderNews(data.noticias_mundo, 'news-world', 'tag-world');
+  renderEmails(data.correos);
+
+  const agenda = data.agenda || {};
+  const realizados = agenda.realizados || agenda.realizado || [];
+  const hoy = agenda.hoy || [];
+  const pendientes = agenda.pendientes || agenda.pendiente || [];
+
+  renderTaskCol(realizados, 'tasks-done', 'realizado');
+  renderTaskCol(hoy, 'tasks-today', 'hoy');
+  renderTaskCol(pendientes, 'tasks-pending', 'pendiente');
+
+  document.getElementById('m-hoy').textContent = hoy.length;
+  document.getElementById('m-pendientes').textContent = pendientes.length;
+  document.getElementById('tasks-count').textContent = `${realizados.length + hoy.length + pendientes.length} eventos`;
+}
+
+function loadJSON() {
+  const raw = document.getElementById('json-input').value.trim();
+  if (!raw) { alert('Pega el JSON de tu rutina primero.'); return; }
+  try {
+    const data = JSON.parse(raw);
+    render(data);
+  } catch(e) {
+    alert('El JSON no es válido. Verifica que el output de la rutina esté completo.');
+  }
+}
+
+function openUrl(url) {
+  if (url && url !== 'undefined') window.open(url, '_blank');
+}
+
+function loadDemo() {
+  const demo = {
+    "fecha": "jueves, 4 de junio de 2026",
+    "noticias_co": [
+      {"titulo": "Seguridad privada en Colombia 2026: crisis de costos y revolución tecnológica", "fuente": "TecnoSeguro", "fecha": "ene 2026", "url": "https://www.tecnoseguro.com/analisis/salario-minimo-seguridad-2026"},
+      {"titulo": "Límites normativos en uso de cámaras de vigilancia en predios particulares", "fuente": "Asuntos Legales", "fecha": "feb 2026", "url": "https://www.asuntoslegales.com.co"},
+      {"titulo": "Protección de datos en videovigilancia: marcos normativos Ley 1581", "fuente": "TecnoGus", "fecha": "feb 2026", "url": "https://www.tecnogus.com.co"},
+      {"titulo": "Videovigilancia algorítmica e IA ganan terreno en el mercado colombiano", "fuente": "iLinea", "fecha": "ene 2026", "url": "https://ilinea.com.co"},
+      {"titulo": "RBH Access: cómo revisar y optimizar sistemas de control de acceso para 2026", "fuente": "TecnoSeguro", "fecha": "ene 2026", "url": "https://www.tecnoseguro.com"}
+    ],
+    "noticias_mundo": [
+      {"titulo": "Genetec presenta nuevas capacidades de investigación en Security Center SaaS en NRF Protect 2026", "fuente": "SourceSecurity", "fecha": "hoy", "url": "https://www.sourcesecurity.com"},
+      {"titulo": "Genetec añade autenticación biométrica facial y soporte Honeywell Galaxy", "fuente": "Campus Security Today", "fecha": "mar 2026", "url": "https://campussecuritytoday.com"},
+      {"titulo": "Hammersmith & Fulham unifica tres sistemas CCTV legacy en plataforma Genetec", "fuente": "Genetec", "fecha": "mar 2026", "url": "https://www.genetec.com"},
+      {"titulo": "Agentes de IA transforman videovigilancia: cámaras como fuente para Digital Twin", "fuente": "SourceSecurity", "fecha": "dic 2025", "url": "https://www.sourcesecurity.com"},
+      {"titulo": "Tendencias CCTV 2026: cloud-native, analítica con IA y migración a video digital", "fuente": "Pelco / Motorola", "fecha": "ene 2026", "url": "https://www.pelco.com"}
+    ],
+    "correos": [
+      {"remitente": "cgil@frisson.net.co", "asunto": "lihblk", "hora": "12:18 pm", "leido": false, "categoria": "TRABAJO"},
+      {"remitente": "no-reply@canva.com", "asunto": "Este es tu código de Canva: 901635", "hora": "12:13 pm", "leido": true, "categoria": "SISTEMA"},
+      {"remitente": "Anthropic", "asunto": "Enlace seguro para iniciar sesión en Claude.ai", "hora": "10:34 am", "leido": true, "categoria": "SISTEMA"},
+      {"remitente": "Anthropic", "asunto": "Bienvenido al plan Pro — Camilo Gil", "hora": "10:33 am", "leido": true, "categoria": "SISTEMA"},
+      {"remitente": "S. Torres — Grupo Verytel", "asunto": "Material de estudios OKR's", "hora": "8:27 am", "leido": true, "categoria": "TRABAJO"},
+      {"remitente": "Grupo Verytel — Operaciones", "asunto": "Tu nueva firma digital Grupo Verytel", "hora": "ayer 4:18 pm", "leido": true, "categoria": "TRABAJO"}
+    ],
+    "agenda": {
+      "realizados": [
+        {"titulo": "Inducción — Inspiración en Transformación", "fecha": "mar 3 jun", "hora": "3:00–5:00 pm"},
+        {"titulo": "Ruta formativa: Caso aeropuerto San Andrés", "fecha": "hoy", "hora": "9:00–10:00 am"}
+      ],
+      "hoy": [
+        {"titulo": "Inducción SST — MA", "fecha": "hoy", "hora": "2:00–3:00 pm"},
+        {"titulo": "Ruta Formativa: Cadena de Custodia", "fecha": "hoy", "hora": "3:00–4:00 pm"}
+      ],
+      "pendientes": [
+        {"titulo": "Inducción Corporativa: Visionario Comercial", "fecha": "vie 5 jun", "hora": "9:00–10:00 am"},
+        {"titulo": "Inducción Corporativa: Financiera", "fecha": "vie 5 jun", "hora": "10:00–11:00 am"},
+        {"titulo": "Sesión con Jeff", "fecha": "vie 5 jun", "hora": "3:00–4:00 pm"},
+        {"titulo": "Inducción: Gerencia Talento Humano", "fecha": "mar 9 jun", "hora": "11:00 am"},
+        {"titulo": "Visita HIK — Hikvision", "fecha": "jue 11 jun", "hora": "2:00–3:30 pm"}
+      ]
+    }
+  };
+  render(demo);
+}
+</script>
+</body>
+</html>
