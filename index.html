@@ -132,6 +132,10 @@
   .todo-list-name{font-size:10px;color:var(--text3);font-family:var(--mono);margin-top:2px;}
   .todo-right{display:flex;flex-direction:column;align-items:flex-end;gap:4px;flex-shrink:0;}
   .todo-date{font-size:10px;color:var(--text3);font-family:var(--mono);}
+  .todo-venc{font-size:10px;font-family:var(--mono);margin-top:3px;display:flex;align-items:center;gap:4px;color:var(--text3);}
+  .todo-venc.venc-late{color:var(--danger);}
+  .todo-venc.venc-today{color:var(--warn);font-weight:500;}
+  .todo-venc.venc-soon{color:var(--warn);}
   .todo-prio{font-size:9px;font-family:var(--mono);padding:1px 7px;border-radius:99px;letter-spacing:.04em;}
   .tg-alta{background:rgba(240,96,96,.12);color:var(--danger);}
   .tg-media{background:rgba(245,158,63,.1);color:var(--warn);}
@@ -266,34 +270,64 @@ function renderEmails(list){
   }).join('');
 }
 
+function fmtVenc(v){
+  // Convierte "2026-06-15" a "15 jun" y calcula urgencia
+  if(!v) return {txt:'',clase:'',dias:null};
+  const meses=['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
+  const d=new Date(v+'T00:00:00');
+  if(isNaN(d)) return {txt:v,clase:'',dias:null};
+  const hoy=new Date(); hoy.setHours(0,0,0,0);
+  const dias=Math.round((d-hoy)/86400000);
+  let txt=`${d.getDate()} ${meses[d.getMonth()]}`;
+  let clase='';
+  if(dias<0){txt=`Vencida · ${txt}`;clase='venc-late';}
+  else if(dias===0){txt='Hoy';clase='venc-today';}
+  else if(dias===1){txt='Mañana';clase='venc-soon';}
+  else if(dias<=3){txt=`${txt} · ${dias}d`;clase='venc-soon';}
+  return {txt,clase,dias};
+}
+
 function renderTareas(list){
   const el=document.getElementById('tareas-list');
   const cnt=document.getElementById('tareas-count');
   if(!list||!list.length){el.innerHTML='<div style="font-size:11px;color:var(--text3);">Sin tareas asignadas.</div>';if(cnt)cnt.textContent='0 tareas';return;}
   const pend=list.filter(t=>!(t.completada===true||t.completada==='true'));
   if(cnt)cnt.textContent=`${pend.length} pendientes`;
-  // Orden: por prioridad (alta primero) y luego por fecha
-  const prioRank={alta:0,ALTA:0,media:1,MEDIA:1,baja:2,BAJA:2};
-  list.sort((a,b)=>(prioRank[a.prioridad]??1)-(prioRank[b.prioridad]??1));
+  // Orden: completadas al final, luego por prioridad (alta primero), luego por fecha de vencimiento (más próxima primero)
+  const prioRank={alta:0,media:1,baja:2};
+  list.sort((a,b)=>{
+    const da=(a.completada===true||a.completada==='true');
+    const db=(b.completada===true||b.completada==='true');
+    if(da!==db) return da?1:-1; // completadas al final
+    const pa=prioRank[(a.prioridad||'media').toLowerCase()]??1;
+    const pb=prioRank[(b.prioridad||'media').toLowerCase()]??1;
+    if(pa!==pb) return pa-pb; // prioridad alta primero
+    // luego por fecha: las que tienen fecha van antes que las sin fecha, y más próxima primero
+    const va=a.vencimiento||''; const vb=b.vencimiento||'';
+    if(va&&!vb) return -1;
+    if(!va&&vb) return 1;
+    if(va&&vb) return va<vb?-1:va>vb?1:0;
+    return 0;
+  });
   el.innerHTML=list.map(t=>{
     const done=(t.completada===true||t.completada==='true');
     const prio=(t.prioridad||'media').toLowerCase();
     const pcls=prio==='alta'?'tg-alta':prio==='baja'?'tg-baja':'tg-media';
     const check=done?'<i class="ti ti-circle-check" style="color:var(--accent2);font-size:15px;"></i>':'<i class="ti ti-circle" style="color:var(--text3);font-size:15px;"></i>';
-    const venc=t.vencimiento||t.fecha||'';
+    const v=fmtVenc(t.vencimiento||'');
     return`<div class="task-todo">
       <div class="todo-check">${check}</div>
       <div class="todo-body">
         <div class="todo-name ${done?'done':''}">${t.titulo||t.title||'—'}</div>
-        ${t.lista?`<div class="todo-list-name">${t.lista}</div>`:''}
+        ${v.txt&&!done?`<div class="todo-venc ${v.clase}"><i class="ti ti-calendar-event" style="font-size:10px;"></i> ${v.txt}</div>`:(t.lista?`<div class="todo-list-name">${t.lista}</div>`:'')}
       </div>
       <div class="todo-right">
-        ${venc?`<span class="todo-date">${venc}</span>`:''}
         <span class="todo-prio ${pcls}">${prio.toUpperCase()}</span>
       </div>
     </div>`;
   }).join('');
 }
+
 
 function renderTaskCol(items,id,type){
   const el=document.getElementById(id);
@@ -365,7 +399,7 @@ window.addEventListener('DOMContentLoaded',()=>{
 
 /* ── DEMO ── */
 function loadDemo(){
-  const demo={fecha:'jueves, 4 de junio de 2026',noticias_co:[{titulo:'Seguridad privada en Colombia 2026: crisis de costos y revolución tecnológica',fuente:'TecnoSeguro',fecha:'ene 2026',url:'https://www.tecnoseguro.com'},{titulo:'Límites normativos en uso de cámaras de vigilancia en predios particulares',fuente:'Asuntos Legales',fecha:'feb 2026',url:'https://www.asuntoslegales.com.co'},{titulo:'Protección de datos en videovigilancia: marcos normativos Ley 1581',fuente:'TecnoGus',fecha:'feb 2026',url:'https://www.tecnogus.com.co'},{titulo:'Videovigilancia algorítmica e IA ganan terreno en el mercado colombiano',fuente:'iLinea',fecha:'ene 2026',url:'https://ilinea.com.co'},{titulo:'RBH Access: optimización de sistemas de control de acceso para 2026',fuente:'TecnoSeguro',fecha:'ene 2026',url:'https://www.tecnoseguro.com'}],noticias_mundo:[{titulo:'Genetec presenta nuevas capacidades de investigación en Security Center SaaS en NRF Protect 2026',fuente:'SourceSecurity',fecha:'hoy',url:'https://www.sourcesecurity.com'},{titulo:'Genetec añade autenticación biométrica facial y soporte Honeywell Galaxy',fuente:'Campus Security Today',fecha:'mar 2026',url:'https://campussecuritytoday.com'},{titulo:'Hammersmith & Fulham unifica tres sistemas CCTV legacy en plataforma Genetec',fuente:'Genetec',fecha:'mar 2026',url:'https://www.genetec.com'},{titulo:'Agentes de IA transforman videovigilancia: cámaras como fuente para Digital Twin',fuente:'SourceSecurity',fecha:'dic 2025',url:'https://www.sourcesecurity.com'},{titulo:'Tendencias CCTV 2026: cloud-native, analítica con IA y migración a video digital',fuente:'Pelco / Motorola',fecha:'ene 2026',url:'https://www.pelco.com'}],correos:[{remitente:'cgil@frisson.net.co',asunto:'lihblk',hora:'12:18 pm',leido:false,categoria:'TRABAJO'},{remitente:'no-reply@canva.com',asunto:'Código de Canva: 901635',hora:'12:13 pm',leido:true,categoria:'SISTEMA'},{remitente:'Anthropic',asunto:'Enlace seguro para iniciar sesión en Claude.ai',hora:'10:34 am',leido:true,categoria:'SISTEMA'},{remitente:'S. Torres — Grupo Verytel',asunto:"Material de estudios OKR's",hora:'8:27 am',leido:true,categoria:'TRABAJO'},{remitente:'Grupo Verytel — Operaciones',asunto:'Tu nueva firma digital Grupo Verytel',hora:'ayer 4:18 pm',leido:true,categoria:'TRABAJO'}],agenda:{hoy:[{titulo:'Inducción SST — MA',fecha:'hoy',hora:'2:00–3:00 pm'},{titulo:'Ruta Formativa: Cadena de Custodia',fecha:'hoy',hora:'3:00–4:00 pm'}],pendientes:[{titulo:'Inducción Corporativa: Visionario Comercial',fecha:'vie 5 jun',hora:'9:00–10:00 am'},{titulo:'Inducción Corporativa: Financiera',fecha:'vie 5 jun',hora:'10:00–11:00 am'},{titulo:'Sesión con Jeff',fecha:'vie 5 jun',hora:'3:00–4:00 pm'},{titulo:'Inducción: Gerencia Talento Humano',fecha:'mar 9 jun',hora:'11:00 am'},{titulo:'Visita HIK — Hikvision',fecha:'jue 11 jun',hora:'2:00–3:30 pm'}]},tareas:[{titulo:'Enviar cotización CCTV cliente retail',lista:'Comercial',vencimiento:'hoy',prioridad:'alta',completada:false},{titulo:'Revisar playbook OKRs onboarding',lista:'Onboarding',vencimiento:'vie 5 jun',prioridad:'media',completada:false},{titulo:'Preparar preguntas para visita HIK',lista:'Técnico',vencimiento:'jue 11 jun',prioridad:'media',completada:false},{titulo:'Actualizar firma corporativa',lista:'Personal',vencimiento:'',prioridad:'baja',completada:true}]};
+  const demo={fecha:'jueves, 4 de junio de 2026',noticias_co:[{titulo:'Seguridad privada en Colombia 2026: crisis de costos y revolución tecnológica',fuente:'TecnoSeguro',fecha:'ene 2026',url:'https://www.tecnoseguro.com'},{titulo:'Límites normativos en uso de cámaras de vigilancia en predios particulares',fuente:'Asuntos Legales',fecha:'feb 2026',url:'https://www.asuntoslegales.com.co'},{titulo:'Protección de datos en videovigilancia: marcos normativos Ley 1581',fuente:'TecnoGus',fecha:'feb 2026',url:'https://www.tecnogus.com.co'},{titulo:'Videovigilancia algorítmica e IA ganan terreno en el mercado colombiano',fuente:'iLinea',fecha:'ene 2026',url:'https://ilinea.com.co'},{titulo:'RBH Access: optimización de sistemas de control de acceso para 2026',fuente:'TecnoSeguro',fecha:'ene 2026',url:'https://www.tecnoseguro.com'}],noticias_mundo:[{titulo:'Genetec presenta nuevas capacidades de investigación en Security Center SaaS en NRF Protect 2026',fuente:'SourceSecurity',fecha:'hoy',url:'https://www.sourcesecurity.com'},{titulo:'Genetec añade autenticación biométrica facial y soporte Honeywell Galaxy',fuente:'Campus Security Today',fecha:'mar 2026',url:'https://campussecuritytoday.com'},{titulo:'Hammersmith & Fulham unifica tres sistemas CCTV legacy en plataforma Genetec',fuente:'Genetec',fecha:'mar 2026',url:'https://www.genetec.com'},{titulo:'Agentes de IA transforman videovigilancia: cámaras como fuente para Digital Twin',fuente:'SourceSecurity',fecha:'dic 2025',url:'https://www.sourcesecurity.com'},{titulo:'Tendencias CCTV 2026: cloud-native, analítica con IA y migración a video digital',fuente:'Pelco / Motorola',fecha:'ene 2026',url:'https://www.pelco.com'}],correos:[{remitente:'cgil@frisson.net.co',asunto:'lihblk',hora:'12:18 pm',leido:false,categoria:'TRABAJO'},{remitente:'no-reply@canva.com',asunto:'Código de Canva: 901635',hora:'12:13 pm',leido:true,categoria:'SISTEMA'},{remitente:'Anthropic',asunto:'Enlace seguro para iniciar sesión en Claude.ai',hora:'10:34 am',leido:true,categoria:'SISTEMA'},{remitente:'S. Torres — Grupo Verytel',asunto:"Material de estudios OKR's",hora:'8:27 am',leido:true,categoria:'TRABAJO'},{remitente:'Grupo Verytel — Operaciones',asunto:'Tu nueva firma digital Grupo Verytel',hora:'ayer 4:18 pm',leido:true,categoria:'TRABAJO'}],agenda:{hoy:[{titulo:'Inducción SST — MA',fecha:'hoy',hora:'2:00–3:00 pm'},{titulo:'Ruta Formativa: Cadena de Custodia',fecha:'hoy',hora:'3:00–4:00 pm'}],pendientes:[{titulo:'Inducción Corporativa: Visionario Comercial',fecha:'vie 5 jun',hora:'9:00–10:00 am'},{titulo:'Inducción Corporativa: Financiera',fecha:'vie 5 jun',hora:'10:00–11:00 am'},{titulo:'Sesión con Jeff',fecha:'vie 5 jun',hora:'3:00–4:00 pm'},{titulo:'Inducción: Gerencia Talento Humano',fecha:'mar 9 jun',hora:'11:00 am'},{titulo:'Visita HIK — Hikvision',fecha:'jue 11 jun',hora:'2:00–3:30 pm'}]},tareas:[{titulo:'Enviar cotización CCTV cliente retail',lista:'Comercial',vencimiento:'2026-06-08',prioridad:'alta',completada:false},{titulo:'Preparar preguntas para visita HIK',lista:'Técnico',vencimiento:'2026-06-11',prioridad:'alta',completada:false},{titulo:'Revisar playbook OKRs onboarding',lista:'Onboarding',vencimiento:'2026-06-09',prioridad:'media',completada:false},{titulo:'Estudio XTAM',lista:'Tareas',vencimiento:'2026-06-15',prioridad:'media',completada:false},{titulo:'Actualizar firma corporativa',lista:'Personal',vencimiento:'',prioridad:'baja',completada:false},{titulo:'Video Skycope',lista:'Tareas',vencimiento:'',prioridad:'media',completada:true}]};
   render(demo);
 }
 </script>
