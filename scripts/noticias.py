@@ -38,7 +38,7 @@ FEEDS = {
         BASE + "%22video+surveillance%22+OR+%22access+control%22+when:7d" + EN,
         BASE + "counter-drone+OR+C-UAS+OR+%22physical+security%22+AI+when:7d" + EN,
         BASE + "site:securityinfowatch.com+when:7d" + EN,
-        BASE + "site:sourcesecurity.com+when:7d" + EN,
+        BASE + "site:securitymagazine.com+when:7d" + EN,
     ],
 }
 
@@ -76,12 +76,16 @@ BASURA = re.compile(
 # Crónica roja: notas de crímenes donde las cámaras solo aparecen como testigo
 CRONICA = re.compile(
     r"\b(captar\w*|capto|grabaron|quedo (grabado|registrado)|registraron el momento|asalto|"
-    r"asesina\w*|sicari\w*|homicidio|balacera|hurto|atraco|robo|muert[oa]s?|viral)\b"
+    r"asesina\w*|sicari\w*|homicidio|balacera|hurto|atraco|robo|muert[oa]s?|viral|"
+    r"ataque|atacad[oa]s?|atentado|explosiv\w*|hostigamiento)\b"
 )
 MIN_PALABRAS = 5
 
-FUENTES_DEL_SECTOR = {"tecnoseguro", "securityinfowatch", "sourcesecurity", "security info watch",
-                      "sourcesecurity.com", "securityinfowatch.com", "tecnoseguro.com"}
+FUENTES_DEL_SECTOR = {"tecnoseguro", "tecnoseguro.com", "securityinfowatch", "security info watch",
+                      "securityinfowatch.com", "security magazine", "securitymagazine.com"}
+# Sitios que en Google News aparecen casi siempre como catálogo o ficha de producto
+FUENTES_BLOQUEADAS = {"sourcesecurity.com", "sourcesecurity", "securityinformed.com", "securityinformed"}
+ARCHIVO = re.compile(r"\.(pdf|docx?|xlsx?|pptx?|zip)\b", re.I)
 
 MESES = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"]
 DIAS = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"]
@@ -171,6 +175,8 @@ def main() -> None:
                 continue
             k = clave(n["titulo"])
             if EXCLUIR.search(n["titulo"]) or BASURA.search(k) or len(k.split()) < MIN_PALABRAS:
+                continue
+            if n["fuente"].lower() in FUENTES_BLOQUEADAS or ARCHIVO.search(n["titulo"]):
                 continue
             if seccion == "noticias_co" and CRONICA.search(k):
                 continue
