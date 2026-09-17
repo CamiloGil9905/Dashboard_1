@@ -70,21 +70,25 @@ RELEVANTE = {
 # Páginas índice, comparadores y reportes de mercado pagados (se comparan sin tildes)
 BASURA = re.compile(
     r"^(browse|compare|search|view|see|latest|all|products?|news)\b|\bcompare \S+ (with|vs)\b|"
-    r"\bmarket (size|insights|report|research|analysis|forecast|share|growth|outlook|trends)\b|"
+    r"\bmarket (size|insights|report|research|analysis|forecast|share|growth|outlook|trends|study)\b|"
     r"\bcagr\b|\bforecast (to|till|by) 20\d\d\b"
 )
 # Crónica roja: notas de crímenes donde las cámaras solo aparecen como testigo
 CRONICA = re.compile(
     r"\b(captar\w*|capto|grabaron|quedo (grabado|registrado)|registraron el momento|asalto|"
     r"asesina\w*|sicari\w*|homicidio|balacera|hurto|atraco|robo|muert[oa]s?|viral|"
-    r"ataque|atacad[oa]s?|atentado|explosiv\w*|hostigamiento)\b"
+    r"ataque|atacad[oa]s?|atentado|explosiv\w*|hostigamiento|captur\w*|detenid[oa]s?|"
+    r"video registrado|mostro|ejemplar)\b"
 )
 MIN_PALABRAS = 5
 
 FUENTES_DEL_SECTOR = {"tecnoseguro", "tecnoseguro.com", "securityinfowatch", "security info watch",
                       "securityinfowatch.com", "security magazine", "securitymagazine.com"}
 # Sitios que en Google News aparecen casi siempre como catálogo o ficha de producto
-FUENTES_BLOQUEADAS = {"sourcesecurity.com", "sourcesecurity", "securityinformed.com", "securityinformed"}
+FUENTES_BLOQUEADAS = {"sourcesecurity.com", "sourcesecurity", "securityinformed.com", "securityinformed",
+                      # comunicados pagados, redes sociales y blogs de software
+                      "openpr.com", "openpr", "facebook.com", "facebook", "instagram.com", "x.com",
+                      "tiktok.com", "youtube.com", "hackernoon.com", "hackernoon", "medium.com"}
 ARCHIVO = re.compile(r"\.(pdf|docx?|xlsx?|pptx?|zip)\b", re.I)
 
 MESES = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"]
@@ -110,7 +114,8 @@ def parecidos(a: str, b: str) -> bool:
     pb = {w for w in normalizar(b) if len(w) > 3}
     if not pa or not pb:
         return False
-    return len(pa & pb) / min(len(pa), len(pb)) >= 0.6
+    comunes = len(pa & pb)
+    return comunes >= 5 or comunes / min(len(pa), len(pb)) >= 0.6
 
 
 def acortar(titulo: str, n: int = 14) -> str:
@@ -184,6 +189,8 @@ def main() -> None:
                     and not RELEVANTE[seccion].search(clave(n["titulo"]))):
                 continue
             if any(parecidos(n["titulo"], e["titulo"]) for e in elegidos + elegidos_global):
+                continue
+            if any(parecidos(n["titulo"], t) for t in vistos_t):  # misma noticia ya mostrada con otro título
                 continue
             if por_fuente.get(n["fuente"], 0) >= MAX_POR_FUENTE:
                 continue
