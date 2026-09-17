@@ -31,6 +31,7 @@ FEEDS = {
     "noticias_co": [
         BASE + "videovigilancia+OR+CCTV+OR+%22control+de+acceso%22+Colombia+when:7d" + ES,
         BASE + "%22seguridad+electr%C3%B3nica%22+OR+biometr%C3%ADa+OR+antidrones+Colombia+when:7d" + ES,
+        BASE + "%22c%C3%A1maras+de+seguridad%22+OR+%22reconocimiento+facial%22+OR+%22centro+de+monitoreo%22+Colombia+when:7d" + ES,
         BASE + "site:tecnoseguro.com+when:7d" + ES,
     ],
     "noticias_mundo": [
@@ -46,6 +47,28 @@ EXCLUIR = re.compile(
     r"\b(comprar|precio|oferta|descuento|tienda|cat[aá]logo|buy now|deal|discount|coupon|% off)\b",
     re.I,
 )
+
+# El título debe contener al menos uno de estos términos (se compara sin tildes)
+RELEVANTE = {
+    "noticias_co": re.compile(
+        r"\b(videovigilancia|video ?vigilancia|camaras? de (seguridad|vigilancia|videovigilancia)|"
+        r"cctv|control de acceso|biometri\w*|reconocimiento facial|seguridad electronica|"
+        r"antidron\w*|anti ?drones?|contra drones|sistemas? anti\w* drones?|ciberseguridad|"
+        r"centro de (monitoreo|comando)|c4|lectura de placas|lpr|alarmas?|analitica de video|"
+        r"seguridad (privada|integrada|inteligente)|smart ?city|ciudad inteligente|"
+        r"hikvision|dahua|axis|genetec|milestone|hanwha|verkada|motorola solutions|tecnoseguro)\b"
+    ),
+    "noticias_mundo": re.compile(
+        r"\b(surveillance|cctv|access control|camera|cameras|video (analytics|security|management)|"
+        r"vms|biometric\w*|facial recognition|counter.?drone|counter.?uas|c.?uas|anti.?drone|"
+        r"drone detection|physical security|security (platform|systems?|industry)|"
+        r"intrusion|perimeter|alarm|lidar|license plate|lpr|smart city|"
+        r"hikvision|dahua|axis|genetec|milestone|hanwha|verkada|avigilon|motorola solutions|"
+        r"honeywell|bosch|johnson controls|lenel|hid|dedrone|d.?fend)\b"
+    ),
+}
+FUENTES_DEL_SECTOR = {"tecnoseguro", "securityinfowatch", "sourcesecurity", "security info watch",
+                      "sourcesecurity.com", "securityinfowatch.com", "tecnoseguro.com"}
 
 MESES = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"]
 DIAS = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"]
@@ -73,9 +96,11 @@ def parecidos(a: str, b: str) -> bool:
     return len(pa & pb) / min(len(pa), len(pb)) >= 0.6
 
 
-def acortar(titulo: str, n: int = 10) -> str:
+def acortar(titulo: str, n: int = 14) -> str:
     palabras = titulo.split()
-    return titulo if len(palabras) <= n else " ".join(palabras[:n]) + "…"
+    if len(palabras) <= n:
+        return titulo
+    return " ".join(palabras[:n]).rstrip(" ,.:;-–—") + "…"
 
 
 def leer_feed(url: str) -> list[dict]:
@@ -132,6 +157,9 @@ def main() -> None:
             if clave(n["titulo"]) in vistos_t or n["url"] in vistos_u:
                 continue
             if EXCLUIR.search(n["titulo"]):
+                continue
+            if (n["fuente"].lower() not in FUENTES_DEL_SECTOR
+                    and not RELEVANTE[seccion].search(clave(n["titulo"]))):
                 continue
             if any(parecidos(n["titulo"], e["titulo"]) for e in elegidos + elegidos_global):
                 continue
