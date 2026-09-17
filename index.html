@@ -335,6 +335,20 @@ function renderTaskCol(items,id,type){
   el.innerHTML=items.map(t=>{const[cls,lbl]=taskTag(t.titulo||t.title);const done=type==='realizado';const act=type==='hoy';return`<div class="task-card ${act?'is-active':''}"><div class="tname ${done?'done':''}">${t.titulo||t.title||'—'}</div><div class="tmeta"><span class="tdate">${t.fecha||t.date||''} ${t.hora||t.time||''}</span><span class="ttag ${cls}">${lbl}</span></div></div>`;}).join('');
 }
 
+/* Noticias: las genera la GitHub Action en noticias.json */
+async function loadNews(){
+  try{
+    const r=await fetch('noticias.json?v='+Date.now(),{cache:'no-store'});
+    if(!r.ok) return;
+    const n=await r.json();
+    renderNews(n.noticias_co,'news-co','tag-co','Colombia');
+    renderNews(n.noticias_mundo,'news-world','tag-world','Mundo');
+    const total=(n.noticias_co||[]).length+(n.noticias_mundo||[]).length;
+    const c=document.querySelector('.panel-count');
+    if(c) c.textContent=`${total} noticias`+(n.actualizado?` · ${n.actualizado}`:'');
+  }catch(e){console.warn('noticias.json no disponible',e);}
+}
+
 function render(data){
   document.getElementById('loading').style.display='none';
   document.getElementById('empty').style.display='none';
@@ -345,6 +359,7 @@ function render(data){
 
   renderNews(data.noticias_co,'news-co','tag-co','Colombia');
   renderNews(data.noticias_mundo,'news-world','tag-world','Mundo');
+  loadNews();
   renderEmails(data.correos);
 
   const ag=data.agenda||{};
