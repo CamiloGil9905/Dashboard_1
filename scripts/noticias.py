@@ -67,6 +67,19 @@ RELEVANTE = {
         r"honeywell|bosch|johnson controls|lenel|hid|dedrone|d.?fend)\b"
     ),
 }
+# Páginas índice, comparadores y reportes de mercado pagados (se comparan sin tildes)
+BASURA = re.compile(
+    r"^(browse|compare|search|view|see|latest|all|products?|news)\b|\bcompare \S+ (with|vs)\b|"
+    r"\bmarket (size|insights|report|research|analysis|forecast|share|growth|outlook|trends)\b|"
+    r"\bcagr\b|\bforecast (to|till|by) 20\d\d\b"
+)
+# Crónica roja: notas de crímenes donde las cámaras solo aparecen como testigo
+CRONICA = re.compile(
+    r"\b(captar\w*|capto|grabaron|quedo (grabado|registrado)|registraron el momento|asalto|"
+    r"asesina\w*|sicari\w*|homicidio|balacera|hurto|atraco|robo|muert[oa]s?|viral)\b"
+)
+MIN_PALABRAS = 5
+
 FUENTES_DEL_SECTOR = {"tecnoseguro", "securityinfowatch", "sourcesecurity", "security info watch",
                       "sourcesecurity.com", "securityinfowatch.com", "tecnoseguro.com"}
 
@@ -156,7 +169,10 @@ def main() -> None:
                 continue
             if clave(n["titulo"]) in vistos_t or n["url"] in vistos_u:
                 continue
-            if EXCLUIR.search(n["titulo"]):
+            k = clave(n["titulo"])
+            if EXCLUIR.search(n["titulo"]) or BASURA.search(k) or len(k.split()) < MIN_PALABRAS:
+                continue
+            if seccion == "noticias_co" and CRONICA.search(k):
                 continue
             if (n["fuente"].lower() not in FUENTES_DEL_SECTOR
                     and not RELEVANTE[seccion].search(clave(n["titulo"]))):
