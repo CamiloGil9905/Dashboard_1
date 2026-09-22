@@ -1,79 +1,49 @@
 {
  "noticias_co": [
   {
-   "titulo": "Un mes después de los disturbios, Bogotá inicia identificación biométrica en El Campín: así…",
-   "fuente": "La FM",
+   "titulo": "Plan Urano refuerza el sur del Cesar: 60 policías llegan a Aguachica y aumentan…",
+   "fuente": "El Pilón",
    "fecha": "21 sep",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeENmd2xLeWkxVXg4U05VTktySnc4QXF2SXQ1QldGYkRiVEV1dl85a2plNU40SkVXNFpHQXh6Rlp2dHBJcjJUaHZtSHFuLV9KVm1vQi0xbXNTZElSVW9ma2NPRUtwZ283X3Y2Ym04WlAxaFRmdjBXUFhjdWIzQVZoUjMxNEdFbW9ScDQtdEV2T0V2bHcweUlIa0RKNTE1NEtEUlRhY2xPdlZ2TUHSAasBQVVfeXFMUHlGNk9Wdi1zaC1HSERIVnFLbWM5QW9YaWl4NDFRQWgtZnZVQzJBUmdsdm9ZQ2lsdmdIWGx1Rk1jVTNXRUdCdXN3VWIxWlcwSWx4WUozNV9jM0lPaGVmcXNiRnJlQWNmZFZ4OVVIX2FLR2dCaTdTNUtVWUJrbHFCNjBFTGNjOXVMdFRDSzVyb0FMazFCZUFDaVJtWHh3dGFFaVBMbERGdHBLWGFn?oc=5"
-  },
-  {
-   "titulo": "Familia de obrero arrollado por un tren pide justicia y exige videos de las…",
-   "fuente": "Hoy Diario del Magdalena",
-   "fecha": "21 sep",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNODc5X1cxSDRvYk9veklnZnhEbFRqYUxuOW1MU1ZvOC1XVnY2YkNHYUN2NVVfb3VOYlljTlZpblJOMGh3cFM4S1F3c2RtblRFQVlHYTVUS0c2Ni1Ka3p3V05GbUNBUzJ3ZUNCUVMtLVlyMDRXdElLVmNteHZiaC1mTlk1TklhOHBpUldpaldOZWlfUGpyRkV6Y2NnY2llS0ZlakZOemxMRGUwZnI3X29nc1ltZm9oX2pROUpXT3dQeTc2Zlh6U3JjWkhzNm1POHIwcGJ6LTV2cFVHeHRXNFAyT1cwSlduR2hkS2c?oc=5"
-  },
-  {
-   "titulo": "Bucaramanga anuncia más cámaras de seguridad mientras persisten los hechos violentos",
-   "fuente": "Blu Radio",
-   "fecha": "21 sep",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU2Jjc25hcjBhRF9GeVRjbXFhYXNoN3NXZFlTVEduU2ZONnlRWXdsVTJsbXdjNHg2ejI5UEFjRW1US2JIYjhFSGdCNkNDZ0tPUndZYmNWUmIyeEVxdERHVmV4Sl9VOVVMVmF1SzlTaEVvMzlNRnlqZ2N6ejAxZmJjeTFyYmZTdkNOck9VbDZUX0YwUWNCd1otUW9oLUJ5a1BLOXRla0J4M01ydE5aWjloR1FlS2FvNzlJUWtfQXBnZXZycWE2LVZpT3hoOG9LWTNNVElPNkplaU5pbDBQMmfSAd4BQVVfeXFMTVNiY3NuYXIwYURfRnlUY21xYWFzaDdzV2RZU1RHblNmTjZ5UVl3bFUybG13YzR4NnoyOVBBY0VtVEtiSGI4RUhnQjZDQ2dLT1J3WWJjVlJiMnhFcXRER1ZleEpfVTlVTFZhdUs5U2hFbzM5TUZ5amdjenowMWZiY3kxcmJmU3ZDTnJPVWw2VF9GMFFjQndaLVFvaC1CeWtQSzl0ZWtCeDNNcnROWlo5aEdRZUthbzc5SVFrX0FwZ2V2cnFhNi1WaU94aDhvS1kzTVRJTzZKZWlOaWwwUDJn?oc=5"
-  },
-  {
-   "titulo": "Armada de Colombia adquiere sistemas antidrones a través de Codaltec",
-   "fuente": "Infodefensa",
-   "fecha": "21 sep",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVU1EWnpLNHE2NU9SSXJ6dzNmNzZjSXhoN1hCUUREV004aExGLWFrQ2pxOVg4R3V1QnkxcmZ3VW03Q2JTNUlhZnlyTWlqNkRmR0JiRmRMcVBPdGIwSjdDcEw4enhhX2JIRXJadnZaaG52SnhIVHNyb3RhdTg4QTNmaHlRLVFqZWFKenhDR1E1NHFwSEk2bjRmUThjaFhER3o3bHJTUW5LSG1DUnRZMWNQX3RHS3V4RFZ3SXJ2TG0zS3REd0lhMGdKaFA0VXhuNFRWMGxEVm43UXREY0U?oc=5"
-  },
-  {
-   "titulo": "La SIC prohíbe exigir reconocimiento facial para entrar a conjuntos residenciales",
-   "fuente": "AS Colombia",
-   "fecha": "20 sep",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZjk0RkU2YTJuZWZmWGlJNF93ajExNFlsQVhNRWluRFVhRUdHX2RnYUMzd3VPQXE2VEtUYU12S2o2R0RLaldzd09kb2t6NHVQTUY2dU9ZQ0N5WjZaNkpzNXoxVHlodi1BRlBjMC1sV3RSazFDNWhsUkw3QTl3bzY4OXg0cWFmN0p1VGc5SnVYdi1xYkd1aUxFRmJabUJGc29mVmc0bUtkdnNhR25aR3pUVUpYTkg5RExYeGl1dEMyWFRvWV9VTlHSAdoBQVVfeXFMTVFpVDd0elFQTGp6WWE0cDFHX1dVOEFZMUdPVDVvZTlyNjFSTS1IMnRIR3JTbms0Z0tCWnZIb0xEekRha193MGF6d1B4MS02MmxzTElTejE4UE9sSFlveUZFRHVBalRPSEpfQ0dBU1Y5bU5haUVVU3hlNUlHR0VQa0JhOFphMnM3Q2pENlhVM3RrdVFKTE9wemVUb1BoUFB6c2tPMjA2eVo2ejRzNVljZXhlV1RpU2pORTZkOFdNT2lMalp6UkJIX0RmM3l0Q2JzVWxyaDNSY3ZmN2c?oc=5"
-  },
-  {
-   "titulo": "Network Optix presenta Nx Maps Advanced para la gestión inteligente de videovigilancia",
-   "fuente": "TECNOSeguro",
-   "fecha": "14 sep",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BVWZVWVA3c1BKNW1fMHpVa1I2cHlaSWMxWDJISHJWajduWGlaSDNKWEFVUHBiSjlGN1Ruck10eDUwTWhkZVE2bmRZdTVGUWg2TVcwRnEzQ1pmbHo0WF80Rm93UnZLWmktQ2FDQmo3RWZKM3dsemw5NmswaU8?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV1hsUGdfaUlONU1CUlFIZVZEVHdCZW5KMFk3TXBrWjVQNm9xVnRjVXFmSXNnY2pUTzk0M0RoWV9ncE5jZkxSbzVYWmMtNXdpd3liOUphaWRuM04yc2FnLWNZSElRZks0eVZWanhiUVAxbWtNdVUwcHNOT1BkelRYRm1fMG01c0lRZ2JMSF9qdktDOXlWOWlBeDZXOGdwWFYySVVLbnhtTlJMOVhrRm5KeDJXLVN2S2dmeDNTdVdPQUQ0aUZwYldBbU8xTHNJQQ?oc=5"
   }
  ],
  "noticias_mundo": [
   {
-   "titulo": "El Ejido promotes a third phase of video surveillance in response to the wave…",
-   "fuente": "Demócrata",
-   "fecha": "21 sep",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWDM2WEV4Y3M4VWwwMlNseEk0WkZUOHh6X2pBTk5RQlBIRHB6Unh0Y0hZVzFHT3p4Y3pSa2E3Zk05blpSTmxGNHNvaEpWMFFRa2F5UjdnMWRlaXpCakVYSlRfSXZtcXVfRjg2MjIwejNNQXVSNTZFc1YzN20ta2RUcWFKZzlab0VrVWkyeGc0eTBIMDZOQU95SDJsQ1pWYWVwVTZiRGFfSlB6SDdnZ2VoWnFKdzlDWUYyYlBDQXdvRTBiSW5iX3FVZTA4Ni1uSTZvREhIWHJEWFV4V1FMS2JFNm1MNDU4djDSAewBQVVfeXFMTnN0a1RaRXhCNjFPUWdsNU1ndkxsMHhYRFQ0UUxUUmVUdDZreGRQNTd0b1hGQVpNd3VTTm80enVGazcyLUU2Wm1VNWlLb0tQd0M3UEUxWkp1dmQwWEFQbmZBcVpNRnNUZVFtRzE1MW04ei1FdHliODVBd2NEQTRadmtmMXYtclJUQzl4Q0dEM2ZYLWY5NHpPYnpjYUJFS0hTVnhyMmh6c003LWJfb1RZM0hDaDBQekVXVTQxQmFVYjByd1B5d0N1T1pqaGticzNDbXFjUzlIUklUdUt3Nm5NQ1E3QUJoZ2VIVllNaHE?oc=5"
+   "titulo": "Envoy Research Exposes Critical Identity Gaps in Physical Security Programs",
+   "fuente": "TipRanks",
+   "fecha": "22 sep",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSk1Pb05YdDdTTHBWOEJTdjBhR01TOXAweHJJVEQtdjA0bU5kbF9wamh6S2NGNk5xc0VpRTFKbDB4SlM5azg4amNZVXpEaFJ3M3YxeHp2RDlVd19tZkh5bllHVk94SXVKajIyX3JnaThtVU9HbENyelhIQ2xLVk1GVjZMUzhtM1NpN05iQlJEQUMxZmRhUEZkblRLT1RKOXdzVnNYeklOMFpCY2lFU2pIZnZ5MGI0Rkl4UzVub2tCdng?oc=5"
   },
   {
-   "titulo": "Spike C-UAS: This Startup Just Raise $7M To Stop FPV Drone Attacks",
-   "fuente": "Interesting Engineering",
-   "fecha": "21 sep",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV19melNRTzhyRG5rNEQ0ckVyYmVKOEZZcWpyeGNGNGRvSkFydTJGbi0zeFJmbFN6N3hrX1JsOC00SEZTYmVZX0JtVDNJZGtZQWdSR1IwN1JoWjhKV3NWem1zN1NUeTd5LS1kdGJrV0JZUXp0MndqM1ZUUjFyb0NBbWFzRjJXOEx1NVoxZGtQbUJSa2FDNkRSbUl1c0xZMzNSSENJdE4yZ2VlUQ?oc=5"
-  },
-  {
-   "titulo": "Camera hack highlights physical security risks for IoT",
-   "fuente": "IOT Insider",
-   "fecha": "21 sep",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFdCWklaLUNMVUhMd0xhUzM3aG5mWFRGdWhfNXhuU2hpcDAyLVdOcUNEazJ1YWNXemFSQjJtb3dzRVZXc0Q5Z3JhRUdkdlJ0SDRBVXpXT2c2R2pxUE9HREZ5VkstNU5NU2FNVW1wNHdVdllKdkU4cWJSbmpuVTBqUHhoUHpfLXE1bnd4bkwxRlhKaE1rOVctd01yN0ZmOUpjVTdQSg?oc=5"
-  },
-  {
-   "titulo": "Where Mass Notification Makes the Biggest Difference",
+   "titulo": "Why Security Needs to Stay Alert in the ShinyHunters, Clop Feud",
    "fuente": "Security Magazine",
-   "fecha": "21 sep",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYTZQbFZ4bEIzVHhRV3lRQjlfXzRudlFmVTdmeHVBN3hEc09RZ3BMdEdYQlBwUElRTUxESTR2ZVUxc1BMenhCdDBDRVR0NWp2ak0xNWpPWFppWW0zVVpKNmhLM3dtN2VFN0xYOF9JenFZNndfYktRQTkxMGY3MjlSSEYyMEp6NVZtTmIwZ1h1akF0Q2VyMTNFcFNVd2lmYVVsTlRV?oc=5"
+   "fecha": "22 sep",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaHFfenVibXdBNTFERGFIODRPd3MyZDYtaVdQcDExTjZnejlrQnFqS2thb2l5dFNyTVFVU3FyTl9TRElUZTZPRlJPSUZHaWVKVWd4OEd2X0RzTURWenRDZ2x4NFh6UVJ5blo0WUxWTFc2OG9nNHF4OE1UNEl4OHhGVnV3MERHV3FCRThXSjZScUIyRmlyYk1EaXFwYW9MSkw5azBDWXRCamxQZ1JpWjhuVQ?oc=5"
   },
   {
-   "titulo": "Omnitron Systems Launches FlexSwitch 10GRPoE/Sx 24-Port Ethernet and PoE Switches",
-   "fuente": "Security Info Watch",
-   "fecha": "20 sep",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeDJZQV9hRVQyb1JpN3h4dDFDMUEyLXJLSU9LQjBOU1NpM0owdUd4Qlp3TDZnQ25wT1NRZDRYRnVrS2x3QXNTQ3BQTmhWaWF0dWVLN1B3ZUZQRlkxMnRwZ0tLd2dGVlVlQkVHUGNMdmZiV3d6Z3NRUHZZMVcxTGN0NTVrTmxHTEtadEtwVUJySlg0VkhIVThyTXlyVWlBMW92LUI3WW9JXzlYRWJtWVlSRzJCT2VWU3NaTVEwalB0X3gxOFNJWEZad0pVQ2o0YVdRWTl4aWVFOHpCNUd1R2Z4S3g4eV9XRlhWNUxzSllEcFltbFZTelpXSXpWa3I?oc=5"
+   "titulo": "RMX Publishes QuantrusX Brief on Real-World Intelligence for Physical Security",
+   "fuente": "PR Newswire",
+   "fecha": "22 sep",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObHFRNFh0Wndpb3BPVldLOU9GMUhJMHFTTEkwZWd6TDE1LWphMkJXamJINzZaaWJIREpBLTNEYXoxQ2pncndpT2pLOEtiRmJhdG9nemRHNERrQlpmVTVkM2tnWkNyNFFySG5mMjBQYzdieV85aVA3WlhqNXFFeVVFVDc5RWpzekdyN3FCMUhONFNqWjdNTjg3UEFDekhHeUU5c09UdGhLbk8yVHdIcTFpdElLQnZJa2c4RDdmWDB4dEc0b1VEaTNlSm1Zdkc3VUk?oc=5"
   },
   {
-   "titulo": "AI Drives Cybersecurity Investment as Security Budgets Remain Nearly Flat",
-   "fuente": "Security Info Watch",
-   "fecha": "18 sep",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVBDV3Q1WHlsMlR5dVllY3J4NXlrZ1lnbkxEWjBBN01UVUQ5TTBsaG8wWDFaSm9ZWDNwX0daQmdXTnZNOTktYks2QTlZbTdKMnhhME9nMllxdFc1cVA0eDN1b2tZZkxmbUM0MDI5aWtONjZ5eUpPekRlS3R5a00zT1ZYcWJWQXFlSy1yelFsWVBOY3hCbG1uWUxTQ1g2SHJEbDlWNTQ0blJESkNPSUtDa3RzdTJJZDhhQkJQbVJpMjYySHN3ZnFTcEhtNTJBZG9r?oc=5"
+   "titulo": "Rutherford Police Department Modernizes Public Safety With Unified Video and Access Control",
+   "fuente": "Business Wire",
+   "fecha": "22 sep",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMmhOUGFlMHZKbnZjRnlvTG5fQU9QZFJ0aFRId2ZSb1dHTWFhUHkxQ0NhdXc4NDdVeTRBMS1OMFNaN1Y5SHFWZHVFdkgwamNab1lhS1FVN2lzT21fOEVSVU5KeWZXSUh2WHJoTlFkUzB5ZmFEV05YanJJRk85dzhPaksxTVBJaVF1TXg1VTI1TEdzNkhHSDR4NVNfcHNOWDI1azN5QTVpeDBIQ1BTRmhHLWJpZ3N5ZjZPT21wUThrYVI2QmEtQmV4bUhSNVA4MXNFWWM0bGNzcjkwdHRVdENoYUh3?oc=5"
+  },
+  {
+   "titulo": "The access control recovery gap: what to test after power is restored",
+   "fuente": "Security Journal Americas",
+   "fecha": "22 sep",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LTkh2VzR1TmdVSUZXYlpndjhRRzU2eVl1dUxkbS1ZdW1fbEFXRV9PQk1JWUFjVE1DSVhoSzhMX2g4cHQtcnhMMl9QSkFhT0Y1bUhITnRfQm1QZng3cjAzV1lDaC1xZnZDVEt2dlBLTnEtUQ?oc=5"
+  },
+  {
+   "titulo": "France and Iraq sign agreement for the supply of AI-enabled C-UAS interceptors",
+   "fuente": "unmannedairspace.info",
+   "fecha": "22 sep",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzE0TEdmX1pWMUpGOHY1OFZNRl8tMnZISmQ4U0dGV1NBcHM5SVpneTBHME12YVQ1TzVBclBXVlpnbER1Smh6X1BLanVFbElJUXFlck1qUDc4b29qODNNcHhpUWN0Q2k1cWdhTFRvNG1HNkVYc05jWHV6bXhybTFyZ0xLVlJHT0MzMUFXU0htVElYM0FZMkV6VnRoTU9xd3E4YzlFVHEzTDhNdmlfNFlUWjlLa1g1RE1iNWFkemI0aWZTYzIzYkdEbWpRSGI0ZTEySktJay1qX1kyZ0pPWkhj?oc=5"
   }
  ],
- "actualizado": "lunes 21 de septiembre, 11:31"
+ "actualizado": "martes 22 de septiembre, 10:04"
 }
