@@ -1,61 +1,67 @@
 {
  "noticias_co": [
   {
-   "titulo": "El DIM hace historia en Colombia: reconocimiento facial para ingresar al Atanasio, una apuesta…",
-   "fuente": "elpais.com.co",
-   "fecha": "22 sep",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZFlndkRtZHBuZUUxdXZzSHZBTXNfM0JnVGtrX0pNM3l5Y0tEY0tVNk56ck5jdnlzTER2NDlXMGswaktiODFHWUpRSzFoZzlFWHI3X085bDlydGNYcXlUY1FSTWx3bldvUEJRdk5BM2FxQ2VPZENsYVFMbkdBVDB1WFdYaWoyYnhaM0FoX0pUUThoeWZieWV3VTJHVE5XZXZELUxhSnRVN3JTVHJ6NkFldmdrTVA5M2lyOUpBclRwdGtGRkNIYkdjQVZfT1lwNkZvLVY0ZVZWTHIzNGY2ZUhzenlFNDRlbmEwOTFhSlhqTXdSQ1dF0gH0AUFVX3lxTE1kWWd2RG1kcG5lRTF1dnNIdkFNc18zQmdUa2tfSk0zeXljS0RjS1U2TnpyTmN2eXNMRHY0OVcwazBqS2I4MUdZSlFLMWhnOUVYcjdfTzlsOXJ0Y1hxeVRjUVJNbHduV29QQlF2TkEzYXFDZU9kQ2xhUUxuR0FUMHVYV1hpajJieFozQWhfSlRROGh5ZmJ5ZXdVMkdUTldldkQtTGFKdFU3clNUcno2QWV2Z2tNUDkzaXI5SkFyVHB0a0ZGQ0hiR2NBVl9PWXA2Rm8tVjRlVlZMcjM0ZjZlSHN6eUU0NGVuYTA5MWFKWGpNd1JDV0U?oc=5"
+   "titulo": "UPTC estrena reconocimiento facial para controlar el ingreso a sus instalaciones",
+   "fuente": "Caracol Radio",
+   "fecha": "24 sep",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaEVZdUhIUl9DSGlUUVdnNnRMZzAyRG41eTMzVVRvWEZrUTEtbmJ4bFV6R2hWSW9pX2NTMjJMekJkemI0SGs4LXUtVTdOVlVGQmpmVzJnQldFbEF2NGxTdGtYTGUyS2p5QW42X1Fpd2N4SjlrX0FPMkwwNHNxRjRIb0J6YXR4MGdWX1NlcXlWQzhSTDA4aFkwTFQ1YUlOUFU4M1kwclZ2VlEtVVhlQmlqajRPVDlrbFhSUVVNLVQ2cjRleHlHN0piRXZ30gHKAUFVX3lxTE9oRVl1SEhSX0NIaVRRV2c2dExnMDJEbjV5MzNVVG9YRmtRMS1uYnhsVXpHaFZJb2lfY1MyMkx6QmR6YjRIazgtdS1VN05WVUZCamZXMmdCV0VsQXY0bFN0a1hMZTJLanlBbjZfUWl3Y3hKOWtfQU8yTDA0c3FGNEhvQnphdHgwZ1ZfU2VxeVZDOFJMMDhoWTBMVDVhSU5QVTgzWTByVnZWUS1VWGVCaWpqNE9UOWtsWFJRVU0tVDZyNGV4eUc3SmJFdnc?oc=5"
   },
   {
-   "titulo": "Más lejos, más conectados: cómo Altronix rompe el paradigma de la distancia",
+   "titulo": "La UPTC moderniza sistema de control de acceso a sus instalaciones con reconocimiento facial",
+   "fuente": "boyaca7dias.com.co",
+   "fecha": "23 sep",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNak9ZekVqbGVkd2U0TDVxQlh5eGVrc2Z6ZGVDRlYyay1iRlRkZUxFaVRJNHA3UVJaRFhKTVVSTEJPMHlrbmFsdjREX0NUYS1qcU1GZHVYRXdCMFliWTNXTUozNkNXZWcyVThDYllWdGdieFFER2d5bVZidGZsOXdROFUxOWVvT0FESnQ5YzlfR3JpUDlTTHNpeEY5VDdmTmV0cjhnTkJDZ0hjWjlOUmlNcWlWbDhHaE9XZExBeTU2YUZETk11Q3BWVENqSQ?oc=5"
+  },
+  {
+   "titulo": "El estado del arte en diagnostico y mantenimiento de deteccion de incendios: Self-Testing y…",
    "fuente": "TECNOSeguro",
-   "fecha": "22 sep",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10d1JFTlV6ZXJGNHhDakZpaHRiRHBFX2ZhMmhDZmQ1WVY1YXFWbXlNSHlLSWd6WF9kWl9VMDBQemVpUzVEYmRkZV9DY0c2MG5aekUtX1FXcWlqSnJOUzNTRkRHVlJtNURIQ1c1aWtCdkVMVGI2V2U0TGFfdVQ?oc=5"
+   "fecha": "23 sep",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHh3cnpqalpFLTJybWdGdUhXNDlIelVuejNBNzhLQVc2a1pQRDQ0OTY1N2k1dS1KRUZVdTlFSVNLQzVCbmJ2TW9ybXBlZmtFSmtWaE40US1jOGJLa0R4MXlCWTZxb3FybXFXQjQ0RjZwdjIxeDE3UVpEYVlIWElxZE1ibWk?oc=5"
   },
   {
-   "titulo": "Reconocimiento facial en El Campín: cómo funciona el sistema FacePass para ingresar al estadio",
-   "fuente": "MARCA",
-   "fecha": "22 sep",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUzRrQ3JVeXZic3FIMFFPZ3l4Z2VUTWFkSms3c3lickwxeDNocWFYUTJkbXozOXRaLVgtcHZJejNzUjNvd29WMU9HdG9TZjNhOG9HUzdNbklPTzBhU3Z1SUszYzgwdWdqZmVTSk5VSGNKaEtQMjB6UUFVT25uTkdvZTNmTml6UVlTZEFNUTFiQjYtU3ZIZnJyeUhwN1FyNURzbGMyUjZVbE5FNE1YSEFoY2ln0gGyAUFVX3lxTE1TNGtDclV5dmJzcUgwUU9neXhnZVRNYWRKazdzeWJyTDF4M2hxYVhRMmRtejM5dFotWC1wdkl6M3NSM293b1YxT0d0b1NmM2E4b0dTN01uSU9PMGFTdnVJSzNjODB1Z2pmZVNKTlVIY0poS1AyMHpRQVVPbm5OR29lM2ZOaXpRWVNkQU1RMWJCNi1TdkhmcnJ5SHA3UXI1RHNsYzJSNlVsTkU0TVhIQWhjaWc?oc=5"
+   "titulo": "De la alerta a la acción: Milestone Systems explica cómo la IA está transformando…",
+   "fuente": "TECNOSeguro",
+   "fecha": "23 sep",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeGRBdk1vZzNmUktzYW1Sc0RSLWZ1Ri1WczVoYVhRVEp3RWtXNFhTX2VEOWZ1MEJHX3l5ZnJGZWRxdVdyb2J5THkwQXNOTWFjY2dLZmh6blJTbHBaNHRGWDAwYXYtMlBFaVZRelMzNEt1MWQzamhBVEFMX1hvbmNYVzBXYw?oc=5"
   }
  ],
  "noticias_mundo": [
   {
-   "titulo": "CENTEGIX Integrates OpenEye Video With CrisisAlert Platform",
-   "fuente": "securityinfowatch.com",
-   "fecha": "23 sep",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObTZTNThPM2FpYmo4RjJ3T2lOazE3NjRsbnJ5TlY0cDVDaUdWMm9HY3FpbnAxZWJReXVINEg2M09oaGNSeWN5cGR5R3R5Ym5ZN3ltMEtyOUtYeGlIS0RTTEZmbXZCNU43R1A4VUxHUElneFdUaDNaNDBSZGJXTXdSR3FJSG1TV3E2VXAtMW03SzZZUy03WWg5WF95MVFON3I0SEgwYkxtMk1TUEZJZDVudU9oa1pfY2RsTzdhQzFRUEYtaFhhY0c2NjJMVVBvYndibWlRTEdZbjhfX1JIa3BpWXZ1d3psMzVELXBySW0wajlEMm5Rejh0ZA?oc=5"
+   "titulo": "AI Leaders Warn UN the Technology Could Be a Risk to Humanity",
+   "fuente": "Security Magazine",
+   "fecha": "24 sep",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR21NcmpHUE5OeVNnUEpEcjhfeDFzYlp4R2pZU28wLVl2LW9tcmc3VlkzbVJsN05IbWdTTnhURURxZGpwWkZyLUlLTEZySXJfMXd3bE5RaXpnNTJwOXRIdUhBS04xRmNJUUZHZmhWOXlQMFU4MGFwbGdCUDQyNmJNejBldGxXWTNFNjcwZU5za3ljdWxvZ2FSd3AtMHVVWlVkSnlNZW03QUl2ekFWYVo0?oc=5"
   },
   {
-   "titulo": "Accès Secure Inc.: Alarm Systems, Video Surveillance and Access Control in Laval & Montréal",
-   "fuente": "Digital Journal",
-   "fecha": "23 sep",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONnlkN24tNnhrdWFhTHc4NlBjT19aX0dGUUFlS1Ric2tqNTBaNV84dDFMSFE1WFF1Qi01dV9acHFsZ0N4TUpUcnhuZ25VOU56OTVORnFBOEtuai1IN0FGb1B0Wmt6U0stRm5uendaRERjZlVzWWFaRmoxQWJOM0lrOGxqTTE1Z1gwQ2R4cUMxcUxMc3hySTRmZHFCN0k3YkF1?oc=5"
+   "titulo": "Change Agents Corp. (CHGA) Launches C-UAS Subsidiary",
+   "fuente": "tradingview.com",
+   "fecha": "24 sep",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHZ5Nm4wTE1Yb25UYzM1REtBNnN1cktrakUtUERuMVZ2NHF5a2VzUkRHX2FLRVp1eDdja2VTSi1Ca1ZOQ05KWUNyMkpLZEgtYzNFOVFEaG9iWGZtcm0xV3Zhei1rYXlQYnRSNmJZS0c0blVFdTZwVGlDakdXenhBMTZ4a29NTGUzR2hzRTZGeHhJNVA3dEhUYlBzbXBtVHA5dVNsMnZ0OWZLUjAyNnpVOA?oc=5"
   },
   {
-   "titulo": "Partners to Develop Integrated C-UAS Net Gun Solution for Armored Vehicles",
-   "fuente": "Unmanned Systems Technology",
-   "fecha": "23 sep",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGRiR28wQmh6VWRHQURCYnUyemw3RHIzVy1OOHVVVVdxTVpUWkNrT3RDOHRGUXdUdjhwVmhIMElRSDdJa3Fnd1ZmTGQ1SEoyaXpOb1JVTm9OWmh5MmRkbXhrUkhxZkhndmt6cHZQQzBhNlc5NWJVZ1o5V3p3Q2QtbHM2ZjdYUUtlR3lZeDd1blQ0MFJSTXFsb25uRFhVRTJxaUhRZXluOGM4VzBoZWJ6aUV3akVFY0FJODhJSEhWNDBZaHM?oc=5"
+   "titulo": "Beyond Protection: Redefining Physical Security in Latin America",
+   "fuente": "Mexico Business News",
+   "fecha": "24 sep",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSm1PTGVERUNLaEREOFBIMUozRnI3N1dQY19zaGllZUdWdnlwU2FIWkVpY2F3anlBb0tXNXFwSkk0dEhZVEMwNW1uV0VkTUFNVlZGR3Z4Q1p6Ty1panVCQVlZeDA2Q0swbkVkN2x3dVVPVHVLNVVIZkktVFFfRXNjb1IwcTlORUhvbkdUdnJkdG9RZEQyMURHSmYtSzNWTEE?oc=5"
   },
   {
-   "titulo": "Former Altitude Angel executives launch C-UAS and infrastructure security company Wardyn Technologies",
-   "fuente": "Unmanned airspace",
-   "fecha": "23 sep",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUWtXVC1zMzBjN0R0NUd0MFRST3RueWxxbHBUbGNSc2VQSUlXajF5ZzBnV3h5bW13cHU2b3d0UHpsVTdqV3FqeFB1b2ROeXlOUnpWakxPbVoyOWd0R3NqSnVOYU8yV1VqOXUtUmlobWg0U25LSEVYc2tFUzJzUVl0LWZMMGxNSHQ5YV95SnNGckRvdUJHOHhUeDY5MG45VVJ4NzgzRnVkdk1YdExFT0taZ0tyZDRKRTlTNC1uVnV0bHJ1VEhaS3hHNjdrNjJXaEo0SUJ3YWJYQmNCb0hQNGZDaWNvV0NPNDNrcnd0c0JOQTlCZzhWUGxSQ1gydEk0QQ?oc=5"
+   "titulo": "Redesigning Security Architecture in the Agentic AI Era",
+   "fuente": "Security Magazine",
+   "fecha": "24 sep",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMlVnLXlveWl3emIwRkxqNTdvY0VveVlxTjYwTC1qaU9QdVdkVXIyVkdEWXFfVHkzRXh0dGI4aXcycTJIZDhLTUFXVkoyU3hXemxPeGJqUmdVUHJtcFRpY0JURFRSY1BKdTVJU2lpTF8yRjdtcWVuRTYyU1lUVWY3TmlyM1FnR19uaF8wOFFiN3dSUWFrTW5ybWhPdW9JakE3MlA1UXpKY05nVlY5SlZPa0ZwTkhuZ3ZlNnRtVEExbnE?oc=5"
   },
   {
-   "titulo": "Nedap launches Nedap Way, its new range of readers for building access control",
-   "fuente": "Idéal Investisseur",
-   "fecha": "23 sep",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZVhrX0VsS1pjZDhpY0hBQXRWOVR5QTNfWVlHdDRhc1RvalRpWHhwNWViaVgxSzhqbGQ2Ty1Pbm03WkVSb1VsSUM0UEVWT0Z5RGZZZ0wtMDd1dGtDTllsajlwOXNhSlhSVkZVQ3Y1ZlVGMHdoUXU3cExXalBUVFVEQk9qMW9XclBlVnFxRWQtemNZeFNrLUxCRzVYbnZjOFVfWnVibDk5NWJHQWJvTl9rNk1ldTB5ZW5uNy0taGRoWDA3aEl1eWdiMkhSN2hlY2tBTlE?oc=5"
+   "titulo": "How do counter-drone systems operate when GPS is jammed?",
+   "fuente": "Military Aerospace",
+   "fecha": "24 sep",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdGhPZlNXNzdFamRXY3MtNWJZM2VwR0l3WGhIV1NmVm1KZWx1Z3RzZUlCeEY1M3oweGItT2p2RFZNNTFWWF82dkJOSmFZQmtwTHR4U2hiUXV2QUhZNG1GMDJCVTVlY3pXbGt2SEo5VXZJQTE2bnBZVHdwa21qOGVJWUpzUU5nRHdZdldBMldiWTF3d2w0T2VwRVpSR3hNcTJrSUUtQjJhUk9CMG5nVXphRnc3WTV2UQ?oc=5"
   },
   {
-   "titulo": "Beyond the card reader: redefining access control",
-   "fuente": "Security Journal UK",
+   "titulo": "Baltic states seek EU funds for counter-drone capabilities",
+   "fuente": "eualive.net",
    "fecha": "23 sep",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYVRZTWZOajJEUDdpY19QdHZHYjJQeXhhSkVWV1JFZFBtcEJ5MEw2T2c2Y2VhQzRVYlItZ0ZxdVFPWlNQZzgxc1pBbTlmSGswQV91dDVFUkpoLWJLaWVldU93YXZON0k0ekRpaUZhMnBPUXdKSEdkdTVGSDJUSWxJdw?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZTVXdlZMTnZ0OUJuRWN4Si12XzNJRElyWVlvY1JybmJtS0ltZkZPUHNqTUVJU1V1aWtXbk10Z2xKTHRDRDJaeDVMeVpYYlRBUFhseF9LUXhEd2Z6aUdqQlU1eU1pYmE5QzlrWHpjclRna2JuaVpQaUhybHRKdVdSblI0UjB0Zw?oc=5"
   }
  ],
- "actualizado": "miércoles 23 de septiembre, 10:07"
+ "actualizado": "jueves 24 de septiembre, 10:18"
 }
