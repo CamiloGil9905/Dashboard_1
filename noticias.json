@@ -1,79 +1,61 @@
 {
  "noticias_co": [
   {
-   "titulo": "Verificación biométrica en clasificados para adultos: así funciona el sistema de Pasión Prepagos",
-   "fuente": "La Gran Noticia",
-   "fecha": "02 oct",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQUpqc09fd0dBOFRIeThZOWVNUVpqeTgycDJBR1R3WUFhekFTaGtxanBwcnlUSHdyYlNVZVhhenJBdlEzZHJIdmw0eVBqNDU1UmpEaHhDSzY5QW1oOEdaaTd0TzN2aGgzbXotdGlVSzEzMjFyNGJ5SXZ0WXhZY3RYU3Zqd09wb1BPZnRGZkQ5b3dOYUp3eV9nRUY1WDVrTDNGRVB6X2tKVjh3VDhqWWJSb2NPQ0h1a1VrU2lhWjZ6UloycUdnV2dVTlBBOWdaeU53RS1ZdQ?oc=5"
-  },
-  {
-   "titulo": "La alerta detrás del reconocimiento facial como mecanismo de acceso a los conjuntos residenciales",
-   "fuente": "semana.com",
-   "fecha": "02 oct",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPel9uX0VPMHlmMndwdi1TZWdoR2cyX2xWUVJSQS1JMEJ2bV9mSmU2bVBhdm1BZFIyUzZ6TzBPYy1BQ0lvcnZ4YkxaRTZ4T2J2X1dWTTVmaF9KRVJmNU40NGYyMWZ2T0pEZ0Juanp1Vk9GWmU2UHN6RUlNM1FveEdMUU1qQWlYN1VuZnppakpUdEFNRFc0cXVfR3hzemtKQTJqeDIxV1Y2dmcxdjF3MURyTWN2WUVGYl91WjIyQTA1ODRWaldpOVlXdDRfNEotQWVsajk4bVU0azBfaUNQQ2d3T3hiTXF6M1N5WWU4RFlpblVLQdIB9wFBVV95cUxPYjZLWmJHZ0l1V1ZNOVF6dUlCREtfbkgzOVc2YUl2ZWtYRGVUMGRZNXpWaGp0bzNpdkFEUEpQS2ZoLU5wRFJFS1pIMXA2MDBHU1RWcEM0OUlzenZtdGlSMGlhZlgyRUZ4R0ttemNETUlWMWM2ZWgzUy01YkFLRlZXeHF6NmgxcDRJbTJMdk5laUlzRFBNUUgyUHlCODQ2UGdIMjBxNjVoMDFPanBMNlJhdzdRZmhqR19nbUNfeTVTQUZocW5aOVg0c1luUnlRa1c4cV9fVzhDenVNUDdMdkhjeHNHdnR1Vk1BNU9fcGFaQ3dzbTFNV084?oc=5"
-  },
-  {
-   "titulo": "Más seguridad y sistemas antidrones, las decisiones tras ataques terroristas en Chocó: “Necesitamos reforzar…",
-   "fuente": "Infobae",
-   "fecha": "01 oct",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORVNoejZXcmFFTmUxLTNRRURRSWdFY04wY0xXQmpQTm9neXZGNFVobmZlLUFMUU9vZGdIdkJ4VlR1aUZDZlVQUHNSUkhSdXZvVzR3Ukx6T3dWQ2RPVFV3d1ZVX3BSVDcwLXRvcGdmLWlOV3lQNVpPcHhUVGdaN3FTQnpRSm9JSWFtUjcwclJabGZvdzk1R0hZZEc3YlRrVFlFNmZRc0lmOU0zWlJpZ2ctUEU3azNPRGxjcTA4NUJRZ0VPdEtRdTBuME1PWE9UY0F1NTNVTjdBa3NWVGltTGtlZVpqWmFMcVdJVTk5VkpMb3d4LV9u0gGPAkFVX3lxTE9QalFaYnVZSFhxclRWRnVlTkZTZ1Zvd2tZWVRqbHNpUE1IYlJFUF9kcWViNTVWay1fRnZGcDJZTlBpZ0N2cTR4ZUxISFJrTUk3bWVoSkF4VS1wN3VSQnMwcW13RkE4ZmttVUMxNmNZZXoyV2dkUHpuTWs3VDlMa0VJQWF2UVJpb3dGRGo1R3ZwVnVDMXJCNDZzSmg1cDRoTjJ4M19yTU5yTGRtRGJkT0xBc05ieVlFclFoYXd6cFV2YnBwSHZNYjFFbElBY2RHaUZ6Sk1RWTFxb2FYNlpIM08tbmVYTkhaUjVvTU1nNy0zWl9DVnJrakRzRC0taElDZmRNVmNpRU5nb2ZfbzNsdzg?oc=5"
-  },
-  {
-   "titulo": "Bucaramanga instala más de 100 cámaras con reconocimiento facial y lectura de placas",
-   "fuente": "El Espectador",
-   "fecha": "01 oct",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbjFIVXByUm5FandLU0VtaUVVb1Q2QzFfZkFYaUxwMUdjeUdqSXJDOUR2Slg0U20wcjZoN01UMjlSdWxqUkdwbzNsSF9lX2pLVWlNOUQ4SUxYSEFvaFY4OWlDbTBEOFhhYTRJNTZPQXpXNTFiZDRGM2JaeDFyY0NVUUstTExkcHFrRXEyYnR3RVhGMkszaVVLVml2M0htV3VXZTJCZXViY0xmeld1TUYwTWRuUTE1a25TbXVkaEhjWDNuUS1LUlZGdUEwSC1EcXVEWkpzTFhYMGV1MlljVk5FQUlqSzFQZ9IB5gFBVV95cUxPbjFIVXByUm5FandLU0VtaUVVb1Q2QzFfZkFYaUxwMUdjeUdqSXJDOUR2Slg0U20wcjZoN01UMjlSdWxqUkdwbzNsSF9lX2pLVWlNOUQ4SUxYSEFvaFY4OWlDbTBEOFhhYTRJNTZPQXpXNTFiZDRGM2JaeDFyY0NVUUstTExkcHFrRXEyYnR3RVhGMkszaVVLVml2M0htV3VXZTJCZXViY0xmeld1TUYwTWRuUTE1a25TbXVkaEhjWDNuUS1LUlZGdUEwSC1EcXVEWkpzTFhYMGV1MlljVk5FQUlqSzFQZw?oc=5"
-  },
-  {
-   "titulo": "Sistema antidrones del Ejército fue robado en Bogotá tras quedar fuera de servicio",
-   "fuente": "Colombia.com",
-   "fecha": "01 oct",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ19aRlE0TDU0dFBpMFhTNmdwTHQ1Q09IS05sQTVSM0tXWEsxa2o0eFBhMU5GQzBZM0R3c0ZTd3E1VW44Z2FrbGo4TmpaNDgxbmstdlFOV01nb3dtYzJTZXVxV3hybjBNVHpmXzNXOUxnLTJOWHRfbzU3QjJWSjZCQVB3cldNNXF0NXFTUTNNUjh6RjVsQ1lrTjVnYUhJT0RG?oc=5"
-  },
-  {
-   "titulo": "XmaasrT evoluciona su modelo de servicios y desarrolla plataformas propias para transformar la gestión…",
+   "titulo": "FLEXIDOME Multi+ 7100i: cámara multisensor de IQSIGHT",
    "fuente": "TECNOSeguro",
-   "fecha": "01 oct",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdUdiS2NvazRnbkxKYVMzQVcxaVhobXprMEZwcElzdEc1c2RGdkZNTlZrSXUyWGRZQzZGWjhZeHpuMzhpM19JS1pUdXpBaFY4RWJaeWxfWVdZNEtKTWxFaUlza0lELXViNmJlMUt0Nzl5MFNvWDFSazc3RHpXcUNuZG1WZw?oc=5"
+   "fecha": "02 oct",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVE13OVFxTVlMelBUY2FqeUNzMWxBSVpWTlR4SmJkNzFMcjJxWmNQVldKSnBEdlZhc043M0c4bld3SUViNDhKaGkwblJoNG5ycmlnOF8xWmxLbm9wZTJ2OUJFS1M4QXc3M2FBbGhudWh5ZTNzdUJFYXlxcE1Nd3d6aDFhdFVoS2VO?oc=5"
+  },
+  {
+   "titulo": "HID facilita la adopción del acceso móvil sin reemplazar la infraestructura existente",
+   "fuente": "TECNOSeguro",
+   "fecha": "02 oct",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLUh1SHpackNhbUFmTWVpSEZMRHhNZzYtRnhBQ0N6UmsxbklXU0w5YU96ZlZYRlJIVGNYRlNaamhYcER0aEdTdmxSZDNPNmthZEJhZU5GUkpfQ3lIdWYta3FwMXV1OGFHZ2hYRXZqbnA5cGE4dVRfSXdBNFhPc0NhMDVGNjRrZHNDWEk0?oc=5"
+  },
+  {
+   "titulo": "El fútbol brasileño, líder mundial en biometría facial",
+   "fuente": "Diario AS",
+   "fecha": "30 sep",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYU1wR2FzZkhpeExaZWlpeGlFTnJxUjRzcldxZnBaWVhoeGNKdHhaV3JLZW50dUxyV2l6Y0IyTV9kTHhaeTEwOHN3c0JKNmpZNGN1emZLaFIzVmhIUEN2aG8wQkxZVnczS0RORFZxRFRBYVdkS1BmdGhUa2RXOWhHSWRqdXllcmR5NGktaE0xM2hDbC1jRGxjcWlGY3lkZVBKSWfSAbYBQVVfeXFMUF8zcU80REpEWHJ2OFlCSU9EbDdLVjJra3hnbjRwNDJfMEF3ZU5RYTBENWowVF9qQmJ1WjZFS3NpbjZTOFlMS252R2VweDFNYTY5T3JEb1RvcW9vaW1acFVpSkJzS0tWeXh2R0hkTDkzX29sbTVRNlZGV250QWk0Mnc4YmFfcWd1clVtR20zU3czX211aExoVjV3eDllNDdITmhtUDFtd3dQakhpTzM0U2xiQjBWREE?oc=5"
   }
  ],
  "noticias_mundo": [
   {
-   "titulo": "AI Risk Is Here, but Not in the Way You Might Expect",
-   "fuente": "Security Magazine",
+   "titulo": "Alpha Vision to Showcase AI-Powered Physical Security Intelligence at GSX 2026",
+   "fuente": "usatoday.com",
    "fecha": "02 oct",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY0xfRFpLSk5YQ0JtZU5XRERXRk5nTXNvOVU2MXRRdWhxc1JtLTJNcC16a0w1bEQ2aFlVWjR0OEllLW1TbklPVDhzODhmQkJ6bXlDVXJudVBrYkdMZWEyaHJXWmNoUG9oR2dxQW11V3FZd25VczgzcXdITWkwUDB0aW92NmsxR3d2X1p3aDBPWkFWdUJHTi02ekNhWXNJSndkVTdzdE43MWoxSXdGblU4MWxXTVJZdFNHalFj?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc2RuelBzXzRDNTg3VmtQSnQzZDItZVBGUDFGWmEwRF9MZGxGazZsTFFWNU1zcUNpTFRPU01Qc2xpMUZ3Rk1MQmY1TXl6S20tMGxqSGdzckNoNS1JejVQOGUtdE5KaWpVSE5rRlZQWlV5RUxsU2VTZ0dzRVdSZ0JTa0RRZUFybUlyVUhNNDhPXzIwUEZuSnQzVzNTbjJfakdLOGxDX1hlaUZUVVFFX3hwbm9LOVlGLVdWb1BhMDVXdGFLVGlSTDFpY0Fn?oc=5"
   },
   {
-   "titulo": "War Department Speeds Counter-Drone Efforts to Protect U.S. Airspace",
-   "fuente": "Mirage News",
+   "titulo": "Stocktwits Defense Watch: BA, RTX, LHX Score Major Deals As ONDS Expands Counter-Drone Push",
+   "fuente": "TradingView",
    "fecha": "02 oct",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcjZoOTF1XzZVVG4zeFFNOEdFNmJVdWNRdEhMVG5JTHlBc09oV21leUVaTkpDSlVGQXFScFcxcHRYeGkxTVkta0JJWnAzd0R1RFRQMjh2REJyektMeUpUS1V1aDd3LTQ1NDhidWVyWDJMX29odmc4YzY0Rkw0UklQaUxrcjl0SWljZmc?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTUFLWmNKbGdleEVhMG1xS2dibzVwMzM0UmRqREVxaklrSmh3RU15S09uRU0wMi1RVXpQa2dhalY2cEVzb2ZtYUJyVEhILTFXaU9FQnJPci1ybldTT3dSSTRzUU9oUDRmTDNNSUtKUmVKOUhZLXkxMHpMS183dndMU2pmeUVOYkphQWlOeWV4OTV6QkV0QnRhM0I3NThEMlB0Z2t4aXQyMjFzNk13cU9KSF9DYmdQZU5tOEpBYzh2WjItUmhPRUtkdDQ0V2hFWUxKSlhiQzlDUEM2amViblJQSHpxSQ?oc=5"
   },
   {
-   "titulo": "FireTail Product Release: Sharper AI Attribution, Adaptive Governance, and Domain-Based Access Control - FireTail…",
-   "fuente": "Security Boulevard",
+   "titulo": "VSBLTY Targets Gulf Defense Market With AI-Powered Counter-Drone Platform",
+   "fuente": "TipRanks",
    "fecha": "02 oct",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNLXlxOE1MY1RIcDl4MHNQdElIczBCY1FiR1lLR2xJN1Y0TTlMWE9DRDVwMnlHMU5ad01Ta0ltRExFVmFaY1VaS2plV2ZabGtWMkYyX1M1bjNmNjQ4V0NaVGlWVVZVQmFnLWFwSU5ydXU4MWduUVRfSE9KSmpucUtabFgyMW5mUDdzUlBSWUp2SUNkRE9xMWVHdlNuaTJXZk55WHdHYWl4eWZLeDdCVm5SYTFRN0Q0ek00NnVWZGY0d1lvcjlkSXl5V1kyZzY5RnVUT0Q2dEgtSGwxMWZpcHBTVWhaZDhCWEU?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWjBoaEZlWUM3ekMtUGE1X2lLUmZ6MlZLOGR0OTBUdTd5R1NwUGZ6dlRFV3BURnpRMkxubkhvb0JvY2VfU3lKMDZ6eWNMbjA0TFBoeXFySnd4SVM0d2V3a29kZTl2dHZSTjdOM0dWLXJYcmh4RHl2NUFHSE1fVGJGTlhjeHNna2JrX0RST3VaaGcwOHRyT0JrUGlkaEdkTGlVekNrc3BLQmM0NXlzV2VQYmFFdmhVaWlyaU9YakowTXpraVU?oc=5"
   },
   {
-   "titulo": "Disinformation, Defense and Democracy: A Look as This Year’s Election Security",
-   "fuente": "Security Magazine",
+   "titulo": "Cybersecurity concerns rise for physical access control systems",
+   "fuente": "SC Media",
    "fecha": "02 oct",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVhvd2RJQld2VXJFLXBlYjdSRi1jNUM5RWhsNmRocGFUOXQ2YmtZS01SQjVKdFBuekhMMnpFU1pxZ2xOMXBnN2FLaEZBend2OW1Kcm5XQTVudUZ0cWpNQUlLT0lPSloxNElsaDYtUThFTkloU1ZVOHZTUnNyZWQ3UkxGaDN2WG0zeVVoa1lsa2s0TGhxM015RmtSWnZEQWhzQlhVN2tJVEgzQjlRODJuRTk2cjU3SWt6VzZrdkozVnJPQQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX0xfdV9nLTRadHFZWHNsdFczZUc3TnktMEtwbVhtV2ZrUFdLV3ZlLU1COTh2MWdoRFhzd3RCcS1qaW5XT0x1LW9FM1o2N2YwWDJGX1B2eURrY1l6c1Q0QWlfYkhCdlJxT3FCN1MtN3dFeGM3RFZDd2FwZjdBd3JJR21EQVpjMFZkdFIwb3VGSnZGaUY1MUd3Wg?oc=5"
   },
   {
-   "titulo": "Axon Vision completes successful ForceField C-UAS live-fire demonstration for leading U.S. Defense contractor ahead…",
-   "fuente": "EDR Magazine",
+   "titulo": "Brivo Names Hans Kahler Chief Customer Officer",
+   "fuente": "Security Info Watch",
    "fecha": "02 oct",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeEgwbExGaTRqUE1CZzhuNzRUdHpQU043UnlBeDZoWmJFV3pRZExNZWR6MFJJWDFON3JnSWI4ZlVHWWdHVUtoU0pMaGNEOUVtbVVMZF8weWpsUFhzS016QnNuMjJoVUhBVWkxY3EtZWE4b0tBM0Z1UkNBaUhwZmtPaFZMbDRPOUd2WFBkcEpHUzNuYjdSczBFb2dpX1VHa3B0T0ZiS2Z5RFVNb0xwaDlVbTJzS24yalBieGZxODBQMTZWbGJYYkxLWWlPZnpZUEVTaFZHMHhjVk1mS0FHRTJmanY3c1pKeUFTOHc?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeUNHck55MWFSQ1IzSEpnbm9KZWhEdDlpSTZ2R3YwcVUydFZRZ3kzMUdlZzl6YkdxQzBhbExSY0ljQnZ3d0tKQkxwM2R1QkMwWk5MaGpqS0w1elhrZkhocXBmWlFDS1NJdlpHeVNTWUxrT2JabTZyNXlycHNBbEo4cEs2cEhJRXhjSTJqdE5sVU1MTi1kMUIxODBrNkd2U0VfcGRkeHE0RExRZmNOa0FkVTlXQ24yWFVRdUJoTg?oc=5"
   },
   {
-   "titulo": "Qbic expands edge AI on Arm, lifts smart access control above 60%",
-   "fuente": "digitimes",
+   "titulo": "Hegseth issues new directive to hasten U.S. military’s counter-drone pursuits",
+   "fuente": "DefenseScoop",
    "fecha": "02 oct",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUWY1SFhsMVRzM1BKRTJQOVg5a2NsYkRKRjl1YzlyVE5pSnhQby1TOVBkN3pTNGFSbHRiZkJNcm0yZnhIQXRlS3lFZlJKR1A4Q2lXU0w3UVlkSmxTb3BzSnFvSFRiWnVRN0MzbVBSZWRMMWR0Sk9QTFhPTHFCcmFoc3FtOXY?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHlaZmpqTUZMVk85VnZpMHBBSU92REZjY0s3SFZLalQ1eDZ2U2Q5anViQ2tDR05sTXdEbTVpZV9yRUd6UkMzdnpERlo5VnJfRFAxUGp1eTdlQjRicHdBT3FfajNvWjYzYjhYYzVxYVhFWlZpQmhxdERrY3psREpWX2N4MzZJV2c3V3hib1B5V1RjeDAwUU4zdXhUX1N2anM?oc=5"
   }
  ],
- "actualizado": "viernes 2 de octubre, 11:18"
+ "actualizado": "sábado 3 de octubre, 09:46"
 }
