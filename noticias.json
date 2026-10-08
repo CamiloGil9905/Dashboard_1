@@ -1,73 +1,79 @@
 {
  "noticias_co": [
   {
-   "titulo": "Aguadas recibe 28 nuevas cámaras de videovigilancia con inversión de más de $784 millones",
-   "fuente": "BC Noticias Manizales",
+   "titulo": "Floridablanca instala 140 nuevas cámaras, varias con reconocimiento facial",
+   "fuente": "Blu Radio",
+   "fecha": "08 oct",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeW9adHMxZjlKNHFHckhlbEtvS0lpX0xQQkJvZEU4RnJYQkhzOG9wTWcwQ2kta2RYbllLcXBrRG5vSGJLY3hKTUNubVJCTi1BUjFuUzM0WDJPZjFpNHZqNE9McnhjblpNcnFzNTNBVndtT2hvaGRtbWViRVBxZkhTZG15blZNald3d29QNVdfYnJ3RE5DOHpGMHVLNmotd0h1U2d5dVR1YVBUcE9EMFdQZ3lCWm4yQVlHbktmc3RBYkVqQUYyZldSOGRxYnpvRnPSAc8BQVVfeXFMT3lvWnRzMWY5SjRxR3JIZWxLb0tJaV9MUEJCb2RFOEZyWEJIczhvcE1nMENpLWtkWG5ZS3Fwa0Rub0hiS2N4Sk1Dbm1SQk4tQVIxblMzNFgyT2YxaTR2ajRPTHJ4Y25aTXJxczUzQVZ3bU9ob2hkbW1lYkVQcWZIU2RteW5WTWpXd3dvUDVXX2Jyd0ROQzh6RjB1SzZqLXdIdVNneXVUdWFQVHBPRDBXUGd5QlpuMkFZR25LZnN0QWJFakFGMmZXUjhkcWJ6b0Zz?oc=5"
+  },
+  {
+   "titulo": "Cámaras de seguridad fueron clave: cae hombre señalado de agredir a una mujer de…",
+   "fuente": "Alerta",
    "fecha": "07 oct",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmxMRTdfcGktQnNaNnB3NjFyQklOOXk4TnlXWWVGRk9jUDJaTHZMTGtPRUJtRnM2NE1qRWEtV3AyOFFFZFVpMFowdFRNZkpXeTh3b0h1dzVHTlZxZ21Bak5QdTd2eXRqMThpNUxwUDNWQ29yZVgycVFvQ3kxSGFzU0FrZjA3VXZBSnZsOHpoN0RLcGFNd1NfbVhJZDBOMjhNQ2p2cE5CSnBmbGtjN3M5V1dFWmkyT1p3WGc4?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORm55aDVJdGtVYnVyQ0gxRUJXeElqVm0tMXlzSkFiZnpkNHItN3Fuc2hsczJJcHREcDM3RndKVVd5cnhBQWVFckRtc3RJTGpHSF90dVhVSTBlNFhYN2hmRHhSMDBSSHVabDBOM3Vua1JqNWMtR1NZWldiVGdscUd0Q1R5ME5BbXBxTnhpTWpXbU01SmFBM0MxUWMtX2FKc1dJUlJKSGdKUVjSAawBQVVfeXFMTWJlcjZBOTFVT3ZzRjRDZEdrZW9Ha010ZUdSOERzQkpnNm1zbFljUHM4YXZsbUlQVkFaek9PX0E2UzhCY1prai1GXy14aDI1eE9FNzRLNU1MY2toVUd5M2VnQXNicnJTcVpKUFdnempEZGMtanhBRGRpbU1sRXNkWFpxWHRuNlhNWnV6dnkwSGlSSHRoWVRsdUtPVzMwd1pZMVFWN2JPUEdHWlBvWQ?oc=5"
   },
   {
-   "titulo": "SCATI recibe el Premio Marketing Internacional de la Cámara de Comercio de Zaragoza",
+   "titulo": "Intercom Security de Colombia, referente de seguridad privada en el sur del país",
+   "fuente": "La Nación.com.co",
+   "fecha": "07 oct",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHdzXzRVYk5NV2stUWUzLXZOMU5DSGhMVWQ4UnJMdDN4TXhCVjlnRDJmVWNkckxsLVRmb2lOem9nanNVNE1YTzB3OWxES2I4azd1cGFGQ0NaNzh5Y0JaQmFMdkdPY1N1VlJmaWZEYXh1MzdoMzVNWXlDZzNpVk02ZG9ZT0E4bFR1UnRBbjgyWGc?oc=5"
+  },
+  {
+   "titulo": "Agresión a Daniel Torres: DIM identifica a hincha y anuncia reconocimiento facial en estadio",
+   "fuente": "El Espectador",
+   "fecha": "07 oct",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ19ZRXFDLV9NUXl3dDdiZGZWVUNsazZtTUp2V2JjaFhGZXBqeHcwY3A3dUJlaTBsRjN3cHpLU3hKZEQ4NkZVOVZPU24xTW5kX0hYQ2ptMWxuYWVjVkcxVTZlcWFZY1F5UnFiR25GOGdRd2V5VDdLcVBTbFBvRlVsR2ZyUldBT25ueFlxa0h0WjFPZFAwdjFUbzd5Y1BIVXFhQmtrUGt0U3g3SEphdDdfM1ZCRTRMWndOT21IaFF5cVgyRUhfbzRpNXVjQWg2dHQxeDZDSnUwNjdlSVJ5X0hfR0JB?oc=5"
+  },
+  {
+   "titulo": "Los 10 errores más comunes en la implementación de sistemas de evacuación y cómo…",
    "fuente": "TECNOSeguro",
-   "fecha": "06 oct",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUmJXa0Z5aXNUaC1LU0ozSDJ3MjJBeG5HbjgwR0FfY0FiN1RWUHNJQ09XOExzRjUyeG8zVFJSLUhBcm0wMmlvTlBNQ2x5a3N2dTYwYkRaYzI2RF9kb1pCNDVNWnhhX1oxT2pRalhuRzFnYnNKdVNEUjR6c21QNkxGNWFLQ0lrOHpUaVE?oc=5"
+   "fecha": "07 oct",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Tdm1GUGJZX2pjZHo5MTJnYnFJdzZxRHhRY3FHQV81anRuUjVRQ0pzTFJKN0FOQWFlZC14VzlBQmJzbUo5bTZCRW9fWnY2S291YS1OdVI2bzlRcjJtZ3Y3bGZBaTd3MERsS2hDbEtHSGxwMVhQS1RzZkJ2U29EdW8?oc=5"
   },
   {
-   "titulo": "Alarma en Salgar por tres robos a viviendas cerca del Castillo: denuncian uso de…",
-   "fuente": "Emisora Atlántico 1070 AM",
-   "fecha": "05 oct",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSGIwXzItZ1hMLVljZ2hFYTQtOE5nR2I0bHB2UjBlb1psNk9rN1FnR2VpR0wwZ3RTTWYwdl85Qkp6cmhOZ1M5UV9IZWt4Zjg2MS0zRVBkQmhxZWJqbloyWTU3WVFFZ1RRNUZPQ1d1ZlhyZnpnLVhyZllSSTNYQVEtYkt5YTlZdnVoTEVuZVRnQ0g0em9IRm9XRWxyektEd3FiMVByOXJPakp6cjZtcWdybkFkYXJzRHNCOEc1MnlzOWhqbmo2M1VhX2dZWWJnb1otZVHSAdIBQVVfeXFMUEhiMF8yLWdYTC1ZY2doRWE0LThOZ0diNGxwdlIwZW9abDZPazdRZ0dlaUdMMGd0U01mMHZfOUJKenJoTmdTOVFfSGVreGY4NjEtM0VQZEJocWViam5aMlk1N1lRRWdUUTVGT0NXdWZYcmZ6Zy1YcmZZUkkzWEFRLWJLeWE5WXZ1aExFbmVUZ0NINHpvSEZvV0VscnpLRHdxYjFQcjlyT2pKenI2bXFncm5BZGFyc0RzQjhHNTJ5czloam5qNjNVYV9nWVliZ29aLWVR?oc=5"
-  },
-  {
-   "titulo": "Apple estaría desarrollando una cámara de seguridad que no graba video: cuál será su…",
-   "fuente": "Infobae",
-   "fecha": "03 oct",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVUctSG5sWGVVUFpuRkV4M0YtcHF4TlF3UWRqOFBBYXRqMFN0a1ctUDBNc2xXZUZSMGZhOFFqa2ZJeFZoNURaX2tGQTBURVFvczJsNVFvVFpMMXVTSVZJWlJjd0lFU2NvYW1DNGNYR0JmcXVoOXU1RlpxYThHSXZiU29YdkFqU09kVFNmeGJwd0loa0tuRWgyWDl4NFFDRmZiMDY1OGJ2cXFLVVFlc3puc09TMG1fNFdkZ2xoVmdXdHhmVXhKY2VYajZSMGVmcU3SAeoBQVVfeXFMTVQ0Y3E5V3RaM0lZNUtWTk0wNzJXUTZJRy1BdzFwZlJzaUNudDBtUlI3dExvbGFqeHY1X3hIcDJRRWhRaTNRMXVUZTdHVDVNTzZSOVpnOURtZ0NpX2NPUnJ4ZHIyR21zZF82VXo0Tk82TElQVWNya3F5VVdLMGZMR0ZuVnJYZWkxLVZ3Z192eGpkYWk0Y29FdVNuUDMwSERHN3BMSmNqNWp3aG1rU0FjTDlqdmw3Rmw4RXExdnJwQkdJNmJVdGdQVUFLR21DU0pZd0VKRnhSX1l1a2xHREs3N1NwQ0trME9lOURB?oc=5"
-  },
-  {
-   "titulo": "Gobierno de Guatemala inaugura un centro de monitoreo con 570 cámaras en el aeropuerto…",
-   "fuente": "Infobae",
-   "fecha": "03 oct",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNU1jRXdaX25UaWtMRU13d2djdlgtY0l3RFRCU003cVBNbEZYOEtyaENDcGZGSUVVNU5XUW5TazE0MGhwb3hweEIyYUpDMVZ0b2FqMk1NSHM3WGR0Nzh3WVNsOS1vQ3ZXeVY2aUNMV2hBbkxrWTNSdGJQNlVuM0dWaDNmZm5DQm05NElZOC1kaGE0dTZha1czam03LXEtR0NEaU1sa0ZnRHVMbF9rZDJ4VnhyOTZFNms2Q1hjOHdPT2xJTEVySjBEM3RweWg4azVMbzhpRnZDTzdsZ9IB9AFBVV95cUxPZmZMZzdwMXdEVzdVUkp3UkRuS0hNRzFpVWJBNDBxS3BMRzRBQmNwY1dGeE1TRUxHclFYVndhQnJjMGhycTVjRGp4bDQxampRV29YYXcxUW9LbV9FdExxZGdPNUQ4a04tUjZwcVBta05ob3Z3VHBGbUY3UHVvX1l3S2ZPNURZanl4bWx6OWFwQlVILWxLZGZpOXFlS0NicG0xc0FqenlKOV85bzNDMWhTQnliQktZa2VVampQeTJGekdSTWQyUVgtcHc4LWN5QXprVXhMUm9wU0h0eUhVZGZIY3c1QlNhRWJGUmpuV3p1aGVWMVdf?oc=5"
+   "titulo": "Se acerca el apagado de 3G: ¿Está preparada su infraestructura de seguridad?",
+   "fuente": "TECNOSeguro",
+   "fecha": "07 oct",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVHM1Zzg0SksyZ0NMR1ZwZkVSdUFKTngxSUx6S2JKY0FrSmpDaldfNzNKZF93c2hOTkZjek5fS0NISmdBYXM1dXFsVkE3Z1JiMGdkdUpodWlxU3c5VDhXQjZnd0hWMjAzSl9Gdlk3VW5vWlVkOEsyZnVwd2hySkVCNw?oc=5"
   }
  ],
  "noticias_mundo": [
   {
-   "titulo": "48% of Cybersecurity Professionals Rely on Passwords for Personal Accounts",
+   "titulo": "Anthony “Tony” Pope Named Douglas J. Leonard Indiana Caregiver of the Year",
    "fuente": "Security Magazine",
-   "fecha": "07 oct",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcEFtakZTQl9XS2ZlcGFOTktIUzc5TU95bmxPeW9tZXhFbnplclZkLWo3LXpjQmh0SUZOZzhNOFJnTGZRQUVzUjFzejBmejBzalBKNmxKMHRkbUJYUHN2YW9EZ1NCX1ZHby1TcGN3N1pBVld1VXdDclY5a2JvRUs2dzd5dUp0OVdGS3V2dlNKVEx4WVdqTG9ySWdyMUd3aWotYUk0U1FRLS1kSE1ja2JPUXd2azhxaTFrelM2RklJWQ?oc=5"
+   "fecha": "08 oct",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQektFMXRJWmxsU05aZDBfTHE1eGxFMkxvODE4ZDMyNlM3T0FPWnJoZEY4YUV0dXlpTFdwcC1mRjNhWEtnbzJIY1czbGQ1eGtXanBfSDBTeFc2bXdhcW9waVUwYlN5YnR2UjNQaC1VWTAySDZLOXk1MjJQaUZmQmdNeWozYU03emt3dXU3SEZwbkRvWlYzeHQzX1N6cThfQVVPQjVLeVJmYU05bWJmeGdHdElFT3lJT0M3QjVZWg?oc=5"
   },
   {
-   "titulo": "From directed energy to AI and hardening, JIATF-401 is widening counter-UAS options",
-   "fuente": "Breaking Defense",
-   "fecha": "07 oct",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOXJYa1Rnamt3QUw0TFRQN1AwMDdMajhydVZJU3lSYTlCTTliM2FDSzh2a2ZqTVAyWHBMdFh0bV9zT2tZS2VBV2ZoRkpoMjM5NUxBZm94ZUpMYVVJR3ZoMlhtZW5TcVhtellSSHlpaFZ1aVI2eVJJc0tQaGNOdVBBUWRIdG55bkVlV2JrUlJIQWxIT0xrSVg1LVN1UzFnTWR3eFJCeVZSckJpaGZodFVWZVVpZGQ5aWJxQWdZ?oc=5"
-  },
-  {
-   "titulo": "Urban warfare: Next Falcon Peak exercise to take counter-drone tech to the streets",
-   "fuente": "Breaking Defense",
-   "fecha": "07 oct",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRXNuRThIUXNVM3FhSHRiRmlkcFBkWlhwTDdWaUpINUN0alJBZmZ0dzlkcmQyQVVKOXVhOTZ6ZThCbVMtQ0FMM1pVTGFFbXZ0bTlyMDhCaEN1UG13cXJHUFk3WTJnV1ZyeWZPenhRZ2ZSamFIUjZmaGhUMkdyVkpoUTVQVENVUWVzbFNWSUFPdjBxQmpMMGJ4VHh3R2Vpb0lGOG9EQUlIaGVKM1dwR3lacG9uVVlkQWxGUGc?oc=5"
-  },
-  {
-   "titulo": "Former Security Guard Knocks Out Opponent in Dana White’s Contender Series",
+   "titulo": "5 Data Security Stories to Know About (September 2026)",
    "fuente": "Security Magazine",
-   "fecha": "07 oct",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUkRpZVZJSXBSc3hJYXZWT1JMei1KQmVFN210ZHIybGUzbUxRVjFxcHZGYmhDb014RmxoNEU2Z2thaXlDa2VRblAwaXNpalhMdl9EMWdmb2FNZjZiNGg0X0w3Y01qU25xRmpFUjEwWGMyOU53eVZNS3M5LU1Wa0ZDZnRzZlF3RXdUdldrVktOd3lnVDZtbEhOa05DOG9Mb1FrZER5Qjl0d3hZTmFfdWgxdktVZTU3amtSRm1iSUZsYw?oc=5"
+   "fecha": "08 oct",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0ZwaExhdlhocjdHNzc4NTNIeEhPWjVEeTdjY1NCMEU3VThvVF9UQ2paTXYyXzVydkpXY0hOM2g5d202YW11eEM4MWZwUkhXUnhleE5TdUpmS3lxNFFad1BOak00bmRYa2NoNmxhWXhfakRfX3JSUFE3RVc4UEhrY1BxVFl0enpaTE5sRDlvZE5vM1FUYzNwRVZOenBPZkFoYlhZ?oc=5"
   },
   {
-   "titulo": "EOS to Boost Production for Its Counter-Drone Remote Weapon System",
-   "fuente": "Design and Development Today",
-   "fecha": "07 oct",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODZ5TWE1aXBKWC11ZE9JajI1c1U4M2ZPN2FvNzRyVDdZY1dMNF9fS3VSaWtFLTNxZkdiMlBpUDVtVW9hQ1REeDdWTzNCX0hyUEM1SmlENkMwS1hTWFFQai1HV3pEYVZRbFBFODFZRzZ3SnZlVWpjN1h6YnpBbzBndnlzN1EwanVTNk5mM1ZNRmNUV0dMRWZNa09lZmJ0OE5EaVh0VVI0N0xvODA4Z085bmV2aHA3NWZhRHM4ZHpjTFhscm91ZjNoYVBGbG9BTDViV0NCaw?oc=5"
+   "titulo": "Skanska implements digital access control system at Studio A",
+   "fuente": "EurobuildCEE",
+   "fecha": "08 oct",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa003UHFkdURIWkMwZmwyb0ZWNENpdDVySUpoWHQxY05DTU5vWFByMk5DMzBGLWxsOE9qeS1EcXpyTXY1WVBpV0E2eU0zR2VUMVpOWmZUb0ZTeXMxMTJkLXlmeE85YlNCRlU5Mjd1QmtSWURiVUh2VTB4amVKOC1CMkEyeThoUm9JeEZkY2JVeWpPRUhQTGc2NWxMYm15RDY5?oc=5"
   },
   {
-   "titulo": "EOS Unveils Plans for Next-Generation Slinger C-UAS System, US Production to Begin in 2027",
-   "fuente": "Business Wire",
-   "fecha": "07 oct",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdEhXMkgtNVdWVURsTFpJQUlpSkY4Sk9IRGZpeGhmcnE4OVhoN1BrYW5XRDRycTBjeWhFT0o2b0hQSlctTS1aWW5UQzcwMXpTOFlaUkZ4RVpLT1hHemVJY1NSSC1BRmxmYktPUUQ2ZHNkT0NPRld1V0VmbXk4NW9EN2Y1MTM0N3M3UUlNV2tDQVY3dTN2WUtyNy1LdTJnWVVuNUZTWERhUnZFUGtZaXRaSDJMMTNRX0JkYXRwMzVveUlCMk4tSG53cW1tWjJFTnZzSmR3MWIyTzJydlNqLWpF?oc=5"
+   "titulo": "DroneShield (ASX:DRO): FY26 Revenue Growth, Guidance and Counter-Drone Expansion",
+   "fuente": "Kalkine",
+   "fecha": "08 oct",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRTRFTTZudFFkNE9ydXZQUjRKUUVmSG9QMTVkaGNwdDl1UkNGWWpVTDhFdTR1N1k2aVB1ZVNIaHppai1FdmNwVmtvWVRKa1dRLTZHdHR3RmJSWEZVcWNuUHpkSXFfRUdYcWl3aHZlYUFxYVJNRGxxSkV6YmRxaXQyUmt5QlIyWGhxVGxnSnpNZ0dYRVgyN1lSc0ZaZXcxR2VTOFFKUl9qVUFPSm9IRURUdGcweEtGcU11QkdVVG90b1BaVkhZSGc?oc=5"
+  },
+  {
+   "titulo": "AutomationDirect adds IDEM safety switches for machine access control",
+   "fuente": "Design World",
+   "fecha": "08 oct",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjlNb0t1RVVManowMmpaaDRrTUt2OW9vMmkzMlo4V2hSVG9VWDBUS0szcXpLQ0duOUV3bFJubXpJQXJwNHRDV1FOYXRQM3lRTlE1TjNPV3JMcnRfQjY1VEtsaURCV2pXYW05dlF4WUMxRE5sUS1EVG16RGxMQ25tQVpqcElVR0hud3dRTjRwVnVmbDBZQjRyZU83aUR4dDhhZ3o0V3hGbw?oc=5"
+  },
+  {
+   "titulo": "Flock is catching flak. Experts say other police surveillance tools are more worrisome",
+   "fuente": "NPR",
+   "fecha": "08 oct",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZUhISTRZT01EZmRfRVRURWtQNERHMG85dm1rSlZEa0tvM2c5RGZ5LTZ2cl90bVdqbko0UzFxTGRORE8yZXU2SDhPenRXWTBaak1pZ3VYdjlRSlNmYWg3cGpMNzU5Z000cV93ZHdjMlVtdG9hRG5XSkJvek1kOHNtaUI2Z3NObi1MZVViR1hhaw?oc=5"
   }
  ],
- "actualizado": "miércoles 7 de octubre, 12:28"
+ "actualizado": "jueves 8 de octubre, 12:27"
 }
