@@ -1,79 +1,61 @@
 {
  "noticias_co": [
   {
-   "titulo": "Retorno de la Fudra y dotación antidrones, compromisos tras consejo de seguridad ministerial",
-   "fuente": "La Nación.com.co",
-   "fecha": "10 oct",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNak1WbjROdjhRVXJoQWtDbzFOQTFRWDV4U2ZLdmVUMTA4SVpEYXAtaVpCdTBxdFBvSU03MkJZZWZmOHdtSzZaTWZ4VEdoYTA3TlFwZWd0Ykd3SG5WR3FNU2p4OE5aVFZRd0hYZ3JlTXRTTWlfdEVlUTl5SXA0Tnc3eFByNm1ZQTlQVHJOUjRHZEtyVlp6enJXb0dKZXowVzZ3alBKc09YU3NXSU53MFl6OWNhRHE0MW5BOHVXNg?oc=5"
+   "titulo": "Dron obligó a suspender operaciones en el aeropuerto JMC de Rionegro: fue derribado con…",
+   "fuente": "DiariOriente",
+   "fecha": "11 oct",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtNTFsNm1Id0ZtLUtGd2NFZVI0ZlBuNmRROEFpNmtWMXZKTVZUTFZIOGtRU2p4Ty1McVh5SEsyR0RRdWprcUF2RzJGSXFYZUpadE1JSENZR3V2TGhmVTJ3TnRaSDkyZ1M5LWE2WlNRRFlWR2VDYXc?oc=5"
   },
   {
-   "titulo": "Sistemas de control de acceso a la medida",
-   "fuente": "Revista EQUIPAR",
-   "fecha": "09 oct",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNXy1jMkxHRU90Mmh5QzZtVzZnRmJZOGRmaGY1TjZjZWV5Z2daeGMyWmtlNkV5TVNDWXRTRTY0bFZ1RHZTNENGcjhUMzk1bF83bDU5amwyOGRJMm15UVJGaEhRQzVBZkxvTzRHWVVOaElnNEZPTmctZlBfMlcyVjNqQWNsYlJwN3dmSlE?oc=5"
-  },
-  {
-   "titulo": "El Gobierno nacional garantizará más de 400 soldados y refuerzo antidrones para las estaciones…",
+   "titulo": "Las cámaras de seguridad, claves para llegar a los asesinos de la tía del…",
    "fuente": "Infobae",
-   "fecha": "09 oct",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTkN0VUhGZnFiN0ZYYmMxcDF3ZUJzTV9Rdnk5ZGlzeDZaaUpMdWU1bWh4X3Y4ZW5vN09XcEtaZ3VzbEFCUkUwXzJMbVctTWk4REVCUG0tandHZXVTOThibzY1ZWJjWk9abHQ0bjg4cUswdi1VLVRJS0Q2UEh6SFZVYzNqYmEtamdxY3N1cEtiaXp6aGdpa2dFZjB1RW9BSTMzVWxiS21KMzYzZFNFRVhsN0Vrc0EwdjZObUZQUE9laGZTZHdsU25RY3BFTWFaTW1DekRFZUZLaXpvUGR2SUlMaXV4OGd5QW9fWkdvbDB6ZUjSAYsCQVVfeXFMUGJiZVZ5YnVBd0ROZHc4RDVaZE9QejNmRm9BejFlUzlvdVNmdHhxOG41SjFxSkMydm1aWDR1Qjh2MjM3djdmd0ZmdktleEE3VndnUHFiVWdleEhuYlp1QlZyM1dXYXkybTZScm1qNndSRDI3azNKZ09lX1N6VlQ1RUVJcHdTSWdlZ2xDVllQS1l4b3lHMng0QUx3WjJjQ01pZ3V1S2RZWkw3RW1EM2RHX0VfMFU5T2lnT05tMWQwRWlzZ0NSNXVHaTlSZ05GWS15TG5aNVRBQjdYOFNOMVRBY192ekRYdXc0TEZibjRYUFFKcDIxVEJla29OOHFILVdWYi1iSm1sSVIxelNz?oc=5"
+   "fecha": "07 oct",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdFk5c3FQem8wX2FudWItYzZGVG9naTdXeE9HVFRhd2dMOUZIWERtaHd3cmhMX2NoSVNpREhwamYyNk5wRXllV2c3WDljNUlIaXZGcXdwZjE3TV92SXNtbExxRUsxZ1A3ZE5VTnBFRC1Wb3hucVpZSUxnWnN3UE5MUU9fNzB1dUVRb1c1My1TTmZrbXBtWnBualY2d0E2UXB2UHpBai1YYl9YREJLc1B2aWI1eWttbFFkSU5uV3Uzd2ExSzlGMnMyWnpyZzJ0dEUzU190ZV9zYUpfQ1c3VHfSAfgBQVVfeXFMTzhBTTlkWFdTTkVpdHJDY2J0TmdUQUN1b05aX2JOOVVmSlZ5NTAtakI5ZGRwQlRNVEhmYjVLdE5IRjNJS3Nxc3FXT2k2MmZGZVh6UG5nT1VzX05jelV6NnJxMkVvWXVYaS1pMXhzaWpuUVI3TmpHdG1JVWJkQkpkWFVQZjE4ZnFUMndIOTlqMVhqN3B3RTc4NWJ5bU5jMFRwQkNSaUZmS2c5aU40Tnk2LURKYW9YUTZ5OEJTN212V29zcVU0eXpFMEFMOVFESnhnU2E1dmZ1ME12MzB5VzlibjF1TXJfdmhvSXd3QlhaSnp6WXJtRVBlODc?oc=5"
   },
   {
-   "titulo": "Gobierno anuncia refuerzo de seguridad en el Huila con un batallón militar, tecnología antidrones…",
-   "fuente": "La Última – La Ultima Noticias",
-   "fecha": "09 oct",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOUZlWUZLRDl2M2pPNU90eDhtNDd5Yy14a2ltc2lmanRjZ21OcVZTaWU5R0Z2dkx5NHh5UHJTRzhEX0kzZE9lUUM1ZURIQ0M3anhkRlpMVUwyUmxHMXloQmJvUmk5OFJHODJ1a3JsYmxYTHBSUWZHZndsVFI0VS1qeVNLV09ETGhMQVU4djRIY3E3eE5RNEcwSmh6ZVpLaC1qUGhvVzd2aWZRLVhBdWxHTk1PNGFDSEZlMGhTTnhMUUxTZGhxX1dJVThKYUVOWVVwZG9lOEI2UFgxclFWMUpRSmt1bjJRdFR2?oc=5"
-  },
-  {
-   "titulo": "SMARTLIVING Centrales anti intrusión de Inim Electronics",
-   "fuente": "TECNOSeguro",
-   "fecha": "09 oct",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQWd1cThQWHRBb3I0cGp0dFhkRjZfV29HQkdjUGtqNnowUUE4YTJOS0t1Uzk5cDFYQmhYOV9ZSkxaalNzZmNtWEtDR1dCVlM3MXE0ZjFBeF9DOU5kS19RaE1GZm5wMi0zc191Wm1tVTNQbjJnajRpNmdSM2RjbW5jd25FNFRKZlJ1WEczVw?oc=5"
-  },
-  {
-   "titulo": "Ciberataques ya generan pérdidas financieras en 36% de las empresas de retail en América…",
-   "fuente": "TECNOSeguro",
-   "fecha": "09 oct",
-   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQeUE1Z0Jhc3prbEtfREFIM0J6UG9UN2YydFJ4MlBFQVJYbGYzNjc3cTdZak5hMlFaRDRscFVKeTVQUmNibU1NVzZHZ05vZnVuWUNhMkVXRkpEM0Y0Ym9FbjZxbVJIRmhFSUI1aHNWZ3JUc185dWxGYkFZRXhCX1NscDJJVkNmeXZTWmctZG9SV3NHT3VWN3NMbzZicVY2bXdXTnNxMW5uNFhMRGhSbC1GN0ZRb3JrX3Foa3V5Tm56b2NTdXJoYlJJbXBjaGtkU2hQbkd4YUNMRVNnQVotc1RGbml6TnlTMDFiOVVKODkwcXNPMjU0cGtwd25JZUQxNGx6cjlHemg1Zm5JbnN6NnBwNW1TNGFWRnJSY19DVmdINDlGWFJ5NXNBZDRFdzU?oc=5"
+   "titulo": "Tres hombres fueron captados por cámaras de seguridad en Bogotá usando la modalidad de…",
+   "fuente": "El Tiempo",
+   "fecha": "06 oct",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUVJ4UGpTU0pGeU41SHVlNGFlLWRsckdkRFJROUFUQ2F1YmVJLWd3M0JnSEttREFCWnI4Q3p4elZrWHVmMjE5TmtJdFowbk1xY1ZUZWtNUXpNU1l5aVFURDlYNkMtSUxlbEhRMHpOQ2UxQktIWlY0UzhzcUlNeS1vV0JkcGJiNGlHN2JnOURKZUJrQzdQTXIxbkZtOVNsZVU4cUI3cEJWV1lkTzV5cUM2Z2dwTUxIb2RvMnNPeEY1dHFEVmdZYWFYY2l3d1RIR3YwT2JrVlc2TGxlMEdoaGkxWlQyb1lnbFdzV09xM0tuaDZVZnI2cG9zbXRITElUQzkwUVJfTzZGb19Bd2hk0gGSAkFVX3lxTE9zV3RiVUo3QVNtNVBuTmRaSkljMkVDMnFpSFRkZFYyRWxOZURYYmFZbE1yazdsLXZLdF82SEhMbGIzZkE1eVhQeXRlR0MwMnkzWmFHck9OVS1KTzFUVEpsWGJobk9ORWplWnpPZEQ3VllobVpUeUhvNmVBRjlWM0xqeUFjUmlKekVkN0JRSVhCbWtac19IdGZUcXp3U2hyZGlxYVV6WjV5WXlPZWY1YUFvdTJHb0R6eHEwNjY3cG82cUVDZkZxb2c2VHZaVmV3cmRBUWpySGFuajU4Wkh4MWJOZ3VRU0RJcXFmSG04eWNRYmxCSVFwOWdLSmNTamV3Qk9WbmVQdmpZN1ZjY3NtTVNEWUE?oc=5"
   }
  ],
  "noticias_mundo": [
   {
-   "titulo": "ELK Products Introduces M1XIP Network Communicator as M1XEP Replacement",
+   "titulo": "Carvoeiro will have 24 smart video surveillance cameras, but the Government has not yet…",
+   "fuente": "Sul Informação",
+   "fecha": "11 oct",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0tKbk14UDV1ODlQWHRvdUdBeksxSmpYYTEtV19FOC1aRl9iM2pwb1VZRDlhSDBBRDFtVjhVN1gzdnV4NXB4aS1YRlhCT2NoT3h6dnBfX1ZzeS03VHZ1TDdhODdZSUE0OFp1OE13cU5QcUYxbDNBMExEZVhhY2xNbXJhUUtnWGZDWUN5aTNMZlBfcFRadVJFQUJOTnNkcU9iTFF2YVRETU9CRmlUNU12Q05wVVllTTFTRi11d09sdjVielMwZVdqVlBqeHVMNXVSZjgyYU9kNlA1NjRr?oc=5"
+  },
+  {
+   "titulo": "Identity-Aware Security Systems: Secure Passage Integrates EyePop.ai for Threat Detection",
+   "fuente": "Trend Hunter",
+   "fecha": "10 oct",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85ekw1U0VOQ0poOTFGT0hnQjhrM0M3djJHeXU0cDdINGVwc1U3cW1hS2xpRGJNTXdNMmt3TVd0VEFQVnNmekc3RkxDV0dwRFIteFFVTEVNNUNaZFc4YUVLR1ViSEJVckxvSTlleXVqSk13TnVO?oc=5"
+  },
+  {
+   "titulo": "VIDEO: Surveillance video captures incident involving ICE vehicle in Harris County",
+   "fuente": "FOX 26 Houston",
+   "fecha": "10 oct",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92cm1LX1F2S3N6c05fbjMtQ1dYSFBoZGJuUGU0QlpYUmdOVkpzVWVaVXdzM2JzMV83dlFRdHotWHNIZ1BaZk5FblYwWno3WXFhX0FOY0hOcVRoR2tIT0l3cThEVjNnUdIBa0FVX3lxTE0xTU0temVzaF9Ec1htLVBDQUoyREFVZzh0SnFZRFN4bDlzbG1HZjZfRlhFdWdqZ3ZxYWlpdGFnRVlvNnRMUG5PZVg5d0FMUVVmLXZvcUtqbEpVMXllVnBmVFB0S3JpbTIySnBV?oc=5"
+  },
+  {
+   "titulo": "Altronix Introduces ReServ24B Automatic Transfer Switch for Security Systems",
    "fuente": "Security Info Watch",
    "fecha": "09 oct",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX00zZnllWF80YmR5STVRZE1vUXFGamYzR1E5Vmx1dTRNbVNja19jdldHdzZlVTdlcTNIMWdyQmZDSm8tYm1tWFFvQktrVUJuZVF6MkhVREpEcVNFbUg2UHhvVHZpa1VDQVo3aEgzOU5xUVBEZGl5RmtqZ09JcGQ5OFV6MUpTRkZsWUhzWV9IdnJGYnV0MGZtSWtwbGVsUDZaNDBtbUZFZUp2R2pDLTU5c2xScGNVMnpiakRWb1hxZDRGRkF2bkZfMXVkWDBDTmdJaTF5RVV5bGphanF4TXphODFtdUxDNWNQWTJQQlpR?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOck40TzBrZ2J4eGdVOXFPZ0Z1LXlqUGdYdzJBbk9tNkNtdXdiX1ktLUpjWHJGeUp3aE5TS3NUTEwwdVphUllBV1MwaGQwVmRZRG9idFNTMi1seHZQVldhSkZHLTRuZzNQbDVfWmlrci1rcWt5NjBIWXdyUXQ0Y1Z2MC1pY09RUGFOcnhHem9YODFRR1VKR2tUM19fV2tNdHZISFFRai1uR0xCeFY2QWJSdS1VTzd4Zlpnc2Eyb0hWY0ZFUjQ0VjMybzhXS0Q4a0Z0YTNNTHpZbTFyQlJIbmh2SnkwdW5pbXAtMWJNN2JoelNyTlh4cERoT01B?oc=5"
   },
   {
-   "titulo": "Spanish regulator urges safeguards for municipal AI-powered video surveillance projects",
-   "fuente": "Biometric Update",
-   "fecha": "09 oct",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSU1acWwxd01sRGM2UHBRRG9BdGNwcWRndjlwN0I4RmtMdjY5dmZPRjBFdnFlMTZvNWd1THRGR1JUUzh1UkxwZjRxLUZ3QmczNzJkaHRET0VaeDFiZEhRS1BWZVVlVU9EM2N0Z2RhbnNpZDdVaHltanhqUjFCRk9oWjN3eEV2QThhdm5SSm00Y2VsYzZYNmswZU5IaTRWbnVZbUlkR2M4d05XdVZjeWJ0U3p0ZlRYOHpDbkhJR19MOUdIeHRF?oc=5"
-  },
-  {
-   "titulo": "EOS signs conditional £370m counter-drone contract",
-   "fuente": "Defensehere",
-   "fecha": "09 oct",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQno3OFNIeUowVTlKMHRlQ2ZyWF9FQWYzZkxsX2toTzhLRE9jWXotTTRiS1VfSEJfRDFwZXRDVktCU0xiSVJ3emx4NUstUGZObWhtSUF2dlN3eGZQeXVHZ1JWVmtWSWVaVHdyeC1MMVFUcUNDNS1ZSHJPYmRnUGdoR3hFYw?oc=5"
-  },
-  {
-   "titulo": "ARSA Technology Introduces Edge AI Video Analytics Appliance for Existing CCTV Systems",
+   "titulo": "HID Enhances FARGO DTC ID Card Printer Portfolio",
    "fuente": "Security Info Watch",
    "fecha": "09 oct",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbDg2RVlnT1hVZ2ZLSmx5bnRfeks0VERud01MWk1EWmdnSlBqSFFBa2kxMmU2cXdmNnZTejRZMmlMX2tuVkMtV0tNY1VLaFBhSVR4ZjFhQlU4S1VpUG1Gbzg1bUFIMFloNUg3REp4bl9WckkwdFpOTnNOS0RDVXZYUS1qNUlQZzM0TEZoNVFnOWM2SnFFd3V4a1hzSFFfWGFUeEhvSkMyYThsMjFEQ0NaNEQtdGdsNmNWb3g4TkYxNWtUOHN0dFh0UUpFWHRjRnBLem12dnB3SC1VUGI3bDRZckFLVzNXdDhRWVM1aU8wSmQxVS1BbVNFeWVzbmh3bWtnemc?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRW1fNl9jek1hZEhVNjZtcTV2b1hoRV9iSl9XVTlHNFhkaXZySjc0dDZBZ3QwSDRlOTBVSFZPdFRpRkx0aHA0UThwcm9RZXYwTFRjMFlVc1NQdTE5LW1TNG1ZbXg3a2U0eVZaeVpBWVpwckdmcUI3TGN1Z01Dd3hRUVMtVURXS3ZnbmZzTWpZN1pScGxON201LUEyWEZpQ1REb2JFVHh3aGJmRXFtcVUyQ3hTSS1oZjUyS0Nxc3VzMElCcGVRWWJjQlZFSnZ4Qk5DLWtzb2lXd0g?oc=5"
   },
   {
-   "titulo": "HID and Skanska Launch Digital Wallet Access at Warsaw Studio A",
-   "fuente": "WIoT Group",
+   "titulo": "Electro Optic Systems secures a record $700m counter-drone contract with Gulf state",
+   "fuente": "Business News Australia",
    "fecha": "09 oct",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ2NuTEJtbnBJQWtEMEpPalAtc0xLMGFaQmMtNzVJbFI5TThJYllncVphczVpa0dYNy1fbGxoa3JvaVVvOVpiLWtVYVFHbFZxeXBvMFBOWHBxQWNtbGcxQk0zaWtvdjUtQlhjREZQQ0l5ZUp1OTF6RXVtcEZneFkzTDk5Uk9DYWlrU2FEOXhib01rVjlpNnRtTW8yeXhOTlE?oc=5"
-  },
-  {
-   "titulo": "Key Considerations for Outsourcing Security",
-   "fuente": "Security Magazine",
-   "fecha": "09 oct",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMUliR2twTVV0MlpHaTNJYi13bEZBQjhQVHEtOXV6T1d5cURiSUJGV0tNMDNGQmJxUkpydHB2OVhxMFgza2tKWXRTTUpVbTMtLTJHM01YQURNbHo4YmRnallsZlRpYlNtVWlkVVY5WUZheWlDLVYyd25MTWh1MHRiTGZzV3FHQk9sWl9UOXhGSW5JUnVMRGtB?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUTAzaVdjWWFzZVJIMGZhQXprWW9qcFRWaXFiTktIOEh4T3M0VFhZUUlkQVNWTVBibm03cHczek52TUUyREJiSk1xOVZpMWo3cUVmMDdCMzE2YjlpV0VHcmJpQ3J6clljaVdmNE1CNV9zakVFRXZ3TnBOXzdaWWNsaVVtYVQwdTFFVFdmdmFfU0Q1RWltdzAtX0pITWVNYUhMb096bFFBdHdTc0JCRDdJcllCcTE1eEc2WWJONVU0SFJHd29YbDhPY2tvSTRGMXhqUVU1Y3hRSnI1Q0HSAdsBQVVfeXFMT1EwM2lXY1lhc2VSSDBmYUF6a1lvanBUVmlxYk5LSDhIeE9zNFRYWVFJZEFTVk1QYm5tN3B3M3pOdk1FMkRCYkpNcTlWaTFqN3FFZjA3QjMxNmI5aVdFR3JiaUNyenJZY2lXZjRNQjVfc2pFRUV2d05wTl83WlljbGlVbWFUMHUxRVRXZnZhX1NENUVpbXcwLV9KSE1lTWFITG9PemxRQXR3U3NCQkQ3SXJZQnExNXhHNlliTjVVNEhSR3dvWGw4T2Nrb0k0RjF4alFVNWN4UUpyNUNB?oc=5"
   }
  ],
- "actualizado": "sábado 10 de octubre, 10:54"
+ "actualizado": "domingo 11 de octubre, 11:21"
 }
