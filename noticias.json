@@ -1,55 +1,42 @@
 {
- "noticias_co": [
-  {
-   "titulo": "Gobierno Nacional anuncia refuerzos militares, sistemas antidrones y acciones contra la extorsión en el…",
-   "fuente": "Gobernación del Huila",
-   "fecha": "12 oct",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZWV1ZXdtNjdLUkp6SHJMQVdySTRWTkIxMXdBS2tNWmd2UXJabGhqb09KVTE5UVRqQnNta0RvQXE2b0JUMnpFcHJ5NFlZRzI3bm4ya3ZVbGRWNFVFUDBZYU9yaWhCbTVHZFNBWDZ6Mkx3TlJreHo1VUV6dWR2TVNSYUpRWGctMEs5ME9MaHRGLVQxRDBTa3c?oc=5"
-  },
-  {
-   "titulo": "WTTC: viajar sin pasaporte en 5 años gracias a la biometría",
-   "fuente": "El Ecosistema Startup",
-   "fecha": "11 oct",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTB2Q2MzcG5ZYnp6QXZOTjBkMlFVOGVPVHAzRW1PcGJUb29BY1E1WEo4ekV0dGpMUExPckVVTEJYOGxRY3hZSGh1Y1Y0LUNkWk9KWWZLOGJHazdyZGlCZl9ydWIwMzlqVjZYU0hQdXlka1Y3SEZmeGRyNEFHWVV2V2hKWlB4LUhwZ3NqSDMwY3p3QTQ?oc=5"
-  }
- ],
+ "noticias_co": [],
  "noticias_mundo": [
   {
-   "titulo": "March Networks and VIVOTEK to Showcase AI-Powered Transit Security at APTA TRANSform 2026",
+   "titulo": "Nearly 1 in 3 Organizations Face IT Support Microsoft Teams Schemes",
+   "fuente": "Security Magazine",
+   "fecha": "13 oct",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYk5IdHpNZDd6NXRBTDZYajdmNm9XMXZkRXJRSmpISnZuYXJFTTlZZGJSMVdfcUpNMTVrQ09fQ2dKNGs1MlB0R2VtS2tWNHZ3Y2xzWUNmUkhybjZ4LVhSRWRMd2d3YVpCSTJTeWR6RGNRQ2tRNVRzQ2VzZXVTRmRwWlBjYTRyMUliS29qTFFVVW05QlI2Vkw0azRpY2NxNU9fUWdvMGFvWnhoU3Z1WTBPVlFhbW80QUk?oc=5"
+  },
+  {
+   "titulo": "BioConnect Hits New Scale Milestone as the Biometric Access Control Platform Behind 8 of…",
+   "fuente": "ACCESS Newswire",
+   "fecha": "13 oct",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLUdLbnhUUW9SVFZvNlQwMWtVVGdFX3VWLVBaZHJ0OFhHZGtJRjU3MENCM1Uxb0V5Nk5lc2NtT1RrRWdHVTBvYlBJQWZIZ05HekZqUElsdTZJTVMxNHdDV1RCQ2llMzR0U2I5aF8teGpKaFYzQVpKbFZtNmU2LTZPQWY1Z3c1anhsNHlPMDk0RG9jcDZ5VkF5VUhLNDhWSlhZUU0yMnhORkRid0ctZzdGajhNXzNubnN1TWRBeThoaVNkQ2VmS1JhX09rcjdwVjBMbzFDSU1jd0tIdnpYVDRIWktTNG8?oc=5"
+  },
+  {
+   "titulo": "Brill and Al-Esch quarters: Human Rights Commission criticises additional CCTV plans for Esch-sur-Alzette",
+   "fuente": "RTL Today",
+   "fecha": "13 oct",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOHBSVjhvSnFNQWJBanpTQ2JWQ2R4VUdTOFBrc3pWdWEwWUpDOEVGVEVVc09UaW1zcjQ2WUpPMS1wSUgyaF9sbl9fSUFLa29wUWJxUkswOTRTMy1YOTZaWjQ1X21NbEN5TzRkdDJnTkZRSVBnaFdVaGxQbi1IanVqR2V6Y1VxVnF1ZjZjbFdxU3JmZDRqaFRjbmxXUVlUd01RWklGcmtKUnlkSDNTcGR0UzE5eWQ2VHNGWVZTYS1ITlZYUQ?oc=5"
+  },
+  {
+   "titulo": "BreachRx Expands Rex Platform With Out-of-Band Communications for Cyber Incident Response",
    "fuente": "Security Info Watch",
-   "fecha": "12 oct",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNHFnNkFBU3VtZVRyLXhSTnUtSzFVNU9zc1pKcGZaRnZvcFJ5bWtuTWdpU0xlNjVrWlVRNlQxVlFoNWM3M1FSbzB0Rk9CQWhSZFR4a01NRXdENzdmSEl3ZTZ0R2dyWHIyVFI3QjN3MHN6WHNLaV95YUFLM05IS3Y2WnRrQlhaQUJRczQwNkNJZzZDOV9ZT0hUWVN2ZkJFMzE5bGRPeWwwNEktU2g2SmFRY0NsYlpnN0xBNWI4VXcxQ0dBWFBLQW9hN0JKOWVxcWJ3aksyeWpLdHU0NjNkbVZjc2NWRGt4NjZNbDZPVHo0M25pV0VvMTJMQWtJSTdvUkJ1?oc=5"
+   "fecha": "13 oct",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPN2FGb3dYRWpZU2NoMjgtQVpTS0wzRWtqSnVob2dFUUpxUjRiT0l1dkk0UEdjTXNpRDJZRzFjcmgtZDQ4NFBXX0tZOC13cmlCWTY3V2ZsU21wdi1JTXQ1TVJpeXh2akZxdDZoWFUxZ2pVQkRJY2FsemFvb3M2VlVxeExUT0dxd09FMk1QbFBNWVhkYnJGcDExdTlzYWdwdUJXTVdid3R6aF9pckFaUk5FMG8zaExWSGtIODVMOXJkQm0yaV9ZeWhvTFZRZnNSYmNrSG4yOGp0bE56Z3RzNFlDcW8yd0JiY2hmaVE?oc=5"
   },
   {
-   "titulo": "IAI Unveils HawkGuard Counter-Drone Interception System",
-   "fuente": "Israel Defense",
-   "fecha": "12 oct",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56M0FyX244eWZxYTZUamdUVC1EcGlmWnllcklKeHo3NElKeDlGSnFMMHBhZ3JpblRLaEUtakNweDJ2ZThENTRqdkNTRHlVZW5jSTI2TEQ0ZXQ?oc=5"
+   "titulo": "SmartSea Introduces SmartJourney And SmartAccess For Crew Transit And Access Control",
+   "fuente": "Ocean News & Technology",
+   "fecha": "13 oct",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVUNrazZCZDlCWVF4em1UalVoM2ZaeWw5c3N6MUR1NnhzQjRNbEgtT0pwdnJyZ3hWVWtTY0VLT2JkZFRDRWpfU0owdUg1V3NoNUVBVm9mYk9Mb2FEbXY0UC16bmFid1BfbThlTUdNc3cwLVhiLUp1eXZ1dHhNemJoYkRhb2JsUEo2U1U4X3NQWHBYVndWUDk0V2dhRTdNSkNVTGRzUEd3SUNheXFjNno0RnN2c01ldEY2T3FVN2pXdTg?oc=5"
   },
   {
-   "titulo": "Did MoneyGram Get Hacked? Ransomware Gang Claims It Did",
-   "fuente": "Security Magazine",
-   "fecha": "12 oct",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTVpHMWk4Q21kVER0VEtIak5zR01tLTh2SWJFczdFMWRYTWdHTGhMMEQycnFrTUVkVk9LaEdwUDh5eHBXUmJaOTRqdmYzYzM0U3ZpSFQySktKMlJFY1dKSXRHOE9Xa2pKLUxXRmprek1tbno4WExQYWdiazdubWQ0ajVuMkE1bUM0bV9YYTRlVjZXVnFFSmN0R2htekJzQ2xBMWtiNUR3?oc=5"
-  },
-  {
-   "titulo": "AI Use Outpaces Governance in Small Businesses",
-   "fuente": "Security Magazine",
-   "fecha": "12 oct",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZTROSWtMdFJSUkRZSGt6Z1FQU2dvQ2g4SWJvN3cyX3NzYUJ3NkFsWlVqLV83aUZMWEU0clNaVmhlYW5MZlh5R3BLd00wUERfRmJXdmtBTnFuM3FjVUV4eXc0YXhaZ2RKZTNEYl91TnJaTDJVQ01DYXNJZEkzMkFtVTk3eXRoTm1LN3Vvb3Nhc2tjS1U4THlvSDhETQ?oc=5"
-  },
-  {
-   "titulo": "UK and Ireland lead Europe in active AI adoption for physical security",
-   "fuente": "Intelligent CISO",
-   "fecha": "12 oct",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUW9qWjJ6N0luNVBJdkp4OEMtcUFXRVZsOXJqQ1NXWDdCVWhzMmFVNlFEVWJoOGRzSXRUWVg4R0lDZWR5enhfc3hsOU9MRjMwSEF6d3ZfeDF5dnN2VkVsTzhManVYMFlDSkJjbDlvV2tkUDRtdHdNSFpDelN6d3lGMmtEZEJMRlRCQWY3QjBIbTZ5TS1vcXlpajVTbzJZQVRhQ2dWSWNrQ21kQkU5aUE1b2pHbGE?oc=5"
-  },
-  {
-   "titulo": "Fortem Technologies and MBDA Expand Partnership to Build Autonomous Counter-Drone Protection into European and…",
-   "fuente": "Yahoo Finance",
-   "fecha": "12 oct",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMUJJNlRSM0s3VnpaTDExd1cwbjdTdlg1c1hTYVplWVhZR24wb29lUHYzWVFRME5rMWgyQTk4ekZfREJ5T3FiM184SU5BTEFpZ1VnVlRBdXYyczNsRHFyR054c0xLdkJGNUZKYVlSX3lSaElJM190RGFrXzFWaWNyMXdtcm1kVWRkMUV2T3BrdG5VdUhHT0ZKS0hva3J1cXFOUGdFLUttd2dENjg?oc=5"
+   "titulo": "Powerus Takes Its Counter-Drone Strategy To The Next Stage With Guardian-3",
+   "fuente": "Simply Wall Street",
+   "fecha": "13 oct",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTm1HYjFQQmZlREprUktqdlY2V1I1cFVMX1Z1dUZ4LUExQnU2ejFEX1M3N2o0T3NEZUhveFowbzhYVlp0QlFjekVYTG10eUNheEZTY1pWWUxXZDBuVVJRN3RrblpLUVNvZVBXZzhzb2FqUlI2Y0FnQ3lrNXJfRFhKN1l1aDJuYlZ2Y0tXVkUzSWoyMG9PTWx1bFdhYkZHVnZlN3hBbVc1ZHRsQXl2Q0VncnVGVGc1TGFzbWtxM0VxelFOTDNyajFrWHNqRU94LXdv0gHWAUFVX3lxTE80dVZmMm56Y0sxZ29hdkdEUHlockpsdU0wMHdNWVRzMjhpOEJQcXVGMWRCRlMwU3NrZjZMWDgyNnpTMC1FT2V0RVJkVjBUa3hwN2d6X1lVb3V4UjJ5QzlFT3d2eGxleGMybEVVZUxjWU9rRHRRa2RxRE5DZTNkS0ZvVkRrSWVFc01acG9CV3hCQlNRTGszYmhEZTJYVkJob01DaXNBY1l3UzFacVNCVFR3VDJkby0tMlRZakVueDk0WXZsd0xZVlN3dmozbGVNV0FqdmdJX1E?oc=5"
   }
  ],
- "actualizado": "lunes 12 de octubre, 14:53"
+ "actualizado": "martes 13 de octubre, 12:41"
 }
