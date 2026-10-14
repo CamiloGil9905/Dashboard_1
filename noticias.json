@@ -1,42 +1,73 @@
 {
- "noticias_co": [],
- "noticias_mundo": [
+ "noticias_co": [
   {
-   "titulo": "Nearly 1 in 3 Organizations Face IT Support Microsoft Teams Schemes",
-   "fuente": "Security Magazine",
+   "titulo": "ISTC impulsa Advidia de i-PRO con inventario disponible en Latinoamérica",
+   "fuente": "TECNOSeguro",
    "fecha": "13 oct",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYk5IdHpNZDd6NXRBTDZYajdmNm9XMXZkRXJRSmpISnZuYXJFTTlZZGJSMVdfcUpNMTVrQ09fQ2dKNGs1MlB0R2VtS2tWNHZ3Y2xzWUNmUkhybjZ4LVhSRWRMd2d3YVpCSTJTeWR6RGNRQ2tRNVRzQ2VzZXVTRmRwWlBjYTRyMUliS29qTFFVVW05QlI2Vkw0azRpY2NxNU9fUWdvMGFvWnhoU3Z1WTBPVlFhbW80QUk?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanhfM3M3dHhzMnhYYjgtbl9fY0V5VVBLSzJVZXMxMWZjTW9iMmVGZ01hdU1FNHVXb3ctcHJDZDJhZmVFamZNTkw0T3lRb1NZdUMxc1hCZ3dsdVRIQjljXzlycjNFbk9hU0xXaDFFN01kWUE2ZGN2blZQR0QzWk40SWg2dlNPRk1YQ0piTg?oc=5"
   },
   {
-   "titulo": "BioConnect Hits New Scale Milestone as the Biometric Access Control Platform Behind 8 of…",
-   "fuente": "ACCESS Newswire",
+   "titulo": "Altronix integra LINQ con Milestone XProtect para supervisar la alimentación de los sistemas de…",
+   "fuente": "TECNOSeguro",
    "fecha": "13 oct",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLUdLbnhUUW9SVFZvNlQwMWtVVGdFX3VWLVBaZHJ0OFhHZGtJRjU3MENCM1Uxb0V5Nk5lc2NtT1RrRWdHVTBvYlBJQWZIZ05HekZqUElsdTZJTVMxNHdDV1RCQ2llMzR0U2I5aF8teGpKaFYzQVpKbFZtNmU2LTZPQWY1Z3c1anhsNHlPMDk0RG9jcDZ5VkF5VUhLNDhWSlhZUU0yMnhORkRid0ctZzdGajhNXzNubnN1TWRBeThoaVNkQ2VmS1JhX09rcjdwVjBMbzFDSU1jd0tIdnpYVDRIWktTNG8?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdGZtdnZYUnRveXZ3c0RXMzlmbTZlT2xMdWRkX3E5aUN0UmlnRDdRWlotNHdBMG5FOUJJRkt3cFBOa3lvblQyd0xBUzBZQWpfWlgtY25leE9PX2hxMExPanFRalVya1F3YTdpeE1kMjl4bTh4UXlSd2twUEpmaW1xaXln?oc=5"
   },
   {
-   "titulo": "Brill and Al-Esch quarters: Human Rights Commission criticises additional CCTV plans for Esch-sur-Alzette",
-   "fuente": "RTL Today",
+   "titulo": "Apple lanza HomeView, su pantalla inteligente de US$299 con Siri AI y reconocimiento facial",
+   "fuente": "Bloomberg Línea",
    "fecha": "13 oct",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOHBSVjhvSnFNQWJBanpTQ2JWQ2R4VUdTOFBrc3pWdWEwWUpDOEVGVEVVc09UaW1zcjQ2WUpPMS1wSUgyaF9sbl9fSUFLa29wUWJxUkswOTRTMy1YOTZaWjQ1X21NbEN5TzRkdDJnTkZRSVBnaFdVaGxQbi1IanVqR2V6Y1VxVnF1ZjZjbFdxU3JmZDRqaFRjbmxXUVlUd01RWklGcmtKUnlkSDNTcGR0UzE5eWQ2VHNGWVZTYS1ITlZYUQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR1VQdUR6T3VxSGRVQXBWc09mUDg1cWY5VmVVcVJOMF9xQ1B1bzBXLThnVE9fZ1hrMFE4aXN1SkdtZnUzdkZMZ2lXTVVJM2JGa09QOFo4LUVTYzNFaTVTU2xVSFYxbXBIZUliS3FESU1Ga0twYmZ3TUZHX0hCMF8wNDd5OW1rZWJIR3dEVDQ0anFtckF1MjZxUkRrenBKcjRiVDdlT0ZFVTFKU1NvdXZaX01IQWlMaFlBUXRiMDVkRmhTSm5kY1lmblFqSnBnU2lBNGQxdWlfaUJucDDSAe8BQVVfeXFMUFNURGMzbnNXc2xWbzZGY1dvd3hNd1pxTnJPTENtZW5DMDFWT281UFZOZ3VHeXRFX2FNczBabkt6NjdodnduejBSUHBMZEVmV1RKS1hVbUFhTkdxcGM4UGdoSk9XR1NjX0xMOEFlSWxwb3BuM0tHeXVoTnB4TmxQdGhjbmFnX282V3dkMTRBNU41RFB2VXc1QWNpQnJmdVVjMGdIM1Y0ckFpVjEycDBIQU45VFJ3c2FsbDlEQ0ZvSkVBR3Fxd3VGam1SS0tvbUFWZ01qX3hfV2QyS29YSHc2X2p1V3AxazZDM2xfazEzTW8?oc=5"
   },
   {
-   "titulo": "BreachRx Expands Rex Platform With Out-of-Band Communications for Cyber Incident Response",
-   "fuente": "Security Info Watch",
-   "fecha": "13 oct",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPN2FGb3dYRWpZU2NoMjgtQVpTS0wzRWtqSnVob2dFUUpxUjRiT0l1dkk0UEdjTXNpRDJZRzFjcmgtZDQ4NFBXX0tZOC13cmlCWTY3V2ZsU21wdi1JTXQ1TVJpeXh2akZxdDZoWFUxZ2pVQkRJY2FsemFvb3M2VlVxeExUT0dxd09FMk1QbFBNWVhkYnJGcDExdTlzYWdwdUJXTVdid3R6aF9pckFaUk5FMG8zaExWSGtIODVMOXJkQm0yaV9ZeWhvTFZRZnNSYmNrSG4yOGp0bE56Z3RzNFlDcW8yd0JiY2hmaVE?oc=5"
+   "titulo": "Pitalito tendrá cámaras PTZ y sistema antidrones para mejorar la seguridad",
+   "fuente": "Noticias",
+   "fecha": "12 oct",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdkRzTzhLd0M4VS1MV2ItcmFaemVJZlkwSlMyTU5Ub0RUeEJxeExGV0U0VWVRekJsYkhIQ04zSHhEbkZNY25zQlNyaEdnNFBxaUlVaFRQMDk0NmRkQXpvc1VscGkwRjVqc2VhZnhyYXdCSTRsUkZkeE8zVThKc0xRSFg0akRtanROTVJadmtaMko2dHZaazladERLTGxKYllwQjVPTA?oc=5"
   },
   {
-   "titulo": "SmartSea Introduces SmartJourney And SmartAccess For Crew Transit And Access Control",
-   "fuente": "Ocean News & Technology",
-   "fecha": "13 oct",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVUNrazZCZDlCWVF4em1UalVoM2ZaeWw5c3N6MUR1NnhzQjRNbEgtT0pwdnJyZ3hWVWtTY0VLT2JkZFRDRWpfU0owdUg1V3NoNUVBVm9mYk9Mb2FEbXY0UC16bmFid1BfbThlTUdNc3cwLVhiLUp1eXZ1dHhNemJoYkRhb2JsUEo2U1U4X3NQWHBYVndWUDk0V2dhRTdNSkNVTGRzUEd3SUNheXFjNno0RnN2c01ldEY2T3FVN2pXdTg?oc=5"
-  },
-  {
-   "titulo": "Powerus Takes Its Counter-Drone Strategy To The Next Stage With Guardian-3",
-   "fuente": "Simply Wall Street",
-   "fecha": "13 oct",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTm1HYjFQQmZlREprUktqdlY2V1I1cFVMX1Z1dUZ4LUExQnU2ejFEX1M3N2o0T3NEZUhveFowbzhYVlp0QlFjekVYTG10eUNheEZTY1pWWUxXZDBuVVJRN3RrblpLUVNvZVBXZzhzb2FqUlI2Y0FnQ3lrNXJfRFhKN1l1aDJuYlZ2Y0tXVkUzSWoyMG9PTWx1bFdhYkZHVnZlN3hBbVc1ZHRsQXl2Q0VncnVGVGc1TGFzbWtxM0VxelFOTDNyajFrWHNqRU94LXdv0gHWAUFVX3lxTE80dVZmMm56Y0sxZ29hdkdEUHlockpsdU0wMHdNWVRzMjhpOEJQcXVGMWRCRlMwU3NrZjZMWDgyNnpTMC1FT2V0RVJkVjBUa3hwN2d6X1lVb3V4UjJ5QzlFT3d2eGxleGMybEVVZUxjWU9rRHRRa2RxRE5DZTNkS0ZvVkRrSWVFc01acG9CV3hCQlNRTGszYmhEZTJYVkJob01DaXNBY1l3UzFacVNCVFR3VDJkby0tMlRZakVueDk0WXZsd0xZVlN3dmozbGVNV0FqdmdJX1E?oc=5"
+   "titulo": "Más de 1.000 millones de viajeros ya fueron verificados con reconocimiento facial en Estados…",
+   "fuente": "Infobae",
+   "fecha": "07 oct",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQS1FBb0hzaU9yX3ZSMktqNFZCNU9vUlA1d2RRWE9VeHRMOEp3RUVTdzVuZFVHS25VOGhJNTBvN3llY01yMGtuaWFMVU5KX2JKNV9HMHNUMk9MUXdMNXZxdzJnRzEweHBwQ29URkd4LXVtSVNyU0owZW01ZEFKenZSMWViRUR0dHhHekVjN3M2VHdoUkQ4TjNlWUo4LXUxUFdaT2Uta19qSkNFaEtRRHVwSHc1ZTFsajZ5cWY5RHJzNDJPZ2JEdFNLRmJDdHlQbU16eDJrLWtzYzZRTk04dFVDMHhiRG94N2ozN2dYbmtYLWFUMEJMQ05VVXE5aVVxbkl4Nk9VVtIBnwJBVV95cUxPSEJLbzVoczVXcDVobmJkVEc3OGRPenZsMXZhN0NfWDdxSXVPWXRtY0JrMnhsR3B3SGZYcW8yazY5T1N1dEI4LWhDcURBUTNGaWpESnhCUGlVZDFPQnlMdFg1dVBfUmNoMjJ6cC1Ld2hHdUJuVGN6bnhPR1hoWC12c3I0ZVRHNzZ5SlM4SnZUUlhXYzE5N19GdEoydXlnOWdEd09qc3NDV2RPWDFJU3JkZkVCTlJ5eE1QWmh6VFpQWHk1SWxIT21FOUNsMVd0VldLc250RF8zZ2FfRVZ1Q1pYTkk2M3JZc3lENV9yMnNDZ0wwcGhtc1NiOG5peWYzSHhqTnRfd2pfckIyZ1FlNGZobDc3T0ZZaHJmTUdPMElDWQ?oc=5"
   }
  ],
- "actualizado": "martes 13 de octubre, 12:41"
+ "noticias_mundo": [
+  {
+   "titulo": "Refrigeration System Cyberattack Impacts 700+ Retailers",
+   "fuente": "Security Magazine",
+   "fecha": "14 oct",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkIyX1hxcWoweVhXbXd4RVkyNjFRWGowb2tvUjliQURDTENCUjJlLXd6N25xaVpSRU5wLXVaQ0cwbkxVcEZHOGwyeFFyN0dObFoxNEtWN2JSVDVVTk5pX0ZCZHRsbW9NRmt5aVFXTTBHRmpCbVptX0dPYU54d2ZBVDdSX3lGT3otMTMtNzZURFR4amY1TTZjTlM1eFlKSVBETER0VU13?oc=5"
+  },
+  {
+   "titulo": "U.S. Autonomous ISV-U Combines Bullfrog Counter-Drone Gun With Troop Transport Against Drone Threats",
+   "fuente": "Army Recognition",
+   "fecha": "14 oct",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOdU5wR1N5aVYzajBiQ1dwV3o2eEpKREFkdThyYmE3UUM1bTY2ei02UDhRVGIwNnZaOE9OV3o5VGJWRnEwdThLejVaRllmQy00enVKUUpZTG5MV3ppU0dyX1ZvY0dCd09TLTdfZkZBdXUxd0N1OUxpRG5HUTE2czM0SlptY21OUlJUbURJcXJNQldpUlY4QUl4SWgwc1VEaG5ubmVGMUhOb3NLTHlnd1RHeHlDOEJUMU9Kdnk0ZW9pZkQ5X09Hbm5aQTBJdTRMMjlKVDk5RVRkWm9BSklHQktod3dYcEtnbWtxeFVQemc1RVE4M3cxWlY4TUs2eGZQazRBeGwzN19DemZYSEZRcm1HVjYwaEVteGNXRDV6MHZnakVnYklsNmhRbk14ZnFoMG5NalZXQlRXQWVTbURZajhIU3piQjdSdw?oc=5"
+  },
+  {
+   "titulo": "Why Physical Security Is the Next Cybersecurity Frontier",
+   "fuente": "Mexico Business News",
+   "fecha": "14 oct",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaFZVN3BCb1FpVjBHY3dzZE5CWm9VWEJ1WUFrbGxjQjI2VmdSUmwtX3NBbVRWcFd4TG5mSGRKRE9BbFdVd08tRDJBOXEtSFJmc1FzMkxOR1F3RW5VNzluNC01ak01WHdweUFJdmJfSkFyMnp6ZHBuWDB3V1czSVBfLWs5SUQ4YV91eHNNaGw5VWJhMktiZ205QWdfRWo?oc=5"
+  },
+  {
+   "titulo": "Teledyne FLIR Unveils Counter-Drone Radar at AUSA 2026",
+   "fuente": "Defensemirror.com",
+   "fecha": "14 oct",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOckpudzUxQ3RFbFBDOVpZTGhWVkM4UkxXTUw0c2lTVmNaS3REZk1BUU1ScUlKTkk3eFZ4em5USUJwZDZ2Wnk5SldXcTg2UFJTajJ2SmI0TFRHYnRmN09teUlNTFpJNTJRaHgzaFdVVHA4MEcxdFBDUHdxMEdVTHJ3OGNyMDNwc3o3VktUNmotMUhRdG9EYXc?oc=5"
+  },
+  {
+   "titulo": "Matrix And Veracity Integrate Video Surveillance With VIEWSCAPE Command & Control Platform",
+   "fuente": "menafn",
+   "fecha": "14 oct",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmNtRXZ6OFdiU2htckxwNWktX3piX0pTUWZXdWliUVlTWWZlY0hHNFdvTnJ0aGN5LWF5N1VpR3dlM0RlTjdLSzUtODJmVG1DdjRCdDREcnk1Y0ZuUElkdkdDSGRoVWxfZnVJaHdXa24yZXBzNUVlMzVtejV0VENsdHNOS08wNlFWOXdEdEdaTEZOMDVMR0FRY2FnMFlOM2xab2VDWmgzSEpMR3J2LXV0WFBlSjFVeWI3Z1E?oc=5"
+  },
+  {
+   "titulo": "The challenges of modern access control",
+   "fuente": "https://internationalsecurityjournal.com/",
+   "fecha": "14 oct",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53SHpJdU5xQldKNU9qZEVLSC1YdEd0Rmp4Wng3LWpLdkUyb3hvQzBvcmJnV2lac1BLc2Q0YmtlaG1WMkRyZ19YYVcxRkEzQ0lYakN5azNxeXZMdVNfOWRsMXB6aHpNX0huX3p6emp6OEVKNGl0RjRqZTdBUkZBZ28?oc=5"
+  }
+ ],
+ "actualizado": "miércoles 14 de octubre, 10:16"
 }
