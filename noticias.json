@@ -1,67 +1,79 @@
 {
  "noticias_co": [
   {
-   "titulo": "Video híbrido en 2026: ¿cuándo conviene edge, nube o arquitectura mixta?",
+   "titulo": "Suba tiene 103 cámaras de seguridad fuera de servicio: concejal pide explicaciones en Bogotá",
+   "fuente": "Suba Alternativa",
+   "fecha": "16 oct",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX3FuRUdoYXJzekdDX1VMZ3ZadmFfZ2hBRUM4YlJWRFZwamhVdUdDNXNPQ1JiOXVoYXVSdG1VYS1QYlJtdTgwdjJBMzRiRTdpdnVMV1hNWkFqUFdFOXo2OE5kZkRQMnJyZ0VIc2wwOVR6U09hYzdrd0JCV0d0UEdheDZaRGltdEFKYTFmNWRqc2VjSzdrTDYyRTZrNFdmS056SlkzVEdzRmJiVmpBalFCZFVKS21XRDdLUGhF?oc=5"
+  },
+  {
+   "titulo": "Corregir fallas en videovigilancia y reforzar monitoreo en Puebla, propone el diputado José Luis…",
+   "fuente": "Curul Puebla",
+   "fecha": "15 oct",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNzJYQklrTW56Z2E5UndIUVBIaEdLeVkxWm9tbWplODB2eU1HYmIxb2tfSnNUSkxQQ19TbENmRFM2LWQxZ3A0ZjZoa21iX2FLM2NISnFNMnBjOE5BUGRJMDNXQWt2MDQ0MHI0eWdKS1d2cEoxQkhQZmlwVjVFeHZJc1VHQ3REMmZOdTB2bFdORlU4cjB4aHBXODJLVjhBSzg2SFVGOW9GNVpRMWR4a3o1V2pjUk81a0pEeEhRWEhVeTYtZi0z?oc=5"
+  },
+  {
+   "titulo": "VIDEO | Weretilneck festeja, la Justicia mira para otro lado y el negocio biométrico…",
+   "fuente": "Agencia NOVA",
+   "fecha": "15 oct",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15dnN2U2pDcHdNY2NaT3RkWGMtbjBIZHpkWVlxV0FhT291WVl3N3pUdzJxVXZvaVZxTW1MR2pLT3VfZ1pPYTFOUVZHNkVUanpmaFpLTFhkeUMyUDU5WG1jYUVaekxrTHBNeTg3ZnJ5OEk4Tk10alZhX2hac1IzelE?oc=5"
+  },
+  {
+   "titulo": "Bots, reconocimiento facial y más vuelos: así imagina LATAM el futuro de viajar",
+   "fuente": "El Espectador",
+   "fecha": "15 oct",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZXgwQUFEekhpeW9fUnl5b2o2VE9zb0JoS1h3TWNxUkFCZktqaXJ6UzViUldScjkxdzBjbjFFN0dkSHNlcVh1YVJFajM5RkxMUzloUDMzVFQzZVRldmlZa2pRcWFtNmR5MlBaYzU0bzR3Mzg2UDdPM2hLY3VWTW14OHZWa1k5dFVrSFhZaU1iUmNhSHBTRU91ME9STmlNemg0b2RDb3ZWUEgxenpCUnppeHgzUVVQR2lUeHJrUkhyS2p4eGM?oc=5"
+  },
+  {
+   "titulo": "Denuncian retrasos y sobrecostos en contrato de instalación de cámaras de vigilancia en Bogotá",
+   "fuente": "Caracol Radio",
+   "fecha": "15 oct",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdnlZRkVYX2c4NkRKcGJ1djRsTXJ1UjNjR3h1SGNVam1zYXNuRllVZFJHcHE0VnppWlNZaXVFeVVFMFFlbVlwR0h3XzNkTlNDREEtZDkwRXVYeUNmTFV0Mk1pZDBrX080X0MwOWFKQ2swejlXY2hMVHhvOTZKbnRRSUhWYWhJenNEWjBHRi1Ubm9DZFVzQVRUZ0l3ZlNWeF8xTGhPakJBN3hYN2FnaUFaZUNSUnVIX2NiMXRiVnctX1gwWjV3RlYzUtIB3AFBVV95cUxOU095NFExRGVEeldyR2duUlJvMXgxNGtFU2kxRmNJNzVyeHNPWmdXeHJJVkNrOWpyV1UtYUdoMTZ3RlRucVZ3OE40UzlzXzBjT3JLblBTTGQyMklob01fRVpEbU95UUY4R2lNc0dGcFJ1cXRycGZTNmxSV1BwUXF0elNtcWtOOVgyMENzSjRBLTAybTZGQ3A0WGQ0UHJqblJLTk1oMnhWeDctSEdxOEJTeVlzWGJ0QWVJU1VmLUhJSHZmbk13Yks4ZzRXYzNNUjZsOFZxLWVob01OTHEx?oc=5"
+  },
+  {
+   "titulo": "Cuando cada segundo cuenta: el desafío de transformar información en decisiones",
    "fuente": "TECNOSeguro",
-   "fecha": "14 oct",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YVXNfZEUwVUZIZVF5NGdsUUNMcHIyR29yVW5vT1ZPMmR2aF81ZHNHZFMyTTU5UW1QQnBGNHVuZENyZ3NZVDRNS25zajIwaExGMUxmaFFCQktkTGphV1JiLWJxM3dOZDFOemFpNXNBdUl2cVBfUmxlSlozRXJfa1k?oc=5"
-  },
-  {
-   "titulo": "Por qué los centros educativos deberían integrar la videovigilancia y el control de acceso",
-   "fuente": "TECNOSeguro",
-   "fecha": "14 oct",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTItT3J0V1VsSno0T0t3RzM0SDBneUFfUFBZUjYyS3JGWnRWMHJMc1ZDUElKZWd5SGl1bXZkQ2FQSkJ1WXZRUzV2aXFFNDVURjhWbU45enBRcVgtQ0h6MXdEMWhmVXNQLTIxQTNFZWhySDRNWWhLVkZfdzZBNHJNOHhYSEE5cHJ5V0sw?oc=5"
-  },
-  {
-   "titulo": "Aquitania incorpora reconocimiento facial para optimizar la entrega del PAE y reducir el desperdicio…",
-   "fuente": "Gobernación de Boyacá",
-   "fecha": "13 oct",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ1JYR0prQXJydlBrVjNIMDF5MFljVl9kY1Z1UEg5dTA3eWF2emkxX3JuWk1mSlJ0MEVKWUw2cE11QWVWMXhGZzQ1cmpuOEhwMlRmMXZUNTItUlVmV2ktcnJDbnhkR0VCVnFCVkllNkppV0dYb1drWGFVRWhUQ2Iwd0EyTXBFVDNsT3l3ejR6QU1mVnJ3dmpkVXdGRGNPallXeWh1THNXX284djI1RElhXzVjczNjSm5sODUxd0R3RjFTdUo3enZTYnZiYkRSOTB6all4ckdaRQ?oc=5"
-  },
-  {
-   "titulo": "Vídeo. Cámaras de seguridad captan el impacto en el aeropuerto Rey Khalid de Riad",
-   "fuente": "Euronews.com",
-   "fecha": "12 oct",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0l3dHRiZ0k2WmtEcEtZSFFEY2tsWXRXTGwyTnlrYlBxSk5aNjQ5ckNlbmZqWUQyMEtHMEZwbnhTMVVibzhOczhZRWJacDhOMXEyMXpPWFUybS1EMWhhbVFZOXhYTFNLcEZTdHNuNVJsNVdXaF9WMVJFOXhoeWUxT21pbzVHSno2MjcxbHdUZ2pPVnp0WkZHLWo4dk1wV2RiRmh1Z3RMUlplUk5HMkFRVXJjOXgxdw?oc=5"
+   "fecha": "15 oct",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLVVrbk1UbHE0WnBIdzI3YUJ0ekZfUEpHOVhpVmtZM0FtbWNKYWRZNU56MkZQaWlyWHpUWktGcndXa3g3OEZ6YnV3bDRTSjUxTW9EaXFiLW4ydV9BOUJtU25OWG1oUENxeDRTSU0xaTlrRVdaUGIzVjBLLUU2Q19rV0p5bGNLVEtvQzhCWFJPdTBHYy0x?oc=5"
   }
  ],
  "noticias_mundo": [
   {
-   "titulo": "Counter-drone defenses, autonomy, and open architectures emerge as major themes at AUSA 2026",
-   "fuente": "Military Embedded Systems",
-   "fecha": "15 oct",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ3piRi1kcW1BMmEyZWcxdzFYbkhtZGtfQXNMTjc4Nzl4dVlhdms5NC1HSzA0ZVhGVFZJWmEwS3ZveGFRalNyX3pCNnQ4eld2OTNDV21GVHpFMk54YVhMOHpaTkNoYnFNdWUta29LOXhHX3dDaE1rLTFtdzhOalZGeEd1Z2ZnejVTUXNXLVZQaHBmVkdQeUxnYWZuZmVZTW1Ja2lTRnFPVkNZdDVTVkt4UGV5bTVjR2Y4TjJEZHhFcVFpU2Zhb0l2bFMzM1ZZYVVHaDRPNg?oc=5"
+   "titulo": "The Smart Money: Why ISP Complexity Is Creating Opportunity for Security Providers",
+   "fuente": "Security Info Watch",
+   "fecha": "16 oct",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdnloSW80WElCTXptYXkzdGNjc1dnc1dvYmEzcmtXckoydFVydGJNWjhtQjdMaEQ5aWlub2ZKN0RFQXdLRGxKZEJMS2RFRGV3c1VWVC14STZqOU94NFZDY3VCR1IwZnJRdVIydEl2TlhUYXJ2eDJhcmhadkZDQWQwYktjRXp2QUlmZ1Q3WVBzVnA4T2U4aGVUX1NCM2wyenpKdmxRWWpaLUhtVDBUN3Y2NFVETXZLcjVlY05ucDIwcTlDa2V1eFYyQXBjMlE1WGlSSVVPSVdDYWFqMGNRb2o2RUxfc2VFQ2NlSnRvNllR?oc=5"
   },
   {
-   "titulo": "1M Impacted by CenterPoint Energy Data Breach",
+   "titulo": "Beyond the Mesh: How ZWLR Is Expanding Z-Wave's Role in Security",
+   "fuente": "Security Info Watch",
+   "fecha": "16 oct",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPOFlicVJlRWRzY2MtOGZyME1sQWtzY1k5ejF2YXRTZUpPc081elo2cldvN0ZuaHhOc1ZmZjBEbGg4Wm9jY0h4cG9HZ1JmVGRCSlZ6ci1kRzVja0gyNWZSQ283eXhCT2FlQXhUNTE1S0lYeHRjTFFpYUpLdzZIVE5QNk93d0lhdGhHcFJNUGVvV3lqdVdfZGV0dEVtSTlFWnlpdC02cHlsc1NVNDhLLXdaSkJFSGFrZ3Z6UWQ0azlqUk5BVVB4RlBONF83VVRLVzVJdXFVV1JzOWJFR29QRUhzbGlMWW9EV2hwQU9qZHc5TVk3Nmotcmh3QmNlb0QzRGtTaFl5RHJrdjBFVndQSkJxTEpEeEFWa3p6UkRmaQ?oc=5"
+  },
+  {
+   "titulo": "A communications and video surveillance network is being installed in the village of Gulelbird",
+   "fuente": "PLAT.AZ",
+   "fecha": "16 oct",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOclVORjA4VTFYZEJkcjdWR3dnaVJaZThrajdzWmRyYUdOV1Z6MGtkZ0xWZnBTcjJiZE5fazFSQkVvdTJVQ3JQUzBDdHpPMmV6VzA0ODlvLS1qV0h0ZHVfZ0Zud0pTdXhlbWp1Y0JQeTdQWjBpT09tNWdTUl9FSnV5WC1jNC1LLTRNVEtBWkp1cTlSaU5ScUJkNDVNeG9VZTg5SDY2cUZQTURFOThzVGROdXVBUVBGenNuTlBPeG5DVG9wbk9GYnZpeldqOA?oc=5"
+  },
+  {
+   "titulo": "DPCC floats Rs 9-cr tender for Delhi-wide video surveillance, pollution monitoring system",
+   "fuente": "ThePrint",
+   "fecha": "16 oct",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdGxXajBCUkt0Q0VMVmU3ZDBqUkVSMEhhVzBNcWxlTXlfNHR6MV9jQU0wZllwbXpDaVQ1bi1PRTVsZ1N2bm9RN1hsZzJvaHdaU1d4eGNWNTA2bmQzT1lVUzJoQ2VmWkVLd3MxXzkyR3pMZTBsb1dsc0pnaHB5S1V2b3lMUnJtS3BKeHg4T0xuTmFJWkR1d18xeHZLYzFmN2ZNZFJiLWVRX3pqZ3FTNlVuWWZzMHdPTlRPWEVmeDk5RjLSAcYBQVVfeXFMUGVpLUlXaHMzd3FFcDFEbW5UWlZqa0Z1VU43YXJWVkktd0dJcXUyUzhiOTdVSXc5aXBFenR2WFROdXBRNUdWMUtBZXZPM0pWRFFvNDhDVlRSMDFxX2dYa2FpSUh1aTBtMGZFRkIwSmgtZUVrMzh5VkcxRko0YWFDMTVPMDlkQ3dkSkRfUEE0RUY2SXpGU3RMV3REbEdKbjd0X29zMS03d0ZSbGdvQXRhX3lwOXNEWWxyY0FTRURhTEdyOElfRFJB?oc=5"
+  },
+  {
+   "titulo": "The Human Breaking Point: A Reality Check on the 2026 State of Cybersecurity",
    "fuente": "Security Magazine",
-   "fecha": "15 oct",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWmZCSHlxcmIwTHVHcUZ6TjBPR3hiRTkwYmNlRzlvdlVZWWxSckR0NGhlSlMxTl8xOWZ1Z2dlVFd1TS1YS0lWbkpOY3Y5X2JpdVk1YkZQekVGdTN6X2FpaWhKa2VRQTltYnVIa0s1Wnp3SDZNcml0Z3FRaTFDUERGVkktYS1Wc0tYTDB5RVhwQzR4SDMzTVlnS3Bn?oc=5"
+   "fecha": "16 oct",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaWQ0LXBxNWltd29nYVBZT1RETmNJRU9PQmxxdGZkQWFTbkhVZG1EamFGd0Z3c3oyTkc4ZzRwSzAxOHMwVEdfSno2UUM3NzNWVk9TXzFxWmYxcHp0WG1tWVN1N2JndUlXMk95cTROZGw3bmFLT2RwdWFFQ3hJd1VBS1V6YXB3X0tTdWJ4M01TNEdSRE1wS1ROSFpPeWtRZkliMk95SUNUbWxub2NnNWw4LUhEMTF5Sk9EVWlOM2MtWkVrUQ?oc=5"
   },
   {
-   "titulo": "Car totaled after slamming into video surveillance tower at police checkpoint",
-   "fuente": "Riviera Maya News",
-   "fecha": "15 oct",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR1NjeVdhbGo1bnd2Y21KaF8xWnVMVTI5akF2QTB2VW1aT1BYX3dRTEl2UW5JTndOaUNCRnJyN0RvMzFfZWlzMkdINWZsTG1fbTNpanVnalFjaHJ2OW9tUFdtVExNMUtYbUVFTnBIdFFBc1VLMUhrSWJpZGY4R0c2VDV5MHF4d2lqY2tBdVNQUm5lOEFvNHFmdTIyQnVHYU5NS2p0Rm05VGxhYzF6UHllaVktMGFZMFZ3?oc=5"
-  },
-  {
-   "titulo": "Beretta's new 1301 cUAS shotgun can counter Russian-style FPV drone attacks up to 100…",
-   "fuente": "Army Recognition",
-   "fecha": "15 oct",
-   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOOEl3SFROYkROdFV6aWNjZWZ4elRGVnhFbW1rVzZWekY1a2ctQk80N0NZWHVxeVdFamhoMm1BTGdLZXJ5cFRqRzE4RDRhUXpNQXFnalRFeVpFT2lQMXl3TV9SeVNXSW9xSTY0dlFaUldaRlZmVG1DRUNmUWJ1d0YzN0ltTEM1N2JLR09MS3JHU0lnNUtENFM3a0YybE93ajFVVFMwQTQ3VWFTQjJVT0hwVmNLbUJpQkEtMkJibWVqTHdDWWhHZElHOWdQUXB0Q2FVSk1mSUNtWklUa1RlaERCQ1RIZ2dkbDAzeHRCZTV2X3FwNFBYV1ltUEVLZW9vb1Z4bWk3TWNlcllrQm1XNUhvZUdlUDFlTmVxUVByaElCS1lpUHM0WXFWZm5WN0JFZWdFTGVqNUFucGp4ZExUWnpBSHlB?oc=5"
-  },
-  {
-   "titulo": "Rheinmetall and Praetorian Deliver AERIE Counter-Drone Prototype",
-   "fuente": "Israel Defense",
-   "fecha": "15 oct",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PM2h2S1VYa0JvQWVydW5kdEM1OWZkREp0WjdFeUs4eHQweE0ySDcxSFFDWDV2YjI5cEk3ajFrZm14S0FuUzVmTUFRU241NHJnQnRIb3pBSm0?oc=5"
-  },
-  {
-   "titulo": "The Front Door Is Guarded But the Back Door Isn’t Even Locked",
-   "fuente": "Security Magazine",
-   "fecha": "15 oct",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQWplaWtsd1BScWpoS1k3cUd2c0Y5Ny1OVm12TlJiR1FtbXNVLWdVQU1xNnh0aTQyQzdPa1g3MlQ4NE5rQVlNanFhQ09yQzdzUWMyZndJaEdGTmg0bjR0OFNLd0h2bnh1UDlzdVFQM2ViV29ieFNvMFJRU1B1WlNDNXJxTGtiUjBCNnJqcUhEc2JmZHY2SmVjb3Vzckg0RHVqaDZJV21xWUlEQ1o5TkE?oc=5"
+   "titulo": "DronTech Asia 2026 to highlight AI, autonomous aystems and counter-drone technologies",
+   "fuente": "Defensehere",
+   "fecha": "16 oct",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10TF9aRzdTUHhEaHZqRmpzaWNuaXRMT2J3MmdVeXBuSTU2d1MxVmxnUm51STlkaXNCRVlvOU5qRjNYY29wZ2Y0d21SZk5jSE0wMHV2T1ZXT3ZKekk2MGpQeThSbjJjZnB1MUowYzdpczh6aUZTVFVSSnZn?oc=5"
   }
  ],
- "actualizado": "jueves 15 de octubre, 10:09"
+ "actualizado": "viernes 16 de octubre, 09:56"
 }
