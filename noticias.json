@@ -1,61 +1,49 @@
 {
  "noticias_co": [
   {
-   "titulo": "San Ramón estrena centro de monitoreo con 18 cámaras donadas por EEUU",
-   "fuente": "Prensa Mercosur",
-   "fecha": "17 oct",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGdjWU5OeWVmcVpCWGM0eDEwUFBXbElfd1ZOdlBtVEZKZ18zUjFRc1ZRcFUtaUZoSmkweVpYREpHMHpWTkJVVUhjdHloNVFJcmFRZEJMclRud244bC1YbGtMVW81bjM1N1ZkN0hLbEQ1QTlWVFhDT3hjRnBXTVUtdmdvWlJ4MUluNHdVc3VQckpZWmY0b2dyUTh2NU1XREloTXl5Q0ZCYlRkWExX?oc=5"
-  },
-  {
-   "titulo": "¿Cuánto dinero requiere el Huila para adquirir equipos antidrones y qué medidas tomará?",
-   "fuente": "Caracol Radio",
-   "fecha": "16 oct",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPclVRSFVGZGtiTG5uNWlHSlNJLVpUZjlrSm9WSFVCdXJrdFU1Qi1zYlYxZk45VjF4ZERwaXVvWlhXTENXaThUM3N2cXRWX2xDU2VvZzVYOC1LNUdob2JIVUljNVRNUVQ0eTc2a3diYXdxOGVNTmtaa2prRWpjbzRuQjJ3TU93Yl85QWJGWnI4dzVxblZjdk5yVHdKbGtmNTMyUGJlSHNjTnNUMXJnX2JYbnJBb01VVTVqZkZZctIB0AFBVV95cUxNcE5KQnJDRlFpMjA2LXptRG1TVmZDWjBfSHhST3Nub0k2Y1NnSnFYeXFHM1VVUzF0WE1UY2VpN1VmQVFGVlhZcGlfd2Y2RF82Y1JWVWhtYmZxQ2VZSGo3WEJwekJaUHNTVGlraGhIRmJvQzNhWHlyY0xuNG9aY2hDUm1kNzIyRU9KYzNTaGVQdE5oeWhnMmZfWTJialJwRnV5bURiSjFXcVFvZVdyS2tUNGFnenRxNWY4bk5hVlBCYTAtc3lGTTdtN0xZbW9kNDFo?oc=5"
-  },
-  {
-   "titulo": "SAC Tecnología presenta MiniLaser de EDWARDS: detección temprana de incendios con tecnología láser inteligente",
-   "fuente": "TECNOSeguro",
-   "fecha": "15 oct",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMWthVnZqVDlGb0lhX1doYlBseXJ1ZW5ZZmtuekZ6ZGRGTE9UR3VQenV3QkZRQVRuOGtiSUpBTkRTVXVlU1d5WDNlZlBoTTYwdHZHMlhLNXNGZF9OcUVyc0YxVmxKVU1sSHRxZkIwQ2MwSUFaSkxJQUhtN2s2WnFOQTN5LXo1STNRSE13RA?oc=5"
+   "titulo": "Terminal de Transportes de Pasto renueva sus cámaras de seguridad",
+   "fuente": "HSB Noticias",
+   "fecha": "18 oct",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVdfNWthZlpMYXR5LTctaTQxNFRCaHBHWGs4THNiekplX0dveVNwSXFaLUk5WFd5V1Q4aldRMXJiTGlSeG56R1pIWjBqcXVZYk1MbEJVbzRmcmh0b1VJV2VUcEVwVHFEX1EyR3laSVlrWnhfZTlKbER0YU56RGhxcHBzNDNGMTJ5ZWVLa0R3OXowVFQ5dGtvbXRCVDMxeWppVFlKNg?oc=5"
   }
  ],
  "noticias_mundo": [
   {
-   "titulo": "Hyderabad's Indrajaal built an AI-based counter-drone system with ₹30Cr investment; now secures MoD orders…",
-   "fuente": "Startup Pedia",
-   "fecha": "18 oct",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSzNRWTZ1Q3kydVdxYVRnSEtyN1ZEWTY3dFE5RF90b3d5c1pZX3JBUE0tWUlzU1ZrUENBR3ZaR2VxWmtySjB2cVo4RS1WQkJBemVkX01hc3ZUTzNPUUZjVTlSRXBKY0ZXMHdFU3pXTHprVTFxN25MZWdEWDEtYld3ci1uTTJJM0JxQjloSHkzU3d0LThDRExodWJRYW9Nc2N3LUE3dGVGV2VGY1N4ZVJCbEVRU0g2S2duYmk4NjRwSEhxS1hyZ3N3Xw?oc=5"
-  },
-  {
-   "titulo": "Detected. Now What? From Threat Detection to Coordinated Response",
-   "fuente": "Security Info Watch",
-   "fecha": "17 oct",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUdBNkNVdElPc3dvM3ZxSzl6a2QxVW0yQ213U2VSM0dIdlpDUE02T3pQb3pwVElFdG1ka0hGQjBicEpsTGpkNUwzZHRqX3NPOEhtZ3M2T0NfaXBJN0xrUmhtYzdEXzB1clFjaVMyMnlyaktIWVFfZndOQVZqQy1HNWctVlBKNU9wUkZEOWphLWg2ZmZpUS1rc2VDOF9xZ3BfMUJLQTR6WXAyWTd5ZEJvMUJncGUtb0ViLW4waFF6V0Y?oc=5"
-  },
-  {
-   "titulo": "2026 Third Party Monitoring Directory from Security Business",
-   "fuente": "Security Info Watch",
-   "fecha": "16 oct",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbVJrWFhlZXZCY0xaanBtMFBRbjRIRDN6ZU11STBhNlpLN0s5TXh1UlNtbkQwcEhWeV9IQlBhVkF3TmpzVGdMNFNpYmFkejMwOFlpWlBoUGFhWWg3aVlpUVVGQzNueHQ0bUNaaEN4NDdULVVSOG04TTZjMXhvV3FKWGpiWU1NYTJMM2JSaXZ3UVpXWWJmRGJycGVjaFJvV2Y1UVltUld5dGtTYzNZTjBPR2ppTTkwQkFmYm9ISHdxYlNTWHhXTlI3RWw2ZXNVLWttcGVXQnlNalgtOXpFSGNGMmR0LVhLVVdvNlhrT1Vja04zLXpOalZXV1VNMWNBczBlUUJzTWNycUY4TXpZeGZxN0otNA?oc=5"
-  },
-  {
-   "titulo": "OpenAI Claims Model Helped Solve Insider Threat Concern",
+   "titulo": "Healthcare Workers Claim Authentication Errors Delay Patient Care",
    "fuente": "Security Magazine",
+   "fecha": "19 oct",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWNtUmEyb1FPQS1aenJILWNxVWFuVFlhT29CSm1zLXJwRnRSSGFZOThJd0d3dHYxR0JsVGdLZHNCeEFrVFJqUE01dzU5WGdILWhXcDU2V1N5b2lQc3o2MEpqeUpKWE94TkExS2R0SW1HZXZESG1RQWJiMlRYd2ItbDd3TEtOdVc1NE8yc1NSclJwcnRoVjZwNWxYZ0ZtQVFNQjMwTGFrdVBaWUp1cU5fTnQ0V0s?oc=5"
+  },
+  {
+   "titulo": "Police Suicides Spark Campaign Demanding Action",
+   "fuente": "Security Magazine",
+   "fecha": "19 oct",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRU1ueHFUU2hUdFdIUUtuR2RYT3JZcDh6R0ZVYVczZXBFcUR4Mm0ycHJfU3M3Y3N5anBXTGQxMll0d1I3Qk8zZW9zYkFEbGE0dTN0d09zM2FPdWpwZEF1bWt1MmZJNDRUM1YzOUpzWHNjSkVHNmRWM3huTGtUOW1Za1VFTUoyaXZsLXA2Vi1DcHAxbURfZF94SFluaVY?oc=5"
+  },
+  {
+   "titulo": "How to vet a gate and access control contractor for a perimeter project",
+   "fuente": "Security Journal Americas",
+   "fecha": "19 oct",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wUzFuemRZYkJfeHZEY0pJVWlrVGZTUkJEQjVSeFdBZEJXWFRXQ1hCYTdYNXRMX256c3g1R2JTempZZmhfTzhwZGdmQVd3VG9fRHRvazhBeXFPUWwtbFNKMWZRenYxbHZsQU5vNGRBenZHVDNITzVHMUhn?oc=5"
+  },
+  {
+   "titulo": "AI, digital resilience in focus at Axis’ Milipol Qatar 2026 showcase | Gulf Times",
+   "fuente": "Gulf Times",
+   "fecha": "19 oct",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZhOVBCVEpzZnZ6RDZqeW5maFVkTVV3QUQyRUxRNHlkdjBPUGtsNHAxOWFhVzg3bW8zOXJjOU9EV2JfUGNhTUlUM2ZORk1IaF96MU9rWXlVZy1HN1YxNWozaExxbWZtaDNYbURwemNyRE9JOGtPWlM5YzQ4YktiZEp5VzBvUTFwTF9KX09CRVl4VVRCdlhjS2szRlNWSzkxQ3labUVGczhDaFc3RjRGYXdFSUbSAboBQVVfeXFMUGY0YTF6X2hBMUNrbUZHME53b0lfTWVvcHh2VVBVUnJzMnQycV9MY3pCajR3X1liOEVwZzRzTFNYWGhqREJKVkl5TEtqbHlrOHUydFBtR2tLZFNuTTNudHlKMmZxTzBZeXFIT2lza00yalF3bVIwZkg0OGM5MzlwUDF5WnZWbkRjcXZKenhxUXdYc3NPdUwwZlpialE3ekZkOUh6LUktLVEtNTBnQU45SW5KMEtUY0Npb2hR?oc=5"
+  },
+  {
+   "titulo": "Editor's Note: All Good Things...",
+   "fuente": "Security Info Watch",
    "fecha": "16 oct",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORHNsaGcxVW5Vbjc4Rkl0ZjZJLTJqTDVHVENvUnRrcVJyNlNvWWRkdGlHRktOenRLS294bFVOOXM4bFFtdmF6YjFLNUNWTlRZQkFzWXpoamVIRDN0SzBZWjZBdTFtX1ZQUXI5cm1Ib0szVXBTb3dRbHlPT2xpVG8wa1lqV3ZrZjNqMEMtTDh3RUdObGFCdlJCZWVQRXZ0d0poTTJXZjlKTQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdktGaUxmUnhMZFJtSGlnVE40aDVFdmQtVGxwcHFGem5MQlhUZkVSbng2Mi1Gd3VEckZKVjVyYzlGdTZKQVJJamFjS3hmYTlOV2Q2U1VxYnJJdmZUbDJhR0hxX0JLVkdlZ2VpV0VtQjJnQnBWeDFUY1J0Q3ZyWlNSVU5STXVRcGZXSTNRT251ZzJzQQ?oc=5"
   },
   {
-   "titulo": "Video surveillance captured the SUV driving in Abbey, Sask.",
-   "fuente": "CBC",
-   "fecha": "15 oct",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uNG81VmxEU25TVkhkU3NJNm4tVXZZT1ZfQ011d1lQNVhaZEdYdkEwd2ZNZm9ROUxsZ3Itelhiay1XeGxJc2xUdmw0NS1BcEJrSVRtNmdKTkY?oc=5"
-  },
-  {
-   "titulo": "ASIO's 2026 threat assessment places physical security of data centres and AI facilities on…",
-   "fuente": "Architecture & Design",
-   "fecha": "15 oct",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOck9TWnV4eGZ4MGFkZGFJc2ZIRHhYdG5US1FHbDV2SzV4U3ZBTnR1bnZGUXFhcEpvWnUtakdNc1h3MzJwakVhZC0tVTR3VFdIbXozZFNTaGlfb2N5WWlDbnpNTEp1OGtFZTFmSzJkVFhiXzBieHJ5VUtBajlJbUlQRm5uLTZhTnRqaVNwRVRBRzdqWDk1Y01ZZnhXZXBQcGFFSTc0ZU9rUzRYY0ZySEFnWGtIbw?oc=5"
+   "titulo": "How Security Integrators Are Winning with Full-Stack AV",
+   "fuente": "Security Info Watch",
+   "fecha": "16 oct",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU3c1SnBCWVRsMkJPZzlJQ0hFN2lOeXlOTE9QSjBueWIxQmV4UkFDVnB2WXNlYm9acDBaczNmM3g1V0hkc1ptLUFEUTR5TU9MT1NuVTUwMUJ4THMycVBqWlFPTFA3WGNpNlYwSlF5emplVklSS0hKMkRDeXlDOUMxQjUwcTBGU3BwX3R1Y01TMWpCRWdzZzdxOWNMYnBvSElyeENhSkh0YVlNcF9pa2xGUjRDRDJmT2ZkenR0bF9OQ05QdEUyUnNiTnJBaFVQUVl1ZExjc3VkOXB3aUFj?oc=5"
   }
  ],
- "actualizado": "domingo 18 de octubre, 09:04"
+ "actualizado": "lunes 19 de octubre, 12:03"
 }
