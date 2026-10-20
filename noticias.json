@@ -1,49 +1,61 @@
 {
  "noticias_co": [
   {
-   "titulo": "Terminal de Transportes de Pasto renueva sus cámaras de seguridad",
-   "fuente": "HSB Noticias",
-   "fecha": "18 oct",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVdfNWthZlpMYXR5LTctaTQxNFRCaHBHWGs4THNiekplX0dveVNwSXFaLUk5WFd5V1Q4aldRMXJiTGlSeG56R1pIWjBqcXVZYk1MbEJVbzRmcmh0b1VJV2VUcEVwVHFEX1EyR3laSVlrWnhfZTlKbER0YU56RGhxcHBzNDNGMTJ5ZWVLa0R3OXowVFQ5dGtvbXRCVDMxeWppVFlKNg?oc=5"
+   "titulo": "Conozca junto a Ajax las herramientas de su Partner Portal para impulsar oportunidades comerciales",
+   "fuente": "TECNOSeguro",
+   "fecha": "19 oct",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUXBxcVl3Z25Nc1lSQzRueF9yZWhoUW1zU20xOUVQQ2x3WG53cFQwckNHdUV5aXR0TTVveUdZMlhLZTNieEs2OGtpWXdnWXdWdnhESlZzTlhoNU5uQnV2OGl1dkM3QnFnN0Z3dUxTZi1JbnpEWmJjVi13a0tHeWpFSXFaYVhsUTQ?oc=5"
+  },
+  {
+   "titulo": "Participe en la certificación sobre la línea Baseline de Ajax Systems",
+   "fuente": "TECNOSeguro",
+   "fecha": "19 oct",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNE41NHc2MHdmWFNUb09BdEVxaDZyV2FsNjN5Z0lvNUIxa0I2WjNfSlhaU3FKLWJlYmtydFloa0doOGJ6N2U3LUFSUlgyTDBTTEFiV2EzdV9QMlZGNjRkVG1VbHRvMjdyOU9FUU9PdUxNSklfc3dLT0MwbkpJY0VkZl9DRDFfQmRQ?oc=5"
+  },
+  {
+   "titulo": "La Comunidad habilitará más de 1.100 puntos de videovigilancia y control de acceso en…",
+   "fuente": "Espacio Diario",
+   "fecha": "19 oct",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQa1B4Ukdsd251QVY4MjZQYVZqd0x5dXhCUnREYWRMdUVxTmlRRTRfUVJ6bkJLNUpPdWh4RmxsTHR1cjF4QUo1bUJSMFFXNV91VmY1TGk5YzBXdnVnWnZsdnFiQVJ3RUwxSGdYT3NJQkZvTnkweGtrbDFueXhubU56SlVNVlg0ak5KdHpyZUdMSFgwWlpQR2puUDR2UTdlaGxSTVh5UzlqZ2RyMVBXVzJ1ZGYzNUpxeWcwajE1TUt6RGtFZGdDamViaW9pWkJpbjAzTm5MNUUxMm9SNUJHbFBIUG00T0toOFNBZHE5RzRB?oc=5"
   }
  ],
  "noticias_mundo": [
   {
-   "titulo": "Healthcare Workers Claim Authentication Errors Delay Patient Care",
+   "titulo": "Security Leaders Share Concerns About California Student Data Breach",
    "fuente": "Security Magazine",
-   "fecha": "19 oct",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWNtUmEyb1FPQS1aenJILWNxVWFuVFlhT29CSm1zLXJwRnRSSGFZOThJd0d3dHYxR0JsVGdLZHNCeEFrVFJqUE01dzU5WGdILWhXcDU2V1N5b2lQc3o2MEpqeUpKWE94TkExS2R0SW1HZXZESG1RQWJiMlRYd2ItbDd3TEtOdVc1NE8yc1NSclJwcnRoVjZwNWxYZ0ZtQVFNQjMwTGFrdVBaWUp1cU5fTnQ0V0s?oc=5"
+   "fecha": "20 oct",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLWVxeHN3V3Rnb2VZd3ZhekR5c0g2MG5uTmwtS0xreWloWElIR3o3MmNDUWRYTHFFR3dvUjUtbTROdEQ0Q3V6LUg4TkxhbDk0VXdYenllNW5SM3RyTXl2TUVVWmg0QldxcDhRLWFHc3RGZHRfTTFBbmtGZnZvaTFWVVVHQ2l0dllOV3luWUFnTmhBNHhLWUtCdkZLMzQ2eEZkd2F3OW8xNkh1VVMyOVM4WThwZEtRdUZk?oc=5"
   },
   {
-   "titulo": "Police Suicides Spark Campaign Demanding Action",
-   "fuente": "Security Magazine",
-   "fecha": "19 oct",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRU1ueHFUU2hUdFdIUUtuR2RYT3JZcDh6R0ZVYVczZXBFcUR4Mm0ycHJfU3M3Y3N5anBXTGQxMll0d1I3Qk8zZW9zYkFEbGE0dTN0d09zM2FPdWpwZEF1bWt1MmZJNDRUM1YzOUpzWHNjSkVHNmRWM3huTGtUOW1Za1VFTUoyaXZsLXA2Vi1DcHAxbURfZF94SFluaVY?oc=5"
+   "titulo": "IDENTOS Launches PolicyArc, Bringing Real-Time, AI-Ready Access Control to the Enterprise",
+   "fuente": "The Joplin Globe",
+   "fecha": "20 oct",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQeFJ4OUo1elR4bTN1U1k1LVdvR2pOMndjX1QwOVRMbml2bmotOGF1bHFkOTZ4eGxSVm5mWUd0Y25ZTWV4UFp3QkdKXy00c3RDN25BeGVxRWJkdjEyTGdKa1Y3UXlHWFFaaUEtMHdCd1dzZGx5ODFuRDBQU3piM1ZYZUNqMXpZdWR3VG1MQXExcFJPd0J0ZVpad2ZvYi1mQ1hGM2ZqVlFDY2dpV3BXeU5YaGJOZXVwX19fVHlfY0RRM2U3MklneE1uWlplLXZtaGtiR0w1UmtjSEh2NDJKNFZaZDJINVEzSV90TU14LXVQZFBuOXEzU1QtY3VGSGNJMGhxTzJTTE03NVd5S21zeHliaURUaXVNUV9MdlE?oc=5"
   },
   {
-   "titulo": "How to vet a gate and access control contractor for a perimeter project",
-   "fuente": "Security Journal Americas",
-   "fecha": "19 oct",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wUzFuemRZYkJfeHZEY0pJVWlrVGZTUkJEQjVSeFdBZEJXWFRXQ1hCYTdYNXRMX256c3g1R2JTempZZmhfTzhwZGdmQVd3VG9fRHRvazhBeXFPUWwtbFNKMWZRenYxbHZsQU5vNGRBenZHVDNITzVHMUhn?oc=5"
+   "titulo": "Allegion Ventures Makes Follow-On Investment in Ambient.ai, a Leader in Agentic Physical Security",
+   "fuente": "Voice of Alexandria",
+   "fecha": "20 oct",
+   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQcklEelVDOURSLUJYOFRxUGNuTjM0NmlLYTBzLUc4bFQ2MExCT3RaQ19ia0hVU0lBRURXcHdlRjZoNnh6anRfbXFNeFE2Mk1xSjBGZlljUGVnU0FLVGJJTEZmTGd0cTNmQmtXeS1zblBLejhjTEpESmNDWmkzU0FIWDBrX3hLaHJEMUYzenhRaEJYVVdnQWFaSTM0b3FtaG9xazJfYVVWaEhkZEtNZEE0LXJWTmhFOUxLZmRoNEo0ZjMyUVpNdjZTbGx2R0JzQnliQWxEd0xUUm1sS0QwZ3AtOXdkX2QxVHlsYVhkRFVJSWd0eXZHX3ZJdjEtamVxb0tBYW0yUlRVRHVzaFg2bVJKc3BhRU5LanpMNlhyU0ZpVUJHSDU4SVJqdEZBeTM0eFNIR1E?oc=5"
   },
   {
-   "titulo": "AI, digital resilience in focus at Axis’ Milipol Qatar 2026 showcase | Gulf Times",
-   "fuente": "Gulf Times",
-   "fecha": "19 oct",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZhOVBCVEpzZnZ6RDZqeW5maFVkTVV3QUQyRUxRNHlkdjBPUGtsNHAxOWFhVzg3bW8zOXJjOU9EV2JfUGNhTUlUM2ZORk1IaF96MU9rWXlVZy1HN1YxNWozaExxbWZtaDNYbURwemNyRE9JOGtPWlM5YzQ4YktiZEp5VzBvUTFwTF9KX09CRVl4VVRCdlhjS2szRlNWSzkxQ3labUVGczhDaFc3RjRGYXdFSUbSAboBQVVfeXFMUGY0YTF6X2hBMUNrbUZHME53b0lfTWVvcHh2VVBVUnJzMnQycV9MY3pCajR3X1liOEVwZzRzTFNYWGhqREJKVkl5TEtqbHlrOHUydFBtR2tLZFNuTTNudHlKMmZxTzBZeXFIT2lza00yalF3bVIwZkg0OGM5MzlwUDF5WnZWbkRjcXZKenhxUXdYc3NPdUwwZlpialE3ekZkOUh6LUktLVEtNTBnQU45SW5KMEtUY0Npb2hR?oc=5"
+   "titulo": "LVT Integrates Axis Communications NDAA-Compliant",
+   "fuente": "GlobeNewswire",
+   "fecha": "20 oct",
+   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOMVpYNkNGN3VpRF9QTnM0RVFsYW1zZzE3cGJNWkZBSkJmXzZEdUtlX0dpbEJmcXVkYkF6WXlHdElPaTZvN3ZDRWdZUWFxdXlzR0lMV3Bkd3Y1dGxWOXVoc2poS01jWGlNcDViVXhobGZjdTJQd250UURqSU9FckVoYmZxUnZGVEpkdG14bHRVXzh0X0dzUmxOdzliR29BaXFObWdEUlk1NUJ2TTdtRmVuRUhydTlzZ1pSWkZ0c2h3bk92bmszTmQxVXhuNzBaZW83alFFVmttYU50SDE2MHFxOFN3NzJnazNYRS1hVXdfbmdzcU5Hbl9WM2taeFRKOE1KbUg1U0hiQTVMQWRsUDFVX0dJVmp4WGlCT1Q0M1VCa1NYTmZDRHNQc2U3d2tRTzcyU0J1dA?oc=5"
   },
   {
-   "titulo": "Editor's Note: All Good Things...",
-   "fuente": "Security Info Watch",
-   "fecha": "16 oct",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdktGaUxmUnhMZFJtSGlnVE40aDVFdmQtVGxwcHFGem5MQlhUZkVSbng2Mi1Gd3VEckZKVjVyYzlGdTZKQVJJamFjS3hmYTlOV2Q2U1VxYnJJdmZUbDJhR0hxX0JLVkdlZ2VpV0VtQjJnQnBWeDFUY1J0Q3ZyWlNSVU5STXVRcGZXSTNRT251ZzJzQQ?oc=5"
+   "titulo": "JWALA-MK1 Indigenous Counter-Drone Missile",
+   "fuente": "www.usthadian.com",
+   "fecha": "20 oct",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fNTFqV3l5T1ZGbkN4T1I1YmJ1ZEJrUDFkMzA2cWpFYnZTdGRfb1RJS3VBYWVXUVgteHcyR1ZiNE5QNE14ZXN2TlRWX1dlb2ljUUsyRGc5ck1objQ2MHJTakpERzFuTTFUTld6elFISEJ1bUJaRDBaQw?oc=5"
   },
   {
-   "titulo": "How Security Integrators Are Winning with Full-Stack AV",
-   "fuente": "Security Info Watch",
-   "fecha": "16 oct",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU3c1SnBCWVRsMkJPZzlJQ0hFN2lOeXlOTE9QSjBueWIxQmV4UkFDVnB2WXNlYm9acDBaczNmM3g1V0hkc1ptLUFEUTR5TU9MT1NuVTUwMUJ4THMycVBqWlFPTFA3WGNpNlYwSlF5emplVklSS0hKMkRDeXlDOUMxQjUwcTBGU3BwX3R1Y01TMWpCRWdzZzdxOWNMYnBvSElyeENhSkh0YVlNcF9pa2xGUjRDRDJmT2ZkenR0bF9OQ05QdEUyUnNiTnJBaFVQUVl1ZExjc3VkOXB3aUFj?oc=5"
+   "titulo": "Five Reputable Automatic Bollard Manufacturers in China 2026: Advancing Access Control Solutions",
+   "fuente": "EIN Presswire",
+   "fecha": "20 oct",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaGdueHNaU1NnRTBPeENUUVpPWVNxSDVROWt4MWpEMUtsY3dZRHVGeGhYVV90MnMxeGd3Tm1sZDRIMU1TSWF1NmZSV0ZqdklEMmxoeDNfdFRTdFpOTU9MOFFwbFY3VVZ4MjNUbUZCamVKVElfMUhod0dCYW1PMEZnWFFQU01kemtUU3QyMTlaSjE2WVVCTkhqRGxRRm1NLTIzLWVxVVJLSG9iOFEyLVRKVUxBRWhveUlTdE5OZjR2VkRYQnpUVmxKVUJFcm9JeGVEbEFFRDJTMG5mUQ?oc=5"
   }
  ],
- "actualizado": "lunes 19 de octubre, 12:03"
+ "actualizado": "martes 20 de octubre, 10:13"
 }
