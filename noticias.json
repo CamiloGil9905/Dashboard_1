@@ -1,67 +1,49 @@
 {
  "noticias_co": [
   {
-   "titulo": "En medio de un debate sobre privacidad, Australia Occidental arrestó a 122 personas tras…",
-   "fuente": "Infobae",
-   "fecha": "02 nov",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPQ044U3AxS0VjN0IyWUFSd3pkZG9qUVNOMG5rQUNqbGpsMVZEbFZ3dWJrMVlNMWNkTk81SFo4REZ0NnhQa0dMOEZXN3VJRHR5bFpDdzEzMWRxRWI1dkh6RjF0djlrLUR4SFNQZDFDU2dhZ2gxMzBQM2RzOXQyWHp5cjdBdHh0SjdGTUdJZmc0bEZlVmhpcEF4MDNqUDRpZHR2ZzB6Q2RtVGlOTThyTTFZSVppMzg5d18wcWtSNTR1eF9USjdVSEduejlybnhibWF6bnI2N01ZRmFZc3ltMklHSXZ2dk1FdDdUMEFyalVBLVRrdXAwU0l3SkRFYWRYN3VBa1VXbkRrbGZPQTVvblRZ0gGqAkFVX3lxTE1SRGxQS3FMV0RheHpOTEFERlJqQm1GWWY3d2lDLU0xX3AtNFM4N3BIODFaakloSGJJemVJRjBmenk0eDFnMEZjOEp0S3BuS3JKTnJIQXJXT21nZ2FzTWg5MDdrcWtWVTZKRVlkYUxadXp2WlRXR0hHdmloWlU1UWo5d3VkR2dvb0ZIYkdmcy12NGJNOXNBcTlDaWxUNDB3WURtaTFmOUlsNEZfQTBfT2xPRnZWSkZLd29fQTVmSHdBVk1FemtJUWVJbE1XenhOUG4xVkFNYzlFS2xnTGNHN0xEZW1YVkZTNktRcklCQXM3dzNWNG03OFJhMlVzSnRGTGw1Tm5uaGEtVFhJUDc5ZWVnRzVvVkM3WXdBUWhqOUpQNzNnR1JFaDZuVGc?oc=5"
-  },
-  {
-   "titulo": "Network Optix impulsa la movilidad inteligente con IA en el condado de Santa Clara",
-   "fuente": "TECNOSeguro",
-   "fecha": "02 nov",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEJaM0hBY3VfVV9wbTlEOXVnaTc3M1haeUc1TWVzQTFJUTEzNUNsV25RWHIyVkxrS0h5VU0xUmlDN2IxTDBMVDlWaUVkb090cTlIS0xKSUdpeWxiUmtvRkxJeWxWNGlHcDNTZUJ0NlY5dXZNZlkzLWFZYWxqQWdIZWZlSmc?oc=5"
-  },
-  {
-   "titulo": "El nuevo plan de videovigilancia en Zaragoza recurrirá a la Inteligencia Artificial",
-   "fuente": "El Periódico de Aragón",
-   "fecha": "30 oct",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGF0SGxSLUowcV9YNGVaZlVnV0pORXdBZDE3TnNOdVAwTlp6R1M4WEdxNWFOZEFBOS1XTkVaMzFMamdYQmxMamVqZnpDN21KdldINzlJNE9fMTNWY3FLVzJTOGF1RGUtR2JiQW9EQmVtTkxQYVNhWDVSS1pXSkxhZW1veWphR0tiX1ByRzhmMTl3Z1hkZy1hS1ltMnRIcGRYanBnODM1Rmx3SkotRm9iSXI4MW45bEXSAbwBQVVfeXFMTW9vaW1UM2gzeVRMMVF3TXY5eW1nalhRNVVEcm4tZXNkNllpTndpYk5teVV3R2pVSjhZZkFYSlZROGtRalNNNkRHNlBuLVNzd29EQ25LMV9PUEhqZjhZYkc2Sy0zcUVyd1Y1Y2xmREc1VzNWSk12Ty1ITkx3djV2N2Z0X1l2TjdpaU1Rd1BieGF4NHl5MjMzeU5leWk3a3Exdi0xaFM1b19jbHJkWU9IWE9MSTMtZ1NLVW5waU0?oc=5"
-  },
-  {
-   "titulo": "Noticias de Videovigilancia o CCTV",
-   "fuente": "TECNOSeguro",
-   "fecha": "29 oct",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1heThkcUEyUEczMWx1SVB6Y0F3amVhSzRGZGdPMTJvQ2ZpS0ZEbFlUS1cwMy0tT19RY1ZfYk5GNzFoZ0VSc3ZnVUVCTExaQlNEVEc0WQ?oc=5"
+   "titulo": "EU blinda la residencia de Trump con misiles y láser antidrones en plena tensión…",
+   "fuente": "Periódico Zócalo",
+   "fecha": "03 nov",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZlM2eWdpUFRhNldQYU91OEktWnRuQm5lSWphTVFmT2hGR1ZOWkhJRTdfZWM5dnBmN3M2bENYOXhpVDZBeW1BTmdmaVJIM1lIQWx4Q2hrWDNWX1RMd0dZTmlKNFljQjR0ZURFbEJTVU90Q0JUM0hXNVA4eUJ6ZDFQQU5vVS1yX3gzcFdVREg3RFplQVg4dXlsaEozNmxnQUNfUUN3T2J1UkZpSFpLT3JuYk03ZTl4Zm8?oc=5"
   }
  ],
  "noticias_mundo": [
   {
-   "titulo": "India’s Counter-Drone Opportunity Grows as AI Enters the Battlefield | Defence Pulse",
-   "fuente": "WION",
-   "fecha": "02 nov",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUw4Z002akNLSDVWRGo5eW50RHJPSnFyUF9yV2pVWFlLcmh4WkNtaHlGWTVMcXJ6OGl1MkxTd3hCYUVhUW93WEFaSnczV2dTZ2JJak9ZZnZtVnhoMUNHQmZLdV9FVjZXSzREcXFWTERabm92UHlkQ0JxbU1sckk0MDRHQlNHWmRlSy1pODE3UVdWUndnbEJBWG56Z19heDF4Y1dJdG5iemV0aHF3Qmc?oc=5"
-  },
-  {
-   "titulo": "SIAC Brings Alarm Industry Perspective to IACP Policy Discussions",
-   "fuente": "Security Info Watch",
-   "fecha": "02 nov",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU1BrTUk2QlZNMUt6clZ0c0lodk04LVJfNjNiWFdUa0tJdlFqcl9pTXU2Y1JYVFAzOVEwNjRJRVZFanJwT2x0NjBFT0tiSUJYYkZUNkVfemZvbEd2djVqdDMtMm8yOUVIcXZ1UnNNU3VzSFJ2SXZKSkliN3kzSUZ4aFZKRmxROUxOcVFhTVc4MU5oUEtQTnRMMVJYWkczZkktajhibVVRTGhvV0xtWTY1aEdMRE5HcW40WHF0ZThvdzAtMGE5LWhyaGg4Zw?oc=5"
-  },
-  {
-   "titulo": "AlliedTechLabs launched in Latvia to progress 5G/6G research, deployment, including C-UAS",
-   "fuente": "Unmanned airspace",
-   "fecha": "02 nov",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONG1qM3lBTnpOWDZOWTVrbTZIOWdvZjNXZTRDb09GQUp1T0tKdDVyTjNvaUdOZGgyUGRrWDRtdVR3WWs1akJiem8wemxHSmhKTkdZclJmdzlYMDAyZldESEZOSklYNWtKV2ZjRnEtTmlBeDh6bUNHUEFqQlc1dkFRSFhpbzE5YTlSa1lpeEc0U0lrdGFvYkR0ZzNoWnRlZ0RuQjZzU3VKUmRYZGE2WnJLN1ZKZFNXZWRSTGJQRTk0X3BuSm55ejNSWWJ3VVI5TFpWY2E4UWlORjYtb1JBWEpLVGllbWkyOGRhNW13?oc=5"
-  },
-  {
-   "titulo": "Election Season Is Phishing Season — And Attackers Know It",
+   "titulo": "Composite Risk Assessment from Planning to Response",
    "fuente": "Security Magazine",
-   "fecha": "02 nov",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRDJfSDdBX0JNQ3lHVkFrbDZHV0JXOTJmMkVZb1BrVGV1ZHNkZ2UydEFTSkFmQzdzSXpvNFNJdjZEcTJkMXlLNEtnYmR4LXZ3LTlBQUVqMzFMQXRtVWpoTXdEdHljZW9nRUlydndVLWxOd3JBLXRJcmVkNGs1bVFuLXYzWWtoVnU3Mmx2aFRKMkpoOUQ3UjdwYXdXVzNTY3ZKV2tONGRrSlAwWnZwaFVlRHA1dk1XbHBoSTlVZ3JReFFxUQ?oc=5"
+   "fecha": "03 nov",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekUtbFE5SklzSU5YRkVOYXhoRUM3Z09EeDd0ZGpxSXBsVWJZY2pjTndFaEhLZnJWbnlMMzY1bEstWW05ZHF6Uzh6QXl0MFBMQ05hbGJQNXNKRGp0djd6bDctZ1lzekhTYUI4UmIwMGd4R09EWVVQMzVPN1RFalE4RzFwajBicVlqcjFSZXBGMEhEQTZoUzNHYmVGXzZhQQ?oc=5"
   },
   {
-   "titulo": "WSO2 API Manager CVE-2025-11969: System REST API Access Control Flaw Allows Unauthorized Admin Actions…",
-   "fuente": "Rescana",
-   "fecha": "02 nov",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVlh0alVhUWN0b291Q3Y3TXJISmM3LVNtdDcxd1FDOVhkSjdaZWUwcC1QR2tsTjYtcU1jd0FZT0FKajFQVFpRNkh6SlZEUUhrRmdZblhuRWhzbHZMb2FtaFRIeWxBSjh5cGlTdmFkRWo4ZXVId2NMSkl1a0U0T2R5Rm5vVGFoOFF6YjlSdjBfRXNESFVBV0wza3ZlZUcwVVBnbzlXZGhR?oc=5"
+   "titulo": "ADT Outlines Thrive Acquisition and Reports 4% Revenue Growth",
+   "fuente": "Security Info Watch",
+   "fecha": "03 nov",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzlhYXBqR19LMzhpUEFvbkJ3Y2ZCZVdQbHowRERvZFBsRG1HRWM1dVJmeFNjY0xwU3NrTW8wRmhRaWpITS1xME95RGFJV0J1RzJSaWdadGl2X1hCUXhkSTFCczY4WlAyMUR5NWpzcm9yVkpWR1RVQVhVR1ZzSk16ZklzMHlTOUVmRjVmcmJxc3JHMUxWSTNsZjhRUjhLRVVrYVB0OTItZF9OVjF5am5wLVEwbms3emVlczFCbQ?oc=5"
   },
   {
-   "titulo": "Tighter procedures, law to govern access to police video surveillance system- Home Affairs Minister",
-   "fuente": "Demerara Waves Online News- Guyana",
-   "fecha": "02 nov",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbEt4WHhyMFlfTzBCVzRiU0JTUDdwcTBKLW5KODA3MmItZHQycXJOckEyeU84aEtPUV9WYWhrZ2RFc2haSGMwVHM1Q3ZJbF9ZajVvRmczYlQ0OHpqdXhmVWV6d0hlT1RvV2hZcHhqQl9GSl9KTElzVlpXMmxyYjhCRmZJQjVsVi04T0xMcUxVeG03U1dINGQ2d25WNmlLRHFuTWRUdU1sRVpDTDNfUGVnYlNPWDV5bThWSkVyMHZDUzVLVngtSmgwUWVHa09NWFdK?oc=5"
+   "titulo": "The Future is Now: How Drone Technology is Emerging as a Serious Physical Security…",
+   "fuente": "Security Info Watch",
+   "fecha": "03 nov",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdC00bUl6SFBHdmFmV3ltYXB2eTVBNDh5TGFiRVl2S09wU2NJcy1PejNwNVpMWlctbTR4c3ZvSjFDbndfYTVlQkhlR180TnlvUGZaWWhqTHJlWklBZTFCSjRpNnJrakV1QWNMZkhZeVgxaUJIblByd3Z5UmxsU2haYVhfM21xaE80SEU3ZTZRa1NfWDlsRExEZllIdVMzUm1xZ1hfaUl0ZmZBczFVaHV6MW5TbEc1MzJWRVkyVUhJVmlyRnZoMnZMOGxPNEpRdVcxWUZyeXF4Wm1rNkdoMUhDa2FBaHJfZw?oc=5"
+  },
+  {
+   "titulo": "INOX Introduces Smart Multipoint Trim with Slim Architectural Design and Advanced Access Control Capabilities",
+   "fuente": "PR Newswire",
+   "fecha": "03 nov",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTmpSeUJXNnJXV2xmVS1OM05XN0E0OTBzOHJoVlVFVFZmZzgzQVZVTUlFQ2RvTXB2b2x5bmtmVWhqTnZ2eUpuYXFOWEI1ZmlFRWh6NlZDUG80Vk56VHZtTlJKVVZSN1dGaUdnbDVDbkJ0UHpBd0JyM3NFWWxmdW13SmlBejQyQkxOSjFpRWt2Mkd6bUIydmQ4RnJxMjUzQlQ2eG9Pc1VMUGZySThJRW5oRWxJQXNBWmZQRkNTYS14T2QzS20xMHBpdW9jYzB2Y0NEanplOXllcXQ2Rm9ROFVYZ1pwdk1TYUxmc3JlYkFad1RmZWhuY2tsRQ?oc=5"
+  },
+  {
+   "titulo": "Lumana Is Putting Video Surveillance To Work Beyond Security",
+   "fuente": "Benzinga",
+   "fecha": "03 nov",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFJDbjdVSEpMblF5Y21TbkJTelhwVDI0MEdaUVBSR2lvZE5KQ2k0T296X1VyUzg2RTdxY09LNEk2eFJYZlc1anBMbzNJTzZ1MU1XeWxLQTdrenRlTFcxX1hDdFF0VzJ2YkpHN2RHalUzQVVFek9jeEFDVzhKdzBJcmFXOFM5Zi1MU0VTU2dISkRvRFJnaGIwcFhiY3AzNGxvVWhsdW5JeENOcGh2YU1V?oc=5"
+  },
+  {
+   "titulo": "Lumana: Interview With Vice President Of Operations Ilan Ofek About Physical AI And Intelligent…",
+   "fuente": "Pulse 2.0",
+   "fecha": "03 nov",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rWjEtOEFGWmo4Rk8xUnZXWldfWTF1MWdVQTREWm81SDRxbkNZbmRudkpPaFh4TTYzSzhMRHZKa1RFVTkyVm9Mdjd4MjZyOFZkT0pOZjl3d0w3WVZiRGROYThMNGg?oc=5"
   }
  ],
- "actualizado": "lunes 2 de noviembre, 15:25"
+ "actualizado": "martes 3 de noviembre, 12:56"
 }
