@@ -1,49 +1,67 @@
 {
  "noticias_co": [
   {
-   "titulo": "EU blinda la residencia de Trump con misiles y láser antidrones en plena tensión…",
-   "fuente": "Periódico Zócalo",
+   "titulo": "La expansión de la IA en América Latina pone a prueba el control de…",
+   "fuente": "Technocio",
    "fecha": "03 nov",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZlM2eWdpUFRhNldQYU91OEktWnRuQm5lSWphTVFmT2hGR1ZOWkhJRTdfZWM5dnBmN3M2bENYOXhpVDZBeW1BTmdmaVJIM1lIQWx4Q2hrWDNWX1RMd0dZTmlKNFljQjR0ZURFbEJTVU90Q0JUM0hXNVA4eUJ6ZDFQQU5vVS1yX3gzcFdVREg3RFplQVg4dXlsaEozNmxnQUNfUUN3T2J1UkZpSFpLT3JuYk03ZTl4Zm8?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMUg2bTlIS0J6UGRBc0p0TXJFaGFWRGhDMnVKXzkwcjVPRnV2SEE5V05ZZ0hvdndMSFpFTGN5OGxCSnRXSno3LVVLTXV1amxiYk45czVUYWd2eUhDOXNrZTF3blh2b0pQeEk3S0JmUGVMdDl2VXN2RDhFY1hFbk1TTTVhR3otNFhJRW9Gd2VOaGljUzdtS04xMldQV1RRV1k0cHlmRTlQUWVCVXktVlhZdTBCTTdRRWYwWEFhVnU5Z1FLeTFTeXNaYzJ4OGnSAdIBQVVfeXFMT2h4em9KaWZVVG1qS0oxcWsxdm1JcFhBQzhWdXJKVWx5M3RJOXdsRWd6S2JQN0tteEtfY0xHQWFLa05ITzBHQnhJVHcyUUV1YnBiTXJwSFVCa05RZy1Vc3JLbFU2SG5SNnVpVVY5OVdNNEZyWUVhWTMzaFZMUE04SmpZbUFUbVVOcl9wNkhEXzVWdGdPYXR4RFFYYjhiOHZISUQwQjhNVDltcHdjOW9MUVktbURNUDJqQUpLQTJfOG1JZ3BZeEJzWUt1TDgzdzZZNHBR?oc=5"
+  },
+  {
+   "titulo": "La Sociedad Portuaria de Buenaventura en Colombia moderniza su control de acceso con tecnología…",
+   "fuente": "TECNOSeguro",
+   "fecha": "03 nov",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObzFPX0NkelgxVS1JQlhTTlE2emphUXhZMzAwWkxtOWtuLXNXT1dMbDhQOVhVb1pUSlF0YjA4X1hFVm1yc2hrUUFuUWdYanRGQ2dXQjU2NGowR3A3YjZGbjMxWVZ6cTlwNktYY29zUUhQOC1sY1N2MWFBbzZSVjUxV3FUaEQzc3AwMFVzZl9mdw?oc=5"
+  },
+  {
+   "titulo": "Ajax Systems: Protección contra incendios para la atención médica moderna",
+   "fuente": "TECNOSeguro",
+   "fecha": "03 nov",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa0t0SnNacm11dTdpbnlYbDRiZ2UwSVpHTzdyZy1rc3VxbTlId0l6Vks4SjZua0Vzb3ZBRmZ0Q0djelVHaThBX0Zmejc3dFl4M0JYSXZyVG85VUs1UGVPaU1rVVAyZWNMakRRTktoa05EVlZENHNIVHhNbVA5TDFsekFTUDMwR2NFeHNMRVc3UVV6Ums?oc=5"
+  },
+  {
+   "titulo": "El mapa de la videovigilancia en Zaragoza: estas son las zonas de la ciudad…",
+   "fuente": "El Periódico de Aragón",
+   "fecha": "31 oct",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX0FSc2I0T1VET3JSb0M2cDJWSF85Q0U4dURzX21kaDExdFkwSFR4c0xDa3ozckw1cml4MGM0LVRVZng4RzdGQ1VGNVB6TWVzOUVUSjdoVjBVd0sxQXlDdHlMckhOa0xBVkgtX0pYU250WVR2Rm5EUW52cFU5MEc4b09LcnNvd0s0WmpvS2dQSHR0YS1qV0lTWkp4ODJleWNKS0M3emhmSUt6cjlNblhz0gG0AUFVX3lxTE5CTE82RFZCVHFiZGRIOGR6UnZtSjRKcWxsOE1MVTBlM3hRSXJUbTNzaTB0WEJ0NjhxcGFiZkZOYnRPWHM3SGdDWk51dXVfblUwdXp1b2pOR281Um5WRWRBYkZXNUl3MXlYU2R2bGFvZG1XZEFGeUNoVFZ1eU9reERiVUxTWl95X1hYYU1YblhDVmd1MTJfN09xTDFRb1dTQWIwN193RGhXb3BQTFZ0VGxwTFhrZA?oc=5"
   }
  ],
  "noticias_mundo": [
   {
-   "titulo": "Composite Risk Assessment from Planning to Response",
+   "titulo": "A Comprehensive Guide to Video Management",
+   "fuente": "Security Info Watch",
+   "fecha": "04 nov",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR0VWZ3daOXV4NHdYZ3MwYkxNQzRfcEd4Z05VdGR1TVV6RkZBZ3UtYlV3aENQRW1jQjFKRnQ2Q0QwN0FMSmJ2QXlMTmZrVnNCWmRDUTBfQmFxU0VPYjQ2YW5ZTXNCd3VQY3R4Z0RkZkpiUUx3WnhMYlpYMjJKLU1VVlFWbHFhRU5xbEYxQ1dpM2pBcUUtT2lXTVNUS0JtVnU1Z19pVnZjU2w?oc=5"
+  },
+  {
+   "titulo": "Remote Guarding: Rewriting the Surveillance Value Proposition",
+   "fuente": "Security Info Watch",
+   "fecha": "04 nov",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSUljWTYwOXRXVVpwYUxZV2g5aTYwVnRyM2lEQzJkSjJWa18yNkl1eTNISkFPUVBDSEo1Qy1icUJHV184QXBoWG1kTFlVN29EN21tbHJidDRHOU1XUnZaWm9xOGlOM3RvR1ZRN3hYOUVDSGVyUkoyS2tQWkd4SEdCNVNVVG8tNkZYSFdPWjg5Um1oT1pYVDA1V0Nmb19nS3pfSDBNZ1RWX2lZWGNteUNKWHoyay1wRWhqQkF6R09FUmFLNXh3OHV5MQ?oc=5"
+  },
+  {
+   "titulo": "AeroVironment (AVAV) Stock Looks Stretched As Counter Drone Demand Builds",
+   "fuente": "Simply Wall St",
+   "fecha": "04 nov",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRzgyRjE0MWpKbllWZXR0djdvLThjekRRbnFZd0x4dzBDSVlvQXRZWWZuU0pGM2ZrNnl5S255TnJWQkVoSlpYVnBJb19lQ0VxVE9zSDR6eWRfYm5GODBhUEI0NDBDcFB3cE9kRE5lYlJ6SGJGOFFtdkdzaEFNMndGMXlpN3lpWmw3bno1YlN1WnNYX3A2RHJUaWg5cHJGcFpxdjhNMWZQRmRmUVZSNUVZOUpZeXBkSkE0b2M1emlDN1U3WkhuUXVlZFB0TGNWRlpuVjZj0gHYAUFVX3lxTE43a3RNWFg5N2dPRDgyUXJFWmZHdGJ0WHB4WVozNENTTUFNcElRMnY4Z1FkbFRfZkdIbEJMUDdOc20zQzk4Tm1iZHhfN1gtaGlIVE5XWmxoblBUVTNuWTVyRmpjTmtKZHNNNDMzZ3RIT2NUTkVZRktZR0EtQmQzX0d0ME1MV3lEWmlmSU85OWtEWS1rT2FKMTRhcjUxWGF5R0FhRW9KWDZwcG9BejFoQjcxT0RCdlJ0VmNGcmM1Y2NQaFhFZk9wOUhSMHhRTEZSMEExdWVoZXdNWQ?oc=5"
+  },
+  {
+   "titulo": "How AI Creates More Value From Existing Video Infrastructure",
+   "fuente": "Security Magazine",
+   "fecha": "04 nov",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSnFmek9hU1lkN19HRzBtRGNFYXlycktyQ1ZUbTFFbEtXRkJJQVBaempvdjFxX2R4aFozYUE5VHk1cERzTUp0WUlEZUlNelc3cjBUSndJR1pTQndweG5KUV80TGx5RWp5eVFTRWdybEp1bE4xeEpvRUFCcHVxbTZpaUdRODk1Q2xEcW5RUGQ3MnBFRVNKMHE0SHlGQ2V3R182dDlzSFJKUVlHZW1MblE?oc=5"
+  },
+  {
+   "titulo": "NIS2 Compliance: Why Proving Access Control Under NIS2 Is Harder Than Enforcing It",
+   "fuente": "Security Boulevard",
+   "fecha": "03 nov",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3lKY3FWMWVBckEyUnc5UnVfelM5WGNTLWc5QkxKeHBjbXFuYW9BenVhWlBDblJhNlQzTkxMTTRlQ2hMU3ZPaldxcndFdUFzMmdmajBSRDJCOEtPZXA5QmlCSUJnckRET1A1RDl4bU83anRFcHNjZ2p4d0xMNDZRT0dfaTBSb2UxSEI2SlRPajFpMUNYSi1UVW14cG96MVNyYU1XZW5xNUFMN3dhQTdLYkoxV2MzNnM4MDJyRA?oc=5"
+  },
+  {
+   "titulo": "Stopping Violence Before It Starts: Building a Prevention-First Security Program",
    "fuente": "Security Magazine",
    "fecha": "03 nov",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekUtbFE5SklzSU5YRkVOYXhoRUM3Z09EeDd0ZGpxSXBsVWJZY2pjTndFaEhLZnJWbnlMMzY1bEstWW05ZHF6Uzh6QXl0MFBMQ05hbGJQNXNKRGp0djd6bDctZ1lzekhTYUI4UmIwMGd4R09EWVVQMzVPN1RFalE4RzFwajBicVlqcjFSZXBGMEhEQTZoUzNHYmVGXzZhQQ?oc=5"
-  },
-  {
-   "titulo": "ADT Outlines Thrive Acquisition and Reports 4% Revenue Growth",
-   "fuente": "Security Info Watch",
-   "fecha": "03 nov",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzlhYXBqR19LMzhpUEFvbkJ3Y2ZCZVdQbHowRERvZFBsRG1HRWM1dVJmeFNjY0xwU3NrTW8wRmhRaWpITS1xME95RGFJV0J1RzJSaWdadGl2X1hCUXhkSTFCczY4WlAyMUR5NWpzcm9yVkpWR1RVQVhVR1ZzSk16ZklzMHlTOUVmRjVmcmJxc3JHMUxWSTNsZjhRUjhLRVVrYVB0OTItZF9OVjF5am5wLVEwbms3emVlczFCbQ?oc=5"
-  },
-  {
-   "titulo": "The Future is Now: How Drone Technology is Emerging as a Serious Physical Security…",
-   "fuente": "Security Info Watch",
-   "fecha": "03 nov",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdC00bUl6SFBHdmFmV3ltYXB2eTVBNDh5TGFiRVl2S09wU2NJcy1PejNwNVpMWlctbTR4c3ZvSjFDbndfYTVlQkhlR180TnlvUGZaWWhqTHJlWklBZTFCSjRpNnJrakV1QWNMZkhZeVgxaUJIblByd3Z5UmxsU2haYVhfM21xaE80SEU3ZTZRa1NfWDlsRExEZllIdVMzUm1xZ1hfaUl0ZmZBczFVaHV6MW5TbEc1MzJWRVkyVUhJVmlyRnZoMnZMOGxPNEpRdVcxWUZyeXF4Wm1rNkdoMUhDa2FBaHJfZw?oc=5"
-  },
-  {
-   "titulo": "INOX Introduces Smart Multipoint Trim with Slim Architectural Design and Advanced Access Control Capabilities",
-   "fuente": "PR Newswire",
-   "fecha": "03 nov",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTmpSeUJXNnJXV2xmVS1OM05XN0E0OTBzOHJoVlVFVFZmZzgzQVZVTUlFQ2RvTXB2b2x5bmtmVWhqTnZ2eUpuYXFOWEI1ZmlFRWh6NlZDUG80Vk56VHZtTlJKVVZSN1dGaUdnbDVDbkJ0UHpBd0JyM3NFWWxmdW13SmlBejQyQkxOSjFpRWt2Mkd6bUIydmQ4RnJxMjUzQlQ2eG9Pc1VMUGZySThJRW5oRWxJQXNBWmZQRkNTYS14T2QzS20xMHBpdW9jYzB2Y0NEanplOXllcXQ2Rm9ROFVYZ1pwdk1TYUxmc3JlYkFad1RmZWhuY2tsRQ?oc=5"
-  },
-  {
-   "titulo": "Lumana Is Putting Video Surveillance To Work Beyond Security",
-   "fuente": "Benzinga",
-   "fecha": "03 nov",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFJDbjdVSEpMblF5Y21TbkJTelhwVDI0MEdaUVBSR2lvZE5KQ2k0T296X1VyUzg2RTdxY09LNEk2eFJYZlc1anBMbzNJTzZ1MU1XeWxLQTdrenRlTFcxX1hDdFF0VzJ2YkpHN2RHalUzQVVFek9jeEFDVzhKdzBJcmFXOFM5Zi1MU0VTU2dISkRvRFJnaGIwcFhiY3AzNGxvVWhsdW5JeENOcGh2YU1V?oc=5"
-  },
-  {
-   "titulo": "Lumana: Interview With Vice President Of Operations Ilan Ofek About Physical AI And Intelligent…",
-   "fuente": "Pulse 2.0",
-   "fecha": "03 nov",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rWjEtOEFGWmo4Rk8xUnZXWldfWTF1MWdVQTREWm81SDRxbkNZbmRudkpPaFh4TTYzSzhMRHZKa1RFVTkyVm9Mdjd4MjZyOFZkT0pOZjl3d0w3WVZiRGROYThMNGg?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOS1zckRKV1lteHN4ZmRSLTltZVZKNTJESnFXNW8yYW13Qmp2a0tPVldTaXJabHZvU3Q5dmltWVcxbE9tRUZNLWFNUS1aU0NMQjJYUXZmdVFkQUNSOVV3cVBSTGNFbDRtWS1JOTlXX1pXeFZpenFDczkweVJuTmh5MXhaQ2tzVm5seE5vMm03b3hoc21Ia0lhOF9XeG5kc1R0cjRFLXJIV2diS1hjMnFSVVVsaC1IWjdEQXVZVkdCTndUZEk?oc=5"
   }
  ],
- "actualizado": "martes 3 de noviembre, 12:56"
+ "actualizado": "miércoles 4 de noviembre, 13:06"
 }
