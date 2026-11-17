@@ -1,55 +1,79 @@
 {
  "noticias_co": [
   {
-   "titulo": "PKX de CAME Parkare: una solución integral para la gestión inteligente de estacionamientos",
-   "fuente": "TECNOSeguro",
+   "titulo": "Liquidar contrato policial: el requisito de MinInterior para financiar cámaras de seguridad en Neiva",
+   "fuente": "La Última – La Ultima Noticias",
+   "fecha": "17 nov",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSGdUZTBhaUJ5aFp1dWI4S25ySXdEblZUWWlmY0FLVjZGSlVudVpBZ1NVR3hqd1M4MmRXWVRaRTJnRnZEOGRwcVRqdEEwa2FKWTJ1em5xVWZmeWJWZUMyOTBHbTN0WGRXcXYzeVRIeXZYRVBiRGZpMjJoSDhWbHczczNraUI2TWxiMVpTWDk4bnAtMHRWeG9NOWVnVVhRY0U3cWhObU0yVUlRQnRrQTMzMzM0enl5d1ZXcUNEZWlqVEYxVDQxYUhFTC16MFZFdXBi?oc=5"
+  },
+  {
+   "titulo": "[VIDEO] El Quiroga fortalece su seguridad con la instalación de más de cuarenta cámaras…",
+   "fuente": "valaguela",
    "fecha": "16 nov",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONE41Ymx2M0d6ZG92dHB0QU1aN3RkSjdMTHhUc1Rtb08xNnhRMEtfTHJOd1ZJb3hOZFdhdmZkRWU2dmV4T2NMVE9qenI0RTRha3hDTHVHMk0xc2hyNVN4QVhRSW0xbXJqQlh5eFJMY2E0bDJPWUN5dnhKRjFOUEZDVjRHaml2dnVfNlVXZk5BMTFvQQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hKcmFMVV9faGtCVEVvX0NjbTg1bzA4VW9UOXFOYXc5eUx6eTE2TTY5WHVYU0V4WTdNM0lHaE13VlkyRXV5eU9MMkpTNFNnYy1DNF9qcUM5Mml4clV3Q0hKcVpEb3g0d1NWYmJoUFdQQWRpNEU4TnI5M0pFR2M4Y2tNc252dWNCbUY0OENmcEtVdnFsNzd3am1NcDZpLUxuV19zTjV3T2czX0NRUkV6dTZzMG9Ob3ZuaEp0V25ucjM0ZzlNQVhna2tyZDc?oc=5"
+  },
+  {
+   "titulo": "Israel cargó 3,5 millones de fotografías en la plataforma de reconocimiento facial de Amazon…",
+   "fuente": "El Tiempo",
+   "fecha": "16 nov",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPX01fMjhLcWxQYk5DN2RnYVZFczZ6OTB5bDBPS3I3TkNNUW03WmlTU3VnYU90SnliODdORFlpbG9lNXdkUUVaeWtNZm5SejBZSjZmS2E4VnlJRXo5c21WOVctTjluX3JPalJKZU5IVlFJZXJDdjdZRXBKY0RNNlBTbkoyR2xfNlpnSDdnc3ZvWWtsT193VFZWNThOaXFDMTlkYjZnVHhOMVYzQlZSZGF0Y3JyRmNQOWMyRjFzUEFDenplN2hrN1FGV0FKLUc5N2xHYk12empFREQ2cHJ3MWZuRXdvbEZZa2dOX2xmQWotQ0JRZXFOX29wM21QMUg5OVRZTXfSAYcCQVVfeXFMT21qdERZWm5oQmtNRkRPREU1eWZwTU5Md3pLdVVFYkwzU0s3M2NvTWUtMlY4LWozZkM0aEVuS0loSUh1SzVGbFZEWkItc1VUYzQ0UkFUMkYtU2ZwVGVvcUE0YmdfenI2dXF0cVliaUI3d0EtWEEwcnEybVlfOEJzSGJOSEFSYTZhSkl2OHNpaW1CMFIwRGxVWGlRR0RCdnVKZzFfOC1qSm5RdHFHVmhfbFNpTXhBSFA2V3g2TjMwd3VHTWdoV3VLSVRabWxWWGxkU1VYR2VjcmFpeHNsM2NqQ1ktdDAzekw3dHBFbmJMVW95c2psUEE1UWFNM18zamJWTDAya0VMNmc?oc=5"
+  },
+  {
+   "titulo": "Colombia lanza plan antidrones para frenar 708 ataques aéreos en dieciséis departamentos.",
+   "fuente": "Diario del Cauca",
+   "fecha": "16 nov",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPek5ub2FQc01zWGY1cFdwZDAzYjY5WUdZazB4SjlpOWo1VzFvMEpzV3NaYzVERlh3bW93bGlKanpoSTFtb0s0X2F4RFJ1dEpNVkV5MWdtZVdxVUZDWV91VDlVZ21lS3R6WExOaEhRQlhjZ0tzSDJBVGdpY3RLbm9aVFV1TTQzZ2g5bXZlZjNFS21nLWRta0hoTm1RYndfbUVBM3lJcjZmVDJWNkxDdWJYV3MxMVFwQ3hjUWwzVkhFNFFocFdmUURxdGdMRQ?oc=5"
+  },
+  {
+   "titulo": "Hong Kong activa el reconocimiento facial en su red de videovigilancia urbana",
+   "fuente": "Infobae",
+   "fecha": "16 nov",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORHN6UzRFQzFHMmlBdHhDUXN2dFF2V1lqalVQTzFDM3U0TDh1V2xFNFh4S1pEcl9mQmIzZGNCX2tUemVtWkdQZzQ2OXM1ZlgzcXlmUUtkMGpzcUVLakFmMHpEb1NKbHd6SHBJUjNjQWU1RFVrX01sSXJXWmRfZDdORy1ZLXZsRk5zNGFDcmdBMHdlWHF0YS1vYTlzWmlqTUNPQUFrQVdVTEM3UTRtWDdUd3habi1LNHNPUU1kbHI3b3VTQWxCUlBiRUl30gHkAUFVX3lxTE9aSmRfcjQ4WlFtM25Wc0xsV1o5bTBvb3BySmt3WDhBX0VHckJuT2dVYlZrY0s4cHlrRUdQUGhDalJRelNQeWZPQ0phNnc3VEdfMXpiVHg1RWtCdWdDN0RBcUJkM2RVblRiOE94NFFOVUV6US1yUnc2RkFQMHlnSHI0Y2otbEpuVGRETDRsdFBoMmpjcU9WS2hOS3hfOXhiWG9jRl9uZ1BUTl9xX0trb2ZYLTE3ZDVJRmZuQW1KbnRJb2JwM1hScU1BZ2tOa08yX3FPanJsRTBBc2ttT2dySGZucHFVSw?oc=5"
+  },
+  {
+   "titulo": "India: un mono atacó a una mujer en un complejo residencial y las cámaras…",
+   "fuente": "Infobae",
+   "fecha": "15 nov",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbWpsdWVYdTI3d2ExUmdMMEVvVTQzWmFYSkxFTm5Zb3k1Q1YyNzBfV3FkTHdRTW9fY09RaDNDbkVVMVB4NW5HOWRXWjFtb0tXN1hXenJ1bkJTanNtbFN4RDFJaUJOOEtycjJMRFhETkNpX3pOdkg1ZVBkSGJZOFYzdnNRaUxYOVl5SjVqc1MzN1QxODVkUGxlajREbEFnR3dMbWdEVU1JX1Iydmhabk40YXhiSmFNVXRobnZ3cUFVNXJPUk00YTNwQ1JUdmJRbnF1eHRZbXdwdkNmWHpIVkk3X1JJbnFWZ2EzMHNSWEowVHfSAYsCQVVfeXFMTTVYUWhFdzhTZE1qZVZLZ3NOZ2VSMDl0bWZRYTVqV3lzejZDUWI0c0hWQTZHTC1oUllaWDZIVEJfYnJpRlVkcktSanFCeFd2VFVvTjlnLXdMc2NNWkZzejhrRHlWd2RqZS1ITm9HZ3NFVzQ1NzZ0SWdITElfeEdZeXRneXBUT0FwTHQ4RnA3M0N3dmV5TUlkb0tRTTFhZ0VmYVZJZURnWk4xNjBtcEh6UW5xaWExa2dMYTM3aWxsUVdfb2cxNW5aOXRrY2ZRTEJrek9KclNZa2g1RFJ5QzlqU0RWMlk2ZUMzaFp4bklYc1ZWTTdSWUlINWQ3T2stV1loRWlwbGxBOTFlbnAw?oc=5"
   }
  ],
  "noticias_mundo": [
   {
-   "titulo": "Convergint Acquires Wittenbach, Extends Reach Across Banking Sector",
+   "titulo": "LiftMaster Expands MAXUM Commercial Door Operator Lineup With 16 NEMA 4X Models",
    "fuente": "Security Info Watch",
-   "fecha": "16 nov",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd1RKZV9EOWVBbVJwVm94Z2tJaWkteWhnYlBLNHJ3RGFSaXdpcnh3VFExZ1V0U1R1djU3Znc0LWdwZldLZXZMNUNubjBETHlkeTE0UzB0THRyQm1DM1luUVNmdHprbjJCenhZMzN4My1YME5fNFBRYUlJaVB0cmJvVVZJaHYzSElseV9YSm1CLXcxVFRDMHZBY1p2QnpWamVicFFWd0hSSXY5aE9jTUs1Z1J3eWFqdms3eUFiTWdHa0xCMzJzOTVyU0ZGN2NaR1JHUWNF?oc=5"
+   "fecha": "17 nov",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZWVCZzJ2N3ViN051eDJHWE0wNTJ6Q1IxNVlMcTVJcFQwc1ZicFZPYWtMNFp5bENGWU03RjNNa3lTUk1PZy00Q284eGt1VW1VU1FOSTRzRVVQaldvV2l6bGxCRjNMbURGWENGdncyaWgzWDVST1ZWMHhIM1JqZWdrU0lma1M2Z0hGZC1STTgyeTdjOC03R0JJRWkxX09SWnoxb1hQLXpQc2ozS1p1V3pPaVRmOEhPS1JWcWJmM2dGcVhwNzcyN2xWWGtrV2Q5VGRiVktZeHZRSjhnTkJOQk9PTmJ1LU95MWZlZnRxd0w0UkFnUWFRMzdtY2lhbDJncmtDLUNSSTdLcElBdHlLMGdzeFBFRGE?oc=5"
   },
   {
-   "titulo": "Safe wallet drain highlights access-control risks after likely key compromise",
-   "fuente": "Traders Union",
-   "fecha": "16 nov",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVWVEZEg5aFpSOS1TOFNTVmZ1aS1lXzdxdm1ZQlQ0N3pjWEsxM2lBMXdaQ2ZkVzZNbHBNenBIRWtCX2tvMzFaVURVMXMzR1UyaWVUMFVrX1VlTmhyeFdoNDRiTGdKZUF1X3ZnVHpzWmgtTldMMUp4UlppSmNHTmFkLVF4MlRSbWtIRWxvdVBkY2ZQeHZLRjVkNGpWRDk?oc=5"
+   "titulo": "U.S. Army Selects Xtremis for AUGUR SHIELD Contract to Advance Counter-Drone Defense",
+   "fuente": "uasweekly.com",
+   "fecha": "17 nov",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGFuMkQtQ0x0VmNvZFlQSmptNTlFUHR6WWlYRnBLeFdlTzF5LVFNSk9aOTF6UE5CUFE0dENzWmFiUGwtNUkzcnJWWFFPTElnc3hHRkVxYU91THB2RElMYTdGNDVrSzVsY3RNeVNueWRlOUt0NVVpWF9LMTVheUFULUFCX1RxNFg2MFdIYklwMXhFa1dXUHk0a2UtazA5QmRHcF91b0VBQ1hUUGMxOVI2dS1JRDF6VmZx?oc=5"
   },
   {
-   "titulo": "ELATEC Discusses Modernizing Access Control Without Disruption",
-   "fuente": "industryanalysts.com",
-   "fecha": "16 nov",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLUQtMUpPTkdmeFJmc1VrZnhoeUFxVVgydW1CaWRIU0FtaGEtaTIybTJScXlyd3oxczBZN2VPV3Vud0RjdFJmQUVZR1kyTjBrUUY2Y3JqZUFoWU5xb0lxcnA4SVp4Unhxa2JodXNsMFBmc1o0Q3g1WURMbEJQTlBWV2N1ZlU1ZGVnWXkyS2RNV0RUMDlDRW1ZbkZMVVRzcGk3?oc=5"
-  },
-  {
-   "titulo": "The Smart Money: Apple Makes New Smart Home Push",
+   "titulo": "Cypress Integration Solutions Expands Team With Jason Stemmer Hire",
    "fuente": "Security Info Watch",
-   "fecha": "16 nov",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0hwcEpkUTBvMzJWNEpjVXB0R01pNmNrMVJ2SkduQTNoc2MxMWVQOVExVGlQLTdiaWJxZzFQM09tUzEzNEd4MTI2WkgtejA3MW5kVG9QZFJUX1lvV3I5UVhjMnUyRXVFVzdGRk5MQUlRcVdhSUpNSkRBNlRjQVlmRGFPQmxsRGNWWUpiU0RHb3psaGsxUWg4aFQxX3JnU1U5dUluSHlsejZ3OUh6SHNMOWxZVHdVRHdESGd2c1BVRDk?oc=5"
+   "fecha": "17 nov",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTURWbWtIRnBfNW50eC0xOFVReUFKZ0NPTFRkSUs2T3YydWNxcHJ2T185QmxGVWxnaEZfNTFnbmlUaDV5a3hWVG0tUjl1RmdpeTZMRERuZDNzSG5vU2NtWjVRNE42al81S2l1U1V5S2FEeWsyZng2UDFERnV2akZ2NC00MXhNcnh1Z2JpeThPeDhXanJlN1JNbmRUY3lWZVFTMHdERHNJMVh1YUtsczU1bjNPRXFlUVB1R2dQTm9RWkhrNENJemtBOUhhOUx3RDcyNUk3MnJZQ0U4Y2RmQU5oYVhTNXVuSVBCX015SE5TRjQ4YklVMlVORA?oc=5"
   },
   {
-   "titulo": "Hong Kong activates facial recognition on urban video surveillance network",
-   "fuente": "Plataforma Media",
-   "fecha": "16 nov",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0UyN0l4dDZaUXR4UDcyQTY0LUV4bS1CcUpnblFQb085bkFUcmFMUHVvUFZPazl2OGZ5WnhZME5BTEVvcjNQUlJRNVF3TmU0UnRIUlhwYzdDbEFXWWZWQjNMY0tibUdLU3B6RTVGaXlzNENFMGpWUEpuRWZwd3ctUFBPd21sSUE1bnFlU1djME40Rks4S25JaGpqMVBJNVBNYmVxeUh2MC1EMjYzNy1FVWJaQ1hTeTA1SkVWdHJ3?oc=5"
-  },
-  {
-   "titulo": "Leaked API Keys Are Going to Become a Major Headache for Every Company",
+   "titulo": "Multi-Factor Authentication Alone Won’t Cut It",
    "fuente": "Security Magazine",
-   "fecha": "16 nov",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOam1hMUxJbDZnOXYtbERXYXBYWVVLb2NtX1gxaDAtTGctU3M5Wm11dFlySmJ3V3RPZ3Y1MVRKVWxNSEJiWFpqWm9sZXpMRW1WVlNpb05CM1ZSZXFVc3Y5V21BVWxRM0xzZXJCWkQwd1JMVU1KRTlFX0YxXzY0VmcySjZPWmtLWWJzb1gwMEpmLWpWYlZCdG1BbTkxcTRtZEFOV3piRmluTDUyZWlYUWZNSVZxd0pHNmJ0MG0yOURVSEtjTHRQb0szMGZzUlROWWZiR0FsYg?oc=5"
+   "fecha": "17 nov",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUgxU1VXRE1RVTE5TUt1OE9PYTY0cm12TGpRNVFINGVVbTJQdDNyQkFOejV0TmxGeC1VdU1PalUyN3dsYjBiLVk0cWlUakw3eFpkOW9MWkhLTnpIZllZbEJBZnVpN1F6VnhxMWRqSzZHcjRlVHMtZGJHMmNnY1NKRU5fYkkwWGRTUGVZbXM1eDlSY3N2R3hwR0VBcHpIcElKMTJRNUNNVGRBaDJnZFdralVwbw?oc=5"
+  },
+  {
+   "titulo": "Catalan DPA Adopts Video Surveillance Circular",
+   "fuente": "JD Supra",
+   "fecha": "17 nov",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT2pwQm4xeGRIckE5NUhRRjZXOTJWTzFKNE53X18yYnZyb2p0ai1LeWxmVGw5UXdYOHVnSkxEU243NnA0TWNZVGFFYTByMWQ2b2hUdjFPbUR5c1pJNkJiS1dwUzBtMDhqa05RWEp1YVpMNDJHRjN1RGdlWHYybTNSYW9FSlI1NEE?oc=5"
+  },
+  {
+   "titulo": "Honeywell (HON) Upgrades Vanderbilt Health Access Control System with LenelS2 OnGuard",
+   "fuente": "GuruFocus",
+   "fecha": "17 nov",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWMxS2V4ZTlHbmJBZHpLVHNDY1JtbU54ZlJRSTV2OU5nWlY4bG1XZ3g5YkswVzFJdk5RYldWd3R4allqSnpULWlwVjgxSmdjYVBmQkhCNmpIYXdHR3BwckduaDRwN0lxLTlnLWpxbnJzb2g0UFlxRXRkaTN1LUFZVERyNUlTakRIZHBESy1QZUZhWUxYYTE2dU5MaVBERzNpQzVncjlXVElfQnZFanBkX1Q1YkZKS0VOX3lJYmtOMA?oc=5"
   }
  ],
- "actualizado": "lunes 16 de noviembre, 15:35",
- "errores": [
-  "noticias_co: HTTPError",
-  "noticias_co: HTTPError",
-  "noticias_co: HTTPError",
-  "noticias_mundo: HTTPError"
- ]
+ "actualizado": "martes 17 de noviembre, 14:14"
 }
