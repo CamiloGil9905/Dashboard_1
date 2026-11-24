@@ -1,79 +1,49 @@
 {
  "noticias_co": [
   {
-   "titulo": "Milestone XPerience Days LATAM 2026 lleva la inteligencia de video a la operación",
-   "fuente": "TECNOSeguro",
-   "fecha": "23 nov",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTTJvelNXZ0paYi03aTJTQTRvOEI2OUk4Tk5CcXVxWlFpTlEwN2llVE16WDV4WnN2c2R1d0pqX0ZSTUwxaENTYkd5TFdweWIzWGgxcC1nU203TlJsdEdNX0ZoMTY1X1ppQ09lMjE0LTdpcGhld1poSnpOektsM3VEVg?oc=5"
-  },
-  {
-   "titulo": "Desaparece un estudiante de 17 años en Bogotá tras tomar una moto por aplicación…",
-   "fuente": "DDC",
-   "fecha": "22 nov",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVjdnVmoxWE1FMm1Nd29NWjlZdnRSMFRxV2Y3enRfOVp4VGh5aWc0RWYtTDJhQTFKVzZ3SWtZMnFiWlhEWEV0RmFzVEtZcGktTGRYRnk0Y0RkNlNWTWNXTklKVE15c2g3ZmoxT1dUUElObnh6WkdqYy1leGEtUHZ2N2NxNE1RRGEyeWJHN2I4VkdBYlpWc1VXZFliZ3ZJRWlDY1FpdFhfTnRkRU1aend0Yy1qa29VQTJHcGhTMkk3WWwtUzlMX0FQTTRSR1ZiajVTUXplQnFXYlY4eG5VTmVlQWplX3RneDROYnFwRXlNNFBYY1V2T2xyZHRJVzlNbUE?oc=5"
-  },
-  {
-   "titulo": "La explicación de exministro Sánchez a circular sobre sistema antidrones, ¿por qué el viaje…",
-   "fuente": "Blu Radio",
-   "fecha": "18 nov",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObXk4dkF3U00tYUpJeGZtOEhmVXNldWxoTTBscXltNmFGeThoNGxLamp5Z0xkVHZpcWR3dXFwS1p6Vjk5RDBYLUVxNmpQR0dDWk9rV0VKUFNDSE9STjJrTjZDbXlFUTlHaTdsZzVqTGtuNkxfRU9YbGVxZG5OeThCSVNOVDdLbENWbzB4TEtJZkdUYUd2RWdmeDRtaC1rRHVYaG9nc1FtZ2c3VjdEd2l6N1pjS2d0VXlvemdMaGZBTFMwOVNYWXZMQVlUODFuQ3fSAdwBQVVfeXFMTThZR1VTWjFfZjZfVDhqSnRrY0lFV1pwMENvYlJkSGFWSzRSQXNGR3F1VUp3cUl1V3FYTWdCb2pSX0VCVHBmalBNeTdHVWhqV09mVkhoNnlyaEtrTkZzSXhQWjVPZU1jcm12SXRqNlRTWFFXUHEwaU83ejd5ajJveXNIZ3p2alg1OTNHckhJbmNZTnJvd2VXV3B3SHhVdlhOYml4RHJqZUlaMWJmOWV0ejVYUmpJUk4yaFRycy1lU0RwUDdpNWN1OXpaS0YyNFJvMmdiVHhwOExaaTlLSQ?oc=5"
-  },
-  {
-   "titulo": "¿Por qué el Gobierno de Petro habría prohibido la compra de elementos de protección…",
-   "fuente": "Nos Cogió la Noche",
-   "fecha": "18 nov",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa3piOTJ5S0dQVzRuZWtoXzJtYjNNcDIzOUJYNEtqU28teWN2Zm1JRWlsTWJZRlJSQ3FKWTBCbTB6TmZLSGE1ek52LXU4Zm1EMWpCRGgwQmd3cWx1Nm1haXY5Tk1xQkdOQlplcTJzd0R0RW1SRHNfXzRfblRtNGxwVkg3NnRNYkNHQ2Q0ZElodUV3T1V0VTRyRFBQQktjN3dYNU5WWnF1T1dlZlF1WUZFWjFVeFNPN2ppb0RUd01DUQ?oc=5"
-  },
-  {
-   "titulo": "Cruce de mensajes entre los ministros de Defensa de Abelardo de la Espriella y…",
+   "titulo": "Fuerte explosión cerca de CAI de la Policía generó alarma en el occidente de…",
    "fuente": "Infobae",
-   "fecha": "18 nov",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOR2NKQ2pZSmNqMkcwODJLcXdNLTNXbndUTWk2X1AwOTZwUXlOb1hLaENoRlZvd2RhNzdmMmhKTThwSUpfXzNEVmpZbV9KdGx5TUVxSlFhMWl6bU9QQXhENm80eUlPWGRYcmU5ZFVIM182bGRQeXNQSWNHX1NzVmUwX0w5QWhsTzVreGpVZlVkV0syQnA2UDJCaVlqRFpaVHVMaDJEYmtaeEszNGlkQ1llZGJsZHVUOGxxRlhYcVFnQnB3cVZnZ3Z5N1lYWTg0X2xmNUFJSzRhUk5XNlNrX1A3YmF5WENsa2JXMElvazZKOHNhWU9TUU4xNkE3Q2NsUFZmZElZ0gGeAkFVX3lxTE1DSThKS3R1MGJsRnhNOFNJaFZzWGxoZTBScDNEcFE4STFnakk4cjByejRuZGF5UVBZVG0zeWRPOENxZGpqVzZ0dUxpeXd3Y0VlTXhrZDdwaGlGbURIR2dWS3gwZy1FR1AzYkViQ0pGRi0yVW8xdUhWYnJTZFREYmpKNmpPVFJlbEJaV0UyZDdING1KX2liWWVVR0RFRDE3ZmpzeEJNNkctbTZuOElYb0YzQmFDZno1b0NVVVlkMVVXS2dGZ2drbGsxNWNWSzd5eTlfT0Roak05T0dnNXc2OGFsZVNmcU5pLUx4MGtUaVhiazZXSGtReWhkUXdRYnVZbldUSlZ3Tnlkejc2OFI3bndxRExrb0VlSThLejBuM1E?oc=5"
-  },
-  {
-   "titulo": "Refuerzan la seguridad en el Huila con despliegue militar y medidas antidrones",
-   "fuente": "Diario del Cauca",
-   "fecha": "17 nov",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFFJUHVUbGJ4OC0yenBiQzhfR1hONGNDbG1iUE0xWVRfME1uVlNHRE9fOHcxSHpKc2dEMGNhRU5TWk1WdWUtS2JrLXU1WnBLcTJvZ1RETDViSjZIUnFXeHY2NGpaVjFfTUFNZkhXOFhHcGliNllSTjA0dW40bUVyOF92eUFtZnVuWXctZGZSVEx5aHRpb3E1SFVqc1VJaWhFbU8tOGtJMlgzUWN1V2Q4WUtFVDFTeUU0QmhCdlNn?oc=5"
+   "fecha": "20 nov",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdm1DaEI1WEFDYXlDVlN0S1FpNGN6czVmT21QU2U1aTZJX3dkM1ZQam80YWVoTDRQZlpaSFJWa0VoSzJWNzB5UzlCWnJRS1FwRUpIX3hXeU54dFdDS05VSXpaaEhvSWFBdmdKc2ljaFYwRGV0S3M0X3RtSFpCVG1pekJ4a3lST0dWZmFWTnhVT1ZCeTE4TmlhWVp3XzQ3bEs1dEhFV3R3bW1uTEZMZzFYdEE2bU1PZ0Q1S0lwM3c4TE5fQUw30gHfAUFVX3lxTE5vdjlkcjVpT21QY1VTdThRMXkzdHEyTGphUFVYTTg1MVdHTFF2MTVqZW9tb3hFd1lxTHNQVmZiWThpMFZwRHNmeno5MUhEd3VFN01Fc0E0M1h1U0p1Z0g1NnJDT0lIbkV2el9qRDVsbXZNdGNOd2lhMld2SUJHU1dULXJmcUFOYWV4aE91bndRU0FJaWNnUWg4MjVyUVRXaUU4elJZVHdaNkg0T1ZqbTZOR0FsU1VsMXFHWF9NSldGbk1Oa1ROZlNzU3I3MW83aWo1MDhMOTJsNDF5TThXWlU?oc=5"
   }
  ],
  "noticias_mundo": [
   {
-   "titulo": "SplitSecure Launches Secret-Splitting Access Control Platform",
-   "fuente": "Wisevoter",
-   "fecha": "23 nov",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX1Vod2ZPTE83VGFHRTNLWnppczdJMUtQTFRqUC1ZZHBDckVyTEtGZ0JaS1lyeTBDSGVMWHZFeDZsYVVHRnhHcjF4SndUbDUyMWZ1dEcwWUUyZHMxTnFtMUNHbFE0ODFaazZ4WlBCYWRCcHNjbTJ2ck5KMlpNSEhXZ1J4bjRmRllUOHhrTjljcnRoS1E2LUhOd3JycThfd3V6TFk2X0RR?oc=5"
+   "titulo": "Ferrovienord, new agreement with police headquarters and local police for access to video surveillance…",
+   "fuente": "jiji press",
+   "fecha": "24 nov",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNREU5OWFNSGQzUHc2djdfbG42MDdpNHVBdHk2QjZRUTUza19kcXc5UE5oNlp0cmdaQmRhQUR0blY5ZC1PYk9MWVJ5dHNhb1RlSlJ1Tk90WXBSZkpEcFAtdFk4MkdlYnV4Y25tbF9maE9jT3BwaTVpdUZFVkpCUW01ZjZFZ2VUWklVM0ZNWlRaMUpnVmFiZmdGa0ZWYlpLVDViOXJhaGNTYThNdHdqUG5GVG83anVLZmtDSDQzV3U4WTZYX1k?oc=5"
   },
   {
-   "titulo": "Colombia races for counter-drone tech as militant groups embrace drones as frontline weapons",
-   "fuente": "Breaking Defense",
-   "fecha": "23 nov",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTHdPSXhsUjZWQ1NreU92VjY3cGpldXFNYUxQTU83Wkk1Sk5oVHJhdFdDSkl6WWFkVmFreC03MWFFcW5jTkswMzh6MkdsbHBLRU1lUV9LeDN2b2VtaUtEZl9rN2JHNS1hRUZONmxLZTFaRE1aMGp1LW5CaUlCdzNGVE1hMzdKVVYwanFkSzJzSHllNmZqaVdvZDZWdzRoMGlfR0ZZWUhjNjJqQnp4RUdlc2hsS2RGZG13OEtJN0hrVFRpUTloc2N3ag?oc=5"
+   "titulo": "Transport, Caradonna (Fnm): \"24/7 video surveillance to combat crime\"",
+   "fuente": "jiji press",
+   "fecha": "24 nov",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbERxMW9FVkhud25rSW1sQVVDbHhpSlpwZTAxNHphNDN1YjdtTVh0bktDd1ZmT1h2b05jTUJFUFRVRDRDLTJzM3dBc2Q1ZklwWUdnS1dPRjdKbEZ3QnNVSFI2Z0FZalBsMDJBRVpxWU5WMjNPR0VXRm80cF9DbE1OQkkybDI3UGFjWC1zZE5R?oc=5"
   },
   {
-   "titulo": "Meet the Winners of the 2026 SecurityInfoWatch Readers’ Choice Awards",
-   "fuente": "Security Info Watch",
-   "fecha": "23 nov",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPallqWEZqODNMUHFHenZMYUJvLXRBVVBZZkRObWFkRnkzYlJqTUhsQVFyVU9FSEJmOHd4Nmt5WG5pM3NFVzY4S3h5ZzhKcjVIRkxFdC1DTEJwd1pDQmxGczR1QW9vN0U0WmYxYVYzbzQ0U3VBTXBncXpmWmtidHFiTW9XUFBsMkZXRGRPT3djV2UzRXlmQ1luazZRLVNkTDB1WTdydEFXUjRnaDBFSXcxRzlvaS05aWlVWEUxc0dKMkxWQQ?oc=5"
+   "titulo": "Can Counter-Drone Demand Strengthen Northrop Grumman's Growth?",
+   "fuente": "TradingView",
+   "fecha": "24 nov",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc1BMTWxMWXl0WTlDNUktLXhrRmxFdXI5WjUxS3pCZGdZdjRJVXYtSXdISE56NE9NbTdaV2lyTjducG5obVdPTDAtTUJZSjNaRENZa2NlaGN4dWl5UTNmMnUxdzUyT1MtUFhrRWpRZnluUHFkWjRtVWFReUZTVnE1cVFtLUNtcmJfeVdvV0ZvT19TbXBUc2l4RDVnWWU5aTRoU3FyV3RuZTE5dzB4dVFLODNHdjByTnpG?oc=5"
   },
   {
-   "titulo": "IG Defence Conducts Successful Test of 5-km Range JWALA MK-1 AI-Powered Counter-Drone Micro-Missile System…",
-   "fuente": "Defence.in",
-   "fecha": "23 nov",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVFB0bnNlR3ZRQWNaYk0wYWViZm5vZzlfbjJmYTYzV2RuSkswdkd0TDhEcjg1S1dQc1FoN3ZIdTVMN2pzRDdwUHNIallIRGk5dElpRkJtMW8ybU1pZ1A3VUhCOGUtVUlqZnVFZ1U2dm1Ob0xTQ0xyNGtXbWhrVXFEWlF4QzhwMmdGN09wRWJsYlhCWWRxWC0yZDZvbHlqQ012UEVaSVd4MEZQa0NENGVCZHVSTmNRWkJEUXFGRUVJa1RnX0lRYWx2Zzk4VDFic3EwZXZWand0ZHpPczRCWi1Qcjc5T2QwUQ?oc=5"
+   "titulo": "Romania's OVES Enterprise invests 4 mln euro in counter-drone portfolio",
+   "fuente": "SeeNews",
+   "fecha": "24 nov",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUxhQ3NXNlF5LTVoUE56ZkVLdHhNcmM5RkVOcnFiOGhzOC1fLW1UeWdHSTlqVDVpc0pNWWVPS2FxZzJFTDJ1ME9TRUN4aTBFSXdXUVNRSllhaExGYUN0WjBqWmxFdnJzSU9INmNmdGRCOEpLSmUyY3FncC1mNFJLYXVMOE1PclpmbGRnODBRaDBsQUxVaVFyVEFhTXZyemJGUUxsTEtR?oc=5"
   },
   {
-   "titulo": "“Agentic Threat Actor” Behind Bell Data Breach",
+   "titulo": "India Tests AI-Powered Autonomous Anti-Drone Missile System",
+   "fuente": "OECD AI Policy Observatory",
+   "fecha": "24 nov",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iUXROYWI3OW1WNWd6UnpTR2V0d2R4ZVA2cmwtbGUzTkFtSEdzbWpfNjJUNHhidTRzMFlMOXhQSkVTSHVENTd6OV8ydE45WlNVQ2hYTW5sRQ?oc=5"
+  },
+  {
+   "titulo": "5 Years After Log4j Response, and Recovery Still Falls Short",
    "fuente": "Security Magazine",
-   "fecha": "23 nov",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFJGaDhOR0lLZmk5T2VKT2xGel8yZjk2ZXEyYVV3M3E4OVJHT1EzcWF4bXpQb04ybWg0a2FyeF9GTGZzYkZjQ3I5YkphSEFnOEFaR0gxdFRnRDR4NjNTejlOVnkwbjVPVV9qcjJNNUZQdF9nckVCQWpKQkNfVTFBRkhaQW1QMFdONGZOeEQ2WXd6NktQeUV5aw?oc=5"
-  },
-  {
-   "titulo": "SplitSecure Launches New Access Control Architecture for Humans and AI Agents",
-   "fuente": "Hackread",
-   "fecha": "23 nov",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT1Q0M0JVemxMckJjRWhhYmxyYTljY3Y3MUsyRTlHelFKdm12RlRIN25hVjc3OUpyQURHZklzZ0hsRTBzZDM3ZjR4UGpiY2JvcnFOeFJEaVZSaVFJRGZXMUhhT0NkbnJJb2x3STJCOXl5OEw2UDI4TFZQWDk4WF9hVkpTUWFBQlNpUkktZHdrM1cxUVA4ZXIzYzM0SmQ1MlNp?oc=5"
+   "fecha": "24 nov",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa19PRlU1dlRLX1FUODMwZTM1Q19RbUIzNkY2Qi13T2tNUnBabjFfcHk1TFpiTWh6NW9waUdiYVR0Tjdib3ktNzVXcERfdXVpTWVsSm9rVlFYZmZsVlpUWGlOTzMtZVBoZXBPbUlibXZEdE1OSzZpM2JObkpCYjJKUHpjNDRsaU9uY0taSXlqZ0JYU1N2dlpRd1lNN19WN3ZuZUUyc19CMzZqc1Fk?oc=5"
   }
  ],
- "actualizado": "lunes 23 de noviembre, 17:06"
+ "actualizado": "martes 24 de noviembre, 15:43"
 }
